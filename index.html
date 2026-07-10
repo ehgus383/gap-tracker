@@ -1,29 +1,29 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ko">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>媛?듃?섏빱 ??紐⑺몴二쇨? 愿대━???몃옒而?/title>
-<meta name="description" content="利앷텒??由ы룷??紐⑺몴二쇨?? ?꾩옱媛??嫄곕━瑜?留ㅼ씪 吏묎퀎?⑸땲??">
-<!-- 怨듭쑀 誘몃━蹂닿린(OG) ?쒓렇 ??諛고룷 ??og:url??二쇱냼瑜??ㅼ젣 Pages URL濡?援먯껜??寃?-->
+<title>갭트래커 — 목표주가 괴리율 트래커</title>
+<meta name="description" content="증권사 리포트 목표주가와 현재가의 거리를 매일 집계합니다.">
+<!-- 공유 미리보기(OG) 태그 — 배포 후 og:url의 주소를 실제 Pages URL로 교체할 것 -->
 <meta property="og:type" content="website">
-<meta property="og:title" content="媛?듃?섏빱 ??紐⑺몴二쇨? 愿대━???몃옒而?>
-<meta property="og:description" content="利앷텒??由ы룷??紐⑺몴二쇨?? ?꾩옱媛??嫄곕━瑜?留ㅼ씪 吏묎퀎?⑸땲?? ?ㅻ뒛 ?좊꼸由ъ뒪?몄? ?쒖옣???쒓컖李④? 媛????醫낅ぉ??">
+<meta property="og:title" content="갭트래커 — 목표주가 괴리율 트래커">
+<meta property="og:description" content="증권사 리포트 목표주가와 현재가의 거리를 매일 집계합니다. 오늘 애널리스트와 시장의 시각차가 가장 큰 종목은?">
 <meta property="og:url" content="https://ehgus383.github.io/gap-tracker/">
 <meta property="og:locale" content="ko_KR">
 <meta name="twitter:card" content="summary">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css">
 <style>
   :root{
-    --ink:#1a1d21;          /* 蹂몃Ц ?됲겕 */
-    --sub:#6b7280;          /* 蹂댁“ ?띿뒪??*/
-    --line:#e5e7eb;         /* ?ㅼ뼱?쇱씤 */
-    --paper:#fafafa;        /* ?섏씠吏 諛곌꼍 */
+    --ink:#1a1d21;          /* 본문 잉크 */
+    --sub:#6b7280;          /* 보조 텍스트 */
+    --line:#e5e7eb;         /* 헤어라인 */
+    --paper:#fafafa;        /* 페이지 배경 */
     --card:#ffffff;
-    --up:#d6303a;           /* 援?궡 利앹떆 愿濡: 鍮④컯 = ??*/
+    --up:#d6303a;           /* 국내 증시 관례: 빨강 = 위 */
     --up-soft:#fbeaeb;
-    --down:#1e6bd6;         /* ?뚮옉 = ?꾨옒 */
-    --band:#eef1f4;         /* 媛?諛?諛대뱶 */
+    --down:#1e6bd6;         /* 파랑 = 아래 */
+    --band:#eef1f4;         /* 갭 바 밴드 */
   }
   *{box-sizing:border-box; margin:0; padding:0;}
   html{-webkit-text-size-adjust:100%;}
@@ -34,21 +34,21 @@
   }
   .wrap{max-width:760px; margin:0 auto; padding:28px 16px 60px;}
 
-  /* ?? ?ㅻ뜑 ??????????????????????????? */
+  /* ── 헤더 ─────────────────────────── */
   header{margin-bottom:22px;}
   .brand{display:flex; align-items:baseline; gap:10px; flex-wrap:wrap;}
   .brand h1{font-size:22px; font-weight:800; letter-spacing:-0.02em;}
   .brand .updated{font-size:12.5px; color:var(--sub); font-variant-numeric:tabular-nums;}
   .tagline{font-size:13.5px; color:var(--sub); margin-top:4px;}
 
-  /* ?? ?붿빟 移대뱶 ?????????????????????? */
+  /* ── 요약 카드 ────────────────────── */
   .stats{display:grid; grid-template-columns:repeat(3,1fr); gap:10px; margin:18px 0;}
   .stat{background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 14px;}
   .stat .label{font-size:12px; color:var(--sub);}
   .stat .value{font-size:20px; font-weight:700; font-variant-numeric:tabular-nums; margin-top:2px;}
   @media (max-width:480px){ .stats{grid-template-columns:repeat(3,1fr); gap:8px;} .stat .value{font-size:17px;} }
 
-  /* ?? ?곸쐞/?섏쐞 ????????????????????? */
+  /* ── 상위/하위 탭 ─────────────────── */
   .tabs{display:flex; gap:0; border:1px solid var(--line); border-radius:9px; overflow:hidden; background:var(--card); width:fit-content; margin-bottom:10px;}
   .tabs button{
     font:inherit; font-size:13.5px; font-weight:600; padding:8px 16px;
@@ -58,7 +58,7 @@
   .tabs button:focus-visible{outline:2px solid var(--ink); outline-offset:-2px;}
   .view-note{font-size:12.5px; color:var(--sub); margin:-2px 0 12px;}
 
-  /* ?? 而⑦듃濡?????????????????????????? */
+  /* ── 컨트롤 ───────────────────────── */
   .controls{display:flex; gap:8px; align-items:center; flex-wrap:wrap; margin-bottom:12px;}
   .controls select{
     font:inherit; font-size:13.5px; padding:7px 10px;
@@ -72,7 +72,7 @@
   .toggle input{accent-color:var(--ink); width:15px; height:15px; cursor:pointer;}
   .count-note{font-size:12.5px; color:var(--sub); margin-left:auto;}
 
-  /* ?? 醫낅ぉ 移대뱶 由ъ뒪????????????????? */
+  /* ── 종목 카드 리스트 ─────────────── */
   .row{
     background:var(--card); border:1px solid var(--line); border-radius:12px;
     margin-bottom:10px; overflow:hidden;
@@ -95,7 +95,7 @@
   .badge.multi{background:#eef4ea; color:#3e6b2f;}
   .badge.warn{background:#fdf3e0; color:#9a6b1a;}
 
-  /* 媛?諛? ?꾩옱媛 ??紐⑺몴 諛대뱶 嫄곕━ ?쒓컖??*/
+  /* 갭 바: 현재가 → 목표 밴드 거리 시각화 */
   .gapbar{position:relative; height:34px;}
   .gapbar .track{position:absolute; left:0; right:0; top:15px; height:4px; background:var(--band); border-radius:2px;}
   .gapbar .bandfill{position:absolute; top:15px; height:4px; background:#d9dee4; border-radius:2px;}
@@ -110,7 +110,7 @@
   .gap-cell .pct.neg{color:var(--down);}
   .gap-cell .chev{font-size:11px; color:var(--sub);}
 
-  /* ?쇱묠 ?곸뿭: 由ы룷??洹쇨굅 */
+  /* 펼침 영역: 리포트 근거 */
   .row-detail{display:none; border-top:1px solid var(--line); background:#fcfcfc; padding:10px 16px 14px;}
   .row.open .row-detail{display:block;}
   .report{
@@ -123,7 +123,7 @@
   .report .tp{font-weight:700; flex-shrink:0; font-variant-numeric:tabular-nums;}
   .range-note{font-size:12px; color:var(--sub); margin-top:8px; font-variant-numeric:tabular-nums;}
 
-  /* ?? 援щ룆 / 硫댁콉 ???????????????????? */
+  /* ── 구독 / 면책 ──────────────────── */
   .subscribe{
     background:var(--card); border:1px solid var(--line); border-radius:12px;
     padding:18px 16px; margin:26px 0 14px; text-align:center;
@@ -143,72 +143,72 @@
 <div class="wrap">
   <header>
     <div class="brand">
-      <h1>媛?듃?섏빱</h1>
+      <h1>갭트래커</h1>
       <span class="updated" id="updated"></span>
     </div>
-    <p class="tagline">利앷텒??由ы룷??紐⑺몴二쇨?? ?꾩옱媛??嫄곕━瑜?留ㅼ씪 吏묎퀎?⑸땲??/p>
+    <p class="tagline">증권사 리포트 목표주가와 현재가의 거리를 매일 집계합니다</p>
   </header>
 
   <div class="stats" id="stats" hidden>
-    <div class="stat"><div class="label">吏묎퀎 醫낅ぉ</div><div class="value" id="stat-count">??/div></div>
-    <div class="stat"><div class="label">?됯퇏 愿대━??/div><div class="value" id="stat-avg">??/div></div>
-    <div class="stat"><div class="label">理쒕? 愿대━??/div><div class="value" id="stat-max">??/div></div>
+    <div class="stat"><div class="label">집계 종목</div><div class="value" id="stat-count">–</div></div>
+    <div class="stat"><div class="label">평균 괴리율</div><div class="value" id="stat-avg">–</div></div>
+    <div class="stat"><div class="label">최대 괴리율</div><div class="value" id="stat-max">–</div></div>
   </div>
 
-  <div class="tabs" id="tabs" hidden role="tablist" aria-label="愿대━??諛⑺뼢">
-    <button type="button" class="active" data-view="high" role="tab" aria-selected="true">愿대━???곸쐞</button>
-    <button type="button" data-view="low" role="tab" aria-selected="false">愿대━???섏쐞</button>
+  <div class="tabs" id="tabs" hidden role="tablist" aria-label="괴리율 방향">
+    <button type="button" class="active" data-view="high" role="tab" aria-selected="true">괴리율 상위</button>
+    <button type="button" data-view="low" role="tab" aria-selected="false">괴리율 하위</button>
   </div>
   <p class="view-note" id="viewNote" hidden></p>
 
   <div class="controls" id="controls" hidden>
-    <select id="sort" aria-label="?뺣젹 湲곗?">
-      <option value="gap">愿대━???믪? ??/option>
-      <option value="reports">由ы룷??留롮? ??/option>
-      <option value="name">醫낅ぉ紐???/option>
+    <select id="sort" aria-label="정렬 기준">
+      <option value="gap">괴리율 높은 순</option>
+      <option value="reports">리포트 많은 순</option>
+      <option value="name">종목명 순</option>
     </select>
-    <label class="toggle"><input type="checkbox" id="multiOnly"> 由ы룷??2嫄??댁긽留?/label>
-    <label class="toggle"><input type="checkbox" id="hideSuspect" checked> 寃利??꾩슂 ?쒖쇅</label>
+    <label class="toggle"><input type="checkbox" id="multiOnly"> 리포트 2건 이상만</label>
+    <label class="toggle"><input type="checkbox" id="hideSuspect" checked> 검증 필요 제외</label>
     <span class="count-note" id="countNote"></span>
   </div>
 
-  <div id="list"><div class="loading">?곗씠?곕? 遺덈윭?ㅻ뒗 以묅?/div></div>
+  <div id="list"><div class="loading">데이터를 불러오는 중…</div></div>
 
   <div class="subscribe">
-    <h2>二쇨컙 愿대━??釉뚮━??/h2>
-    <p>留ㅼ＜ ??踰? 愿대━??蹂?붿? ?좉퇋 吏꾩엯 醫낅ぉ???대찓?쇰줈 ?뺣━???쒕┰?덈떎.</p>
-    <!-- TODO: ?ㅽ떚鍮?媛?????꾨옒 href瑜??ㅼ젣 援щ룆 ?섏씠吏 二쇱냼濡?援먯껜 -->
-    <a class="btn" href="#" onclick="alert('援щ룆 ?섏씠吏 以鍮?以묒엯?덈떎.'); return false;">援щ룆 ?좎껌</a>
+    <h2>주간 괴리율 브리핑</h2>
+    <p>매주 한 번, 괴리율 변화와 신규 진입 종목을 이메일로 정리해 드립니다.</p>
+    <!-- TODO: 스티비 가입 후 아래 href를 실제 구독 페이지 주소로 교체 -->
+    <a class="btn" href="#" onclick="alert('구독 페이지 준비 중입니다.'); return false;">구독 신청</a>
   </div>
 
   <p class="disclaimer">
-    蹂??ъ씠?몃뒗 怨듦컻??利앷텒??由ы룷???곗씠?곕? 吏묎퀎쨌?뺣━??寃껋쑝濡??뱀젙 醫낅ぉ??????ъ옄 沅뚯쑀媛 ?꾨떃?덈떎.
-    愿대━?⑥씠 ?щ떎??寃껋씠 二쇨? ?곸듅???섎??섏? ?딆쑝硫? 紐⑺몴二쇨???諛쒗뻾 ?쒖젏???좊꼸由ъ뒪???섍껄?낅땲??
-    ?ъ옄 ?먮떒怨?洹?寃곌낵?????梨낆엫? ?댁슜??蹂몄씤?먭쾶 ?덉뒿?덈떎.
-    ?곗씠???섏쭛 怨쇱젙???ㅻ쪟??吏?곗씠 ?덉쓣 ???덉뒿?덈떎.
+    본 사이트는 공개된 증권사 리포트 데이터를 집계·정리한 것으로 특정 종목에 대한 투자 권유가 아닙니다.
+    괴리율이 크다는 것이 주가 상승을 의미하지 않으며, 목표주가는 발행 시점의 애널리스트 의견입니다.
+    투자 판단과 그 결과에 대한 책임은 이용자 본인에게 있습니다.
+    데이터 수집 과정의 오류나 지연이 있을 수 있습니다.
   </p>
 </div>
 
 <script>
 const fmt = n => n.toLocaleString("ko-KR");
 let DATA = null;
-let VIEW = "high";  /* high = 愿대━???곸쐞, low = ?섏쐞 */
+let VIEW = "high";  /* high = 괴리율 상위, low = 하위 */
 
 async function load(){
   try{
     const res = await fetch("data.json", {cache:"no-store"});
     if(!res.ok) throw new Error("HTTP " + res.status);
     DATA = await res.json();
-    document.getElementById("updated").textContent = DATA.updated_at + " 媛깆떊";
+    document.getElementById("updated").textContent = DATA.updated_at + " 갱신";
     document.getElementById("stats").hidden = false;
     document.getElementById("tabs").hidden = false;
     document.getElementById("controls").hidden = false;
     render();
   }catch(e){
     document.getElementById("list").innerHTML =
-      '<div class="error">data.json??遺덈윭?ㅼ? 紐삵뻽?듬땲??<br>' +
-      '濡쒖뺄?먯꽌 ?щ뒗 寃쎌슦 ?뚯씪???붾툝?대┃?섏? 留먭퀬, ?곕??먯뿉??br>' +
-      '<code>python -m http.server</code> ?ㅽ뻾 ??<code>http://localhost:8000</code>?쇰줈 ?묒냽?섏꽭??</div>';
+      '<div class="error">data.json을 불러오지 못했습니다.<br>' +
+      '로컬에서 여는 경우 파일을 더블클릭하지 말고, 터미널에서<br>' +
+      '<code>python -m http.server</code> 실행 후 <code>http://localhost:8000</code>으로 접속하세요.</div>';
   }
 }
 
@@ -228,24 +228,24 @@ function render(){
 
   const note = document.getElementById("viewNote");
   note.hidden = VIEW !== "low";
-  note.textContent = "紐⑺몴二쇨?媛 ?꾩옱媛? 媛源앷굅????? 醫낅ぉ ???좊꼸由ъ뒪?멸? ?곷??곸쑝濡??좎쨷?섍쾶 蹂대뒗 援ш컙?낅땲??";
+  note.textContent = "목표주가가 현재가와 가깝거나 낮은 종목 — 애널리스트가 상대적으로 신중하게 보는 구간입니다.";
 
-  /* ?붿빟 吏?쒕뒗 ?꾩옱 ?꾪꽣 湲곗??쇰줈 怨꾩궛 */
+  /* 요약 지표는 현재 필터 기준으로 계산 */
   const avg = rows.length ? rows.reduce((s,r)=>s+r.gap_pct,0)/rows.length : 0;
   const max = rows.length ? Math.max(...rows.map(r=>r.gap_pct)) : 0;
-  document.getElementById("stat-count").textContent = rows.length + "媛?;
+  document.getElementById("stat-count").textContent = rows.length + "개";
   document.getElementById("stat-avg").textContent = (avg>=0?"+":"") + avg.toFixed(1) + "%";
   document.getElementById("stat-max").textContent = (max>=0?"+":"") + max.toFixed(1) + "%";
-  document.getElementById("countNote").textContent = rows.length + "醫낅ぉ ?쒖떆 以?;
+  document.getElementById("countNote").textContent = rows.length + "종목 표시 중";
 
   const list = document.getElementById("list");
   if(!rows.length){
-    list.innerHTML = '<div class="loading">議곌굔??留욌뒗 醫낅ぉ???놁뒿?덈떎. ?꾪꽣瑜??댁젣??蹂댁꽭??</div>';
+    list.innerHTML = '<div class="loading">조건에 맞는 종목이 없습니다. 필터를 해제해 보세요.</div>';
     return;
   }
 
   list.innerHTML = rows.map((r, i) => {
-    /* 媛?諛?醫뚰몴: 0% = 0?? 100% = 紐⑺몴理쒓퀬媛??105% */
+    /* 갭 바 좌표: 0% = 0원, 100% = 목표최고가의 105% */
     const span = r.target_max * 1.05;
     const px = v => Math.min(97, Math.max(3, v / span * 100));
     const curX  = px(r.current_price);
@@ -254,20 +254,20 @@ function render(){
     const avgX  = px(r.target_avg);
     const negCls = r.gap_pct < 0 ? " neg" : "";
     const badge = (r.report_count >= 2
-      ? '<span class="badge multi">由ы룷??' + r.report_count + '嫄?/span>'
-      : '<span class="badge">由ы룷??1嫄?/span>')
-      + (r.suspect ? '<span class="badge warn" title="愿대━?⑥씠 鍮꾩젙?곸쟻?쇰줈 而ㅼ꽌 紐⑺몴媛媛 理쒖떊 ?곹솴??諛섏쁺?섏? 紐삵뻽?????덉뒿?덈떎">寃利??꾩슂</span>' : '');
+      ? '<span class="badge multi">리포트 ' + r.report_count + '건</span>'
+      : '<span class="badge">리포트 1건</span>')
+      + (r.suspect ? '<span class="badge warn" title="괴리율이 비정상적으로 커서 목표가가 최신 상황을 반영하지 못했을 수 있습니다">검증 필요</span>' : '');
 
     const reports = r.reports.map(rep =>
       '<div class="report">' +
         '<span class="t">' + esc(rep.title) + '</span>' +
-        '<span class="src">' + esc(rep.broker) + ' 쨌 ' + esc(rep.date) + '</span>' +
+        '<span class="src">' + esc(rep.broker) + ' · ' + esc(rep.date) + '</span>' +
         '<span class="tp">' + fmt(rep.target_price) + '</span>' +
       '</div>'
     ).join("");
 
     const rangeNote = r.report_count >= 2
-      ? '<div class="range-note">紐⑺몴媛 踰붿쐞 ' + fmt(r.target_min) + ' ~ ' + fmt(r.target_max) + ' 쨌 ?됯퇏 ' + fmt(r.target_avg) + '</div>'
+      ? '<div class="range-note">목표가 범위 ' + fmt(r.target_min) + ' ~ ' + fmt(r.target_max) + ' · 평균 ' + fmt(r.target_avg) + '</div>'
       : '';
 
     return (
@@ -275,20 +275,20 @@ function render(){
       '<div class="row-main" role="button" tabindex="0" aria-expanded="false" onclick="toggleRow(this)" onkeydown="if(event.key===\'Enter\'||event.key===\' \'){event.preventDefault();toggleRow(this);}">' +
         '<div class="name-cell">' +
           '<div class="rank">' + String(i+1).padStart(2,"0") + '</div>' +
-          '<div class="name"><a href="https://finance.naver.com/item/main.naver?code=' + esc(r.code) + '" target="_blank" rel="noopener" onclick="event.stopPropagation()" title="?ㅼ씠踰?湲덉쑖?먯꽌 蹂닿린">' + esc(r.name) + '</a>' + badge + '</div>' +
-          '<div class="meta">?꾩옱媛 ' + fmt(r.current_price) + '</div>' +
+          '<div class="name"><a href="https://finance.naver.com/item/main.naver?code=' + esc(r.code) + '" target="_blank" rel="noopener" onclick="event.stopPropagation()" title="네이버 금융에서 보기">' + esc(r.name) + '</a>' + badge + '</div>' +
+          '<div class="meta">현재가 ' + fmt(r.current_price) + '</div>' +
         '</div>' +
         '<div class="gapbar" aria-hidden="true">' +
           '<div class="track"></div>' +
           '<div class="bandfill" style="left:' + minX + '%; width:' + Math.max(0.6, maxX-minX) + '%;"></div>' +
           '<div class="cur" style="left:' + curX + '%;"></div>' +
           '<div class="tgt" style="left:' + avgX + '%;"></div>' +
-          '<div class="lab-cur" style="left:' + curX + '%;">?꾩옱 ' + fmt(r.current_price) + '</div>' +
-          '<div class="lab-tgt" style="left:' + avgX + '%;">紐⑺몴 ' + fmt(r.target_avg) + '</div>' +
+          '<div class="lab-cur" style="left:' + curX + '%;">현재 ' + fmt(r.current_price) + '</div>' +
+          '<div class="lab-tgt" style="left:' + avgX + '%;">목표 ' + fmt(r.target_avg) + '</div>' +
         '</div>' +
         '<div class="gap-cell">' +
           '<div class="pct' + negCls + '">' + (r.gap_pct>=0?"+":"") + r.gap_pct.toFixed(1) + '%</div>' +
-          '<div class="chev">洹쇨굅 蹂닿린 ??/div>' +
+          '<div class="chev">근거 보기 ▾</div>' +
         '</div>' +
       '</div>' +
       '<div class="row-detail">' + reports + rangeNote + '</div>' +
@@ -300,7 +300,7 @@ function toggleRow(el){
   const row = el.closest(".row");
   row.classList.toggle("open");
   el.setAttribute("aria-expanded", row.classList.contains("open"));
-  el.querySelector(".chev").textContent = row.classList.contains("open") ? "?묎린 ?? : "洹쇨굅 蹂닿린 ??;
+  el.querySelector(".chev").textContent = row.classList.contains("open") ? "접기 ▴" : "근거 보기 ▾";
 }
 
 function esc(s){
@@ -317,7 +317,7 @@ document.querySelectorAll("#tabs button").forEach(btn => {
       b.classList.toggle("active", b === btn);
       b.setAttribute("aria-selected", b === btn);
     });
-    /* ?섏쐞 ??뿉?쒕뒗 ?뺣젹??愿대━??湲곗??쇰줈 ?섎룎??諛⑺뼢??蹂댁씠寃???*/
+    /* 하위 탭에서는 정렬을 괴리율 기준으로 되돌려 방향이 보이게 함 */
     document.getElementById("sort").value = "gap";
     render();
   });
@@ -326,4 +326,3 @@ load();
 </script>
 </body>
 </html>
-
