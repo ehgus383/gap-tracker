@@ -30,9 +30,12 @@ import sys
 import time
 from datetime import datetime, timedelta
 from urllib.parse import urljoin
+from zoneinfo import ZoneInfo
 
 import requests
 from bs4 import BeautifulSoup
+
+KST = ZoneInfo("Asia/Seoul")
 
 # ──────────────────────────────────────────────────────────────
 # 0. 설정값 — 나중에 바꿀 일이 있으면 여기만 건드리면 됨
@@ -187,8 +190,8 @@ def fetch_current_prices(codes):
     PyKrx는 '가장 최근 거래일' 종가를 준다. (장중 실시간 아님 — MVP에는 충분)"""
     from pykrx import stock  # 여기서 import: pykrx 없이도 --inspect는 돌게 하기 위함
 
-    today = datetime.now().strftime("%Y%m%d")
-    week_ago = (datetime.now() - timedelta(days=7)).strftime("%Y%m%d")
+    today = datetime.now(KST).strftime("%Y%m%d")
+    week_ago = (datetime.now(KST) - timedelta(days=7)).strftime("%Y%m%d")
     prices = {}
     for code in codes:
         try:
@@ -300,7 +303,9 @@ def save_history(history):
 
 def crawl():
     # (1) 목록 페이지 수집 — 작성일이 CONSENSUS_WINDOW_DAYS보다 오래되면 중단
-    cutoff_date = datetime.now() - timedelta(days=CONSENSUS_WINDOW_DAYS)
+    # parse_report_date()는 시간대 정보 없는(naive) datetime을 반환하므로
+    # (작성일 문자열에 시간이 없음) cutoff_date도 naive로 맞춘다 — KST 벽시계 기준.
+    cutoff_date = datetime.now(KST).replace(tzinfo=None) - timedelta(days=CONSENSUS_WINDOW_DAYS)
     all_reports = []
     for page in range(1, MAX_PAGES + 1):
         print(f"[crawl] 목록 {page}페이지 요청...")
@@ -367,7 +372,7 @@ def crawl():
     # (4) 괴리율 계산 + 저장
     rows = build_dataset(all_reports, prices)
     output = {
-        "updated_at": datetime.now().strftime("%Y-%m-%d %H:%M"),
+        "updated_at": datetime.now(KST).strftime("%Y-%m-%d %H:%M"),
         "count": len(rows),
         "rows": rows,
     }

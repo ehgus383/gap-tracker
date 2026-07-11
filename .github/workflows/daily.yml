@@ -6,6 +6,7 @@ on:
 
 permissions:
   contents: write
+  pages: write
 
 jobs:
   update:
@@ -25,3 +26,9 @@ jobs:
           git diff --cached --quiet || git commit -m "data update $(date +'%Y-%m-%d')"
           git pull --rebase origin main
           git push
+      - name: trigger pages rebuild
+        run: |
+          curl -s -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/pages/builds
