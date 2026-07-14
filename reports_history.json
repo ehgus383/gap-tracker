@@ -25527,5 +25527,663 @@
     "target_price": null,
     "listed_target_price": null,
     "source": "hankyung"
+  },
+  "94175": {
+    "code": "078340",
+    "name": "컴투스",
+    "title": "3분기 대형 IP 대기 중",
+    "broker": "한화투자증권",
+    "date": "26.07.14",
+    "target_price": 45000,
+    "source": "naver"
+  },
+  "94174": {
+    "code": "004020",
+    "name": "현대제철",
+    "title": "2Q26 Preview: 기대는 낮추고, 방향은 유지",
+    "broker": "한화투자증권",
+    "date": "26.07.14",
+    "target_price": 43000,
+    "source": "naver"
+  },
+  "94173": {
+    "code": "006360",
+    "name": "GS건설",
+    "title": "2Q26 Preview: 순항중인 건축주택 수주",
+    "broker": "교보증권",
+    "date": "26.07.14",
+    "target_price": 34000,
+    "source": "naver"
+  },
+  "94172": {
+    "code": "066570",
+    "name": "LG전자",
+    "title": "엔비디아와의 AI동맹 확대",
+    "broker": "교보증권",
+    "date": "26.07.14",
+    "target_price": 350000,
+    "source": "naver"
+  },
+  "94171": {
+    "code": "035720",
+    "name": "카카오",
+    "title": "카나나 서비스의 가능성 증명 필요",
+    "broker": "교보증권",
+    "date": "26.07.14",
+    "target_price": 57000,
+    "source": "naver"
+  },
+  "94170": {
+    "code": "251270",
+    "name": "넷마블",
+    "title": "낮아진 눈높이에서 아직은 제한된 시야",
+    "broker": "교보증권",
+    "date": "26.07.14",
+    "target_price": 61000,
+    "source": "naver"
+  },
+  "94169": {
+    "code": "011780",
+    "name": "금호석유화학",
+    "title": "2026년 이익 증가율 YoY +91% vs. 주가는 제..",
+    "broker": "하나증권",
+    "date": "26.07.14",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "94168": {
+    "code": "003490",
+    "name": "대한항공",
+    "title": "2Q26 Re: 유류비가 두배인데 영업이익 서프라..",
+    "broker": "하나증권",
+    "date": "26.07.14",
+    "target_price": 41000,
+    "source": "naver"
+  },
+  "94167": {
+    "code": "078520",
+    "name": "에이블씨엔씨",
+    "title": "글로벌 모멘텀 본격화",
+    "broker": "하나증권",
+    "date": "26.07.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94166": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "정책 방향이 바뀐다",
+    "broker": "하나증권",
+    "date": "26.07.14",
+    "target_price": 45000,
+    "source": "naver"
+  },
+  "94165": {
+    "code": "030200",
+    "name": "KT",
+    "title": "2Q 프리뷰 - 배당 증가 기대감 낮아질 전망",
+    "broker": "하나증권",
+    "date": "26.07.14",
+    "target_price": 76000,
+    "source": "naver"
+  },
+  "94164": {
+    "code": "012330",
+    "name": "현대모비스",
+    "title": "2분기 프리뷰: 부합 전망. 로봇 부품도 일정..",
+    "broker": "하나증권",
+    "date": "26.07.14",
+    "target_price": 770000,
+    "source": "naver"
+  },
+  "94163": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "수주 모멘텀 가속, 이익 레벨 상향",
+    "broker": "유안타증권",
+    "date": "26.07.14",
+    "target_price": 300000,
+    "source": "naver"
+  },
+  "94162": {
+    "code": "298040",
+    "name": "효성중공업",
+    "title": "과도한 주가 조정, 확인되는 이익 체력",
+    "broker": "유안타증권",
+    "date": "26.07.14",
+    "target_price": 5000000,
+    "source": "naver"
+  },
+  "94161": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "성장 축 확장, 실적 가시성 유효",
+    "broker": "유안타증권",
+    "date": "26.07.14",
+    "target_price": 1450000,
+    "source": "naver"
+  },
+  "94160": {
+    "code": "062040",
+    "name": "산일전기",
+    "title": "낮아진 주가, 변하지 않은 성장성",
+    "broker": "유안타증권",
+    "date": "26.07.14",
+    "target_price": 360000,
+    "source": "naver"
+  },
+  "94159": {
+    "code": "103590",
+    "name": "일진전기",
+    "title": "이익 구조는 견조, 눈높이는 조정",
+    "broker": "유안타증권",
+    "date": "26.07.14",
+    "target_price": 125000,
+    "source": "naver"
+  },
+  "94158": {
+    "code": "001440",
+    "name": "대한전선",
+    "title": "단기 부담은 완화, 해저·HVDC 레퍼런스 확대",
+    "broker": "유안타증권",
+    "date": "26.07.14",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "94157": {
+    "code": "064350",
+    "name": "현대로템",
+    "title": "2Q26 Preview: 컨센서스 하회 전망",
+    "broker": "대신증권",
+    "date": "26.07.14",
+    "target_price": 280000,
+    "source": "naver"
+  },
+  "94156": {
+    "code": "030000",
+    "name": "제일기획",
+    "title": "캡티브 부담, 비계열은 양호",
+    "broker": "대신증권",
+    "date": "26.07.14",
+    "target_price": 27000,
+    "source": "naver"
+  },
+  "94155": {
+    "code": "214320",
+    "name": "이노션",
+    "title": "월드컵은 끝, 실적은 시작",
+    "broker": "대신증권",
+    "date": "26.07.14",
+    "target_price": 27000,
+    "source": "naver"
+  },
+  "94154": {
+    "code": "089860",
+    "name": "롯데렌탈",
+    "title": "매력적인 포트폴리오,저평가 그래서 관심이 ..",
+    "broker": "대신증권",
+    "date": "26.07.14",
+    "target_price": 46000,
+    "source": "naver"
+  },
+  "94153": {
+    "code": "004020",
+    "name": "현대제철",
+    "title": "상저하고의 실적 흐름, 신수요 가시성 확대 ..",
+    "broker": "미래에셋증권",
+    "date": "26.07.14",
+    "target_price": 47000,
+    "source": "naver"
+  },
+  "94152": {
+    "code": "318060",
+    "name": "그래피",
+    "title": "레이 인수자금 용도로 추정되는 자금조달 결..",
+    "broker": "미래에셋증권",
+    "date": "26.07.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94151": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "국내 법인 호실적 예상",
+    "broker": "SK증권",
+    "date": "26.07.14",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "94150": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "팔랑귀 팔랑귀 할 만큼 좋은 실적",
+    "broker": "유진투자증권",
+    "date": "26.07.14",
+    "target_price": 340000,
+    "source": "naver"
+  },
+  "94149": {
+    "code": "329180",
+    "name": "HD현대중공업",
+    "title": "엔진 캐파 증설해 주실 거죠?",
+    "broker": "SK증권",
+    "date": "26.07.14",
+    "target_price": 970000,
+    "source": "naver"
+  },
+  "94148": {
+    "code": "383220",
+    "name": "F&F",
+    "title": "2Q26 Preview: 내수, 외국인, 위안화",
+    "broker": "유진투자증권",
+    "date": "26.07.14",
+    "target_price": 100000,
+    "source": "naver"
+  },
+  "94147": {
+    "code": "127120",
+    "name": "제이에스링크",
+    "title": "높아지는 중희토류 가치",
+    "broker": "SK증권",
+    "date": "26.07.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94146": {
+    "code": "278470",
+    "name": "에이피알",
+    "title": "2Q26 Preview: A++",
+    "broker": "유진투자증권",
+    "date": "26.07.14",
+    "target_price": 510000,
+    "source": "naver"
+  },
+  "94145": {
+    "code": "096770",
+    "name": "SK이노베이션",
+    "title": "정유/윤활유 호조에 E&S 이익 체력도 레벨업",
+    "broker": "iM증권",
+    "date": "26.07.14",
+    "target_price": 190000,
+    "source": "naver"
+  },
+  "94144": {
+    "code": "071050",
+    "name": "한국금융지주",
+    "title": "2Q26 Preview: 연간 이익 3조원, 너무 저평가..",
+    "broker": "SK증권",
+    "date": "26.07.14",
+    "target_price": 410000,
+    "source": "naver"
+  },
+  "94143": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "title": "시선을 약간만 아래로",
+    "broker": "미래에셋증권",
+    "date": "26.07.14",
+    "target_price": 4200000,
+    "source": "naver"
+  },
+  "94142": {
+    "code": "016360",
+    "name": "삼성증권",
+    "title": "2Q26 Preview: 높아진 거래대금, 실적도 레벨..",
+    "broker": "SK증권",
+    "date": "26.07.14",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "94141": {
+    "code": "290650",
+    "name": "엘앤씨바이오",
+    "title": "가늠할 수 없는 산업 확장성",
+    "broker": "신한투자증권",
+    "date": "26.07.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94140": {
+    "code": "336260",
+    "name": "두산퓨얼셀",
+    "title": "미국 데이터센터 전력 공급 업체로 재평가될 ..",
+    "broker": "유진투자증권",
+    "date": "26.07.14",
+    "target_price": 80000,
+    "source": "naver"
+  },
+  "94139": {
+    "code": "039130",
+    "name": "하나투어",
+    "title": "비우호적인 영업 환경",
+    "broker": "신한투자증권",
+    "date": "26.07.14",
+    "target_price": 46000,
+    "source": "naver"
+  },
+  "94138": {
+    "code": "047040",
+    "name": "대우건설",
+    "title": "2개분기 연속 기대 이상의 수익성",
+    "broker": "신한투자증권",
+    "date": "26.07.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94137": {
+    "code": "194480",
+    "name": "데브시스터즈",
+    "title": "무너진 실적과 신뢰",
+    "broker": "신한투자증권",
+    "date": "26.07.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94136": {
+    "code": "192080",
+    "name": "더블유게임즈",
+    "title": "신사업 비중 확대 지속",
+    "broker": "신한투자증권",
+    "date": "26.07.14",
+    "target_price": 100000,
+    "source": "naver"
+  },
+  "94135": {
+    "code": "067160",
+    "name": "SOOP",
+    "title": "후원 매출 반등, 신규 콘텐츠 발굴이 숙제",
+    "broker": "신한투자증권",
+    "date": "26.07.14",
+    "target_price": 70000,
+    "source": "naver"
+  },
+  "94134": {
+    "code": "375500",
+    "name": "DL이앤씨",
+    "title": "기우를 떨쳐내면 보이는 높은 주가 업사이드",
+    "broker": "키움증권",
+    "date": "26.07.14",
+    "target_price": 120000,
+    "source": "naver"
+  },
+  "94133": {
+    "code": "047040",
+    "name": "대우건설",
+    "title": "실적 컨센서스 상회 전망, AI 인프라 확대 수..",
+    "broker": "키움증권",
+    "date": "26.07.14",
+    "target_price": 23000,
+    "source": "naver"
+  },
+  "94132": {
+    "code": "010950",
+    "name": "S-Oil",
+    "title": "16~18년도 과거의 영광을 다시 마주할 시기",
+    "broker": "iM증권",
+    "date": "26.07.14",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "94131": {
+    "code": "000810",
+    "name": "삼성화재",
+    "title": "전자 지분가치 반영에 대한 고민",
+    "broker": "iM증권",
+    "date": "26.07.14",
+    "target_price": 740000,
+    "source": "naver"
+  },
+  "94130": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "본업보다는 전자 지분과 계열사가 핵심",
+    "broker": "iM증권",
+    "date": "26.07.14",
+    "target_price": 380000,
+    "source": "naver"
+  },
+  "94129": {
+    "code": "112290",
+    "name": "와이씨켐",
+    "title": "턴어라운드를 넘어",
+    "broker": "키움증권",
+    "date": "26.07.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94128": {
+    "code": "462870",
+    "name": "시프트업",
+    "title": "신작 공개를 통한 레벨업",
+    "broker": "키움증권",
+    "date": "26.07.14",
+    "target_price": 65000,
+    "source": "naver"
+  },
+  "94127": {
+    "code": "012330",
+    "name": "현대모비스",
+    "title": "2분기는 기대 이상, 하반기는 리스크 확대 우..",
+    "broker": "키움증권",
+    "date": "26.07.14",
+    "target_price": 700000,
+    "source": "naver"
+  },
+  "94126": {
+    "code": "069080",
+    "name": "웹젠",
+    "title": "주주환원에 진심인 게임사",
+    "broker": "한국IR협의회",
+    "date": "26.07.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94125": {
+    "code": "012330",
+    "name": "현대모비스",
+    "title": "2Q26 프리뷰: 호실적 이후에는 다시 로봇",
+    "broker": "미래에셋증권",
+    "date": "26.07.14",
+    "target_price": 920000,
+    "source": "naver"
+  },
+  "94124": {
+    "code": "000270",
+    "name": "기아",
+    "title": "2Q26 프리뷰: 양호한 실적, 뛰어난 xEV 경쟁..",
+    "broker": "미래에셋증권",
+    "date": "26.07.14",
+    "target_price": 240000,
+    "source": "naver"
+  },
+  "hk:650745": {
+    "code": "096770",
+    "name": "SK이노베이션",
+    "title": "SK이노베이션(096770) 호실적, Trading Buy 접근 유효",
+    "broker": "LS증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 126000,
+    "source": "hankyung"
+  },
+  "hk:650744": {
+    "code": "033780",
+    "name": "KT&G",
+    "title": "KT&G(033780) 흔들림 없는 이익, 그리고 주주환원",
+    "broker": "LS증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 230000,
+    "source": "hankyung"
+  },
+  "hk:650743": {
+    "code": "010950",
+    "name": "S-Oil",
+    "title": "S-Oil(010950) 16~18년도 과거의 영광을 다시 마주할 시기",
+    "broker": "iM증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 170000,
+    "source": "hankyung"
+  },
+  "hk:650742": {
+    "code": "096770",
+    "name": "SK이노베이션",
+    "title": "SK이노베이션(096770) 정유/윤활유 호조에 E&S 이익 체력도 레벨업",
+    "broker": "iM증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 190000,
+    "source": "hankyung"
+  },
+  "hk:650741": {
+    "code": "000810",
+    "name": "삼성화재",
+    "title": "삼성화재(000810) 전자 지분가치 반영에 대한 고민",
+    "broker": "iM증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 740000,
+    "source": "hankyung"
+  },
+  "hk:650740": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "삼성생명(032830) 본업보다는 전자 지분과 계열사가 핵심",
+    "broker": "iM증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 380000,
+    "source": "hankyung"
+  },
+  "hk:650733": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "한국콜마(161890) 국내 법인 호실적 예상",
+    "broker": "SK증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 140000,
+    "source": "hankyung"
+  },
+  "hk:650732": {
+    "code": "329180",
+    "name": "HD현대중공업",
+    "title": "HD현대중공업(329180) 엔진 캐파 증설해 주실 거죠?",
+    "broker": "SK증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 970000,
+    "source": "hankyung"
+  },
+  "hk:650731": {
+    "code": "071050",
+    "name": "한국금융지주",
+    "title": "한국금융지주(071050) 2Q26 Preview: 연간 이익 3조원, 너무 저평가 아닌가?",
+    "broker": "SK증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 410000,
+    "source": "hankyung"
+  },
+  "hk:650730": {
+    "code": "016360",
+    "name": "삼성증권",
+    "title": "삼성증권(016360) 2Q26 Preview: 높아진 거래대금, 실적도 레벨업",
+    "broker": "SK증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 170000,
+    "source": "hankyung"
+  },
+  "hk:650729": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "LS ELECTRIC(010120) 수주 모멘텀 가속, 이익 레벨 상향",
+    "broker": "유안타증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 300000,
+    "source": "hankyung"
+  },
+  "hk:650728": {
+    "code": "298040",
+    "name": "효성중공업",
+    "title": "효성중공업(298040) 과도한 주가 조정, 확인되는 이익 체력",
+    "broker": "유안타증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 5000000,
+    "source": "hankyung"
+  },
+  "hk:650727": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "HD현대일렉트릭(267260) 성장 축 확장, 실적 가시성 유효",
+    "broker": "유안타증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 1450000,
+    "source": "hankyung"
+  },
+  "hk:650726": {
+    "code": "062040",
+    "name": "산일전기",
+    "title": "산일전기(062040) 낮아진 주가, 변하지 않은 성장성",
+    "broker": "유안타증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 360000,
+    "source": "hankyung"
+  },
+  "hk:650725": {
+    "code": "103590",
+    "name": "일진전기",
+    "title": "일진전기(103590) 이익 구조는 견조, 눈높이는 조정",
+    "broker": "유안타증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 125000,
+    "source": "hankyung"
+  },
+  "hk:650724": {
+    "code": "001440",
+    "name": "대한전선",
+    "title": "대한전선(001440) 단기 부담은 완화, 해저·HVDC 레퍼런스 확대",
+    "broker": "유안타증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 60000,
+    "source": "hankyung"
+  },
+  "hk:650718": {
+    "code": "004170",
+    "name": "신세계",
+    "title": "신세계(004170) 2Q26 Preview: 실적의 신세계",
+    "broker": "LS증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 860000,
+    "source": "hankyung"
+  },
+  "hk:650717": {
+    "code": "069080",
+    "name": "웹젠",
+    "title": "웹젠(069080) 주주환원에 진심인 게임사",
+    "broker": "한국IR협의회",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:650710": {
+    "code": "336260",
+    "name": "두산퓨얼셀",
+    "title": "두산퓨얼셀(336260) 미국 데이터센터 전력 공급 업체로 재평가될 것",
+    "broker": "유진투자증권",
+    "date": "2026-07-14",
+    "target_price": null,
+    "listed_target_price": 80000,
+    "source": "hankyung"
   }
 }
