@@ -27220,5 +27220,485 @@
     "target_price": null,
     "listed_target_price": null,
     "source": "hankyung"
+  },
+  "94281": {
+    "code": "257720",
+    "name": "실리콘투",
+    "title": "수요를 만드는 공급자",
+    "broker": "한화투자증권",
+    "date": "26.07.20",
+    "target_price": 55000,
+    "source": "naver"
+  },
+  "94280": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "연결 자회사의 실적 호조를 기대",
+    "broker": "한화투자증권",
+    "date": "26.07.20",
+    "target_price": 346000,
+    "source": "naver"
+  },
+  "94279": {
+    "code": "000720",
+    "name": "현대건설",
+    "title": "2Q26 Preview: 본업안정 진행중, 원전 기대중",
+    "broker": "교보증권",
+    "date": "26.07.20",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "94278": {
+    "code": "003230",
+    "name": "삼양식품",
+    "title": "탄탄한 불닭, 여전한 수요",
+    "broker": "교보증권",
+    "date": "26.07.20",
+    "target_price": 1860000,
+    "source": "naver"
+  },
+  "94277": {
+    "code": "009150",
+    "name": "삼성전기",
+    "title": "수요와 공급 모두 여전히 우호적인 상황",
+    "broker": "하나증권",
+    "date": "26.07.20",
+    "target_price": 3000000,
+    "source": "naver"
+  },
+  "94276": {
+    "code": "298020",
+    "name": "효성티앤씨",
+    "title": "회복 사이클 진입으로 컨센 24% 상회 전망",
+    "broker": "하나증권",
+    "date": "26.07.20",
+    "target_price": 590000,
+    "source": "naver"
+  },
+  "94275": {
+    "code": "088350",
+    "name": "한화생명",
+    "title": "연결 기준 실적 성장세에 주목할 시점",
+    "broker": "하나증권",
+    "date": "26.07.20",
+    "target_price": 7300,
+    "source": "naver"
+  },
+  "94274": {
+    "code": "006040",
+    "name": "동원산업",
+    "title": "2Q26 Pre: 비식품 선방",
+    "broker": "하나증권",
+    "date": "26.07.20",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "94273": {
+    "code": "294870",
+    "name": "IPARK현대산업개발",
+    "title": "실적이 투자 포인트",
+    "broker": "유진투자증권",
+    "date": "26.07.20",
+    "target_price": 30000,
+    "source": "naver"
+  },
+  "94272": {
+    "code": "047040",
+    "name": "대우건설",
+    "title": "실적은 기대 이상, 원전 모멘텀은 숨 고르기",
+    "broker": "유진투자증권",
+    "date": "26.07.20",
+    "target_price": 24000,
+    "source": "naver"
+  },
+  "94271": {
+    "code": "000720",
+    "name": "현대건설",
+    "title": "실적 개선 지속, 남은 건 Off-taker",
+    "broker": "유진투자증권",
+    "date": "26.07.20",
+    "target_price": 178000,
+    "source": "naver"
+  },
+  "94270": {
+    "code": "445090",
+    "name": "에이직랜드",
+    "title": "장기 양산 가시성 확보",
+    "broker": "신한투자증권",
+    "date": "26.07.20",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94269": {
+    "code": "006400",
+    "name": "삼성SDI",
+    "title": "흑자전환, 다음은 본업",
+    "broker": "신한투자증권",
+    "date": "26.07.20",
+    "target_price": 700000,
+    "source": "naver"
+  },
+  "94268": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "지금 주가에서는 업사이드 리스크가 더 커 (2..",
+    "broker": "신한투자증권",
+    "date": "26.07.20",
+    "target_price": 100000,
+    "source": "naver"
+  },
+  "94267": {
+    "code": "034120",
+    "name": "SBS",
+    "title": "분위기 반전은 4Q26 이후",
+    "broker": "신한투자증권",
+    "date": "26.07.20",
+    "target_price": 17000,
+    "source": "naver"
+  },
+  "94266": {
+    "code": "004800",
+    "name": "효성",
+    "title": "배당소득 분리과세 및 개정상법 수혜",
+    "broker": "iM증권",
+    "date": "26.07.20",
+    "target_price": 185000,
+    "source": "naver"
+  },
+  "94265": {
+    "code": "003550",
+    "name": "LG",
+    "title": "피지컬 AI 밸류체인 성장성 및 개정상법 수혜",
+    "broker": "iM증권",
+    "date": "26.07.20",
+    "target_price": 115000,
+    "source": "naver"
+  },
+  "94264": {
+    "code": "090430",
+    "name": "아모레퍼시픽",
+    "title": "2Q26 Preview: its so good",
+    "broker": "유진투자증권",
+    "date": "26.07.20",
+    "target_price": 150000,
+    "source": "naver"
+  },
+  "94263": {
+    "code": "122870",
+    "name": "와이지엔터테인먼트",
+    "title": "빅뱅의 귀환과 차세대 IP의 증명 시간",
+    "broker": "키움증권",
+    "date": "26.07.20",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "94262": {
+    "code": "041510",
+    "name": "에스엠",
+    "title": "2Q 호실적과 하반기 지역 확장 기대",
+    "broker": "키움증권",
+    "date": "26.07.20",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "94261": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "2분기 BTS와 함께 증명될 역대 최대 실적",
+    "broker": "키움증권",
+    "date": "26.07.20",
+    "target_price": 330000,
+    "source": "naver"
+  },
+  "94260": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "매력적인 사업 포트폴리오 보유",
+    "broker": "키움증권",
+    "date": "26.07.20",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "94259": {
+    "code": "012450",
+    "name": "한화에어로스페이스",
+    "title": "하반기 실적과 수주 동반 개선 기대",
+    "broker": "키움증권",
+    "date": "26.07.20",
+    "target_price": 1720000,
+    "source": "naver"
+  },
+  "94258": {
+    "code": "122870",
+    "name": "와이지엔터테인먼트",
+    "title": "어서오십시오 V.I.P",
+    "broker": "SK증권",
+    "date": "26.07.20",
+    "target_price": 63000,
+    "source": "naver"
+  },
+  "94256": {
+    "code": "058610",
+    "name": "에스피지",
+    "title": "국내 유일의 휴머노이드 정밀 감속기 Full Li..",
+    "broker": "IBK투자증권",
+    "date": "26.07.20",
+    "target_price": 100000,
+    "source": "naver"
+  },
+  "94255": {
+    "code": "025750",
+    "name": "한솔홈데코",
+    "title": "목재 Value Chain 위에서 공간의 감각을 완성..",
+    "broker": "NICE평가정보",
+    "date": "26.07.20",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94254": {
+    "code": "023790",
+    "name": "동일스틸럭스",
+    "title": "반세기 봉강 기술력으로 미래 모빌리티 소재..",
+    "broker": "NICE평가정보",
+    "date": "26.07.20",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94253": {
+    "code": "058860",
+    "name": "KTis",
+    "title": "KT그룹 기반 AICC·고객서비스 DX 전문기업",
+    "broker": "NICE평가정보",
+    "date": "26.07.20",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94252": {
+    "code": "094820",
+    "name": "일진파워",
+    "title": "발전정비 안정성 기반으로 사업영역을 확장하..",
+    "broker": "서울평가정보",
+    "date": "26.07.20",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94251": {
+    "code": "900310",
+    "name": "컬러레이",
+    "title": "화장품용 진주광택안료에서 산업용 광택소재..",
+    "broker": "서울평가정보",
+    "date": "26.07.20",
+    "target_price": null,
+    "source": "naver"
+  },
+  "hk:650867": {
+    "code": "023530",
+    "name": "롯데쇼핑",
+    "title": "롯데쇼핑(023530) 2Q26 Preview: 백화점 체력 돋보여",
+    "broker": "LS증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 190000,
+    "source": "hankyung"
+  },
+  "hk:650866": {
+    "code": "066970",
+    "name": "엘앤에프",
+    "title": "엘앤에프(066970) 2분기 본실적 견조, 그러나 밸류에이션 부담 여전",
+    "broker": "LS증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 83000,
+    "source": "hankyung"
+  },
+  "hk:650865": {
+    "code": "161390",
+    "name": "한국타이어앤테크놀로지",
+    "title": "한국타이어앤테크놀로지(161390) 내년 스프레드 확대 본격화",
+    "broker": "LS증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 93000,
+    "source": "hankyung"
+  },
+  "hk:650864": {
+    "code": "097950",
+    "name": "CJ제일제당",
+    "title": "CJ제일제당(097950) 식품 흐림, 바이오 맑음",
+    "broker": "LS증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 270000,
+    "source": "hankyung"
+  },
+  "hk:650863": {
+    "code": "122870",
+    "name": "와이지엔터테인먼트",
+    "title": "와이지엔터테인먼트(122870) 어서오십시오 V.I.P",
+    "broker": "SK증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 63000,
+    "source": "hankyung"
+  },
+  "hk:650862": {
+    "code": "004800",
+    "name": "효성",
+    "title": "효성(004800) 배당소득 분리과세 및 개정상법 수혜",
+    "broker": "iM증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 185000,
+    "source": "hankyung"
+  },
+  "hk:650861": {
+    "code": "003550",
+    "name": "LG",
+    "title": "LG(003550) 피지컬 AI 밸류체인 성장성 및 개정상법 수혜",
+    "broker": "iM증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 115000,
+    "source": "hankyung"
+  },
+  "hk:650854": {
+    "code": "000720",
+    "name": "현대건설",
+    "title": "현대건설(000720) 2Q26 Preview: 실망에서 기대로 바뀌는 변곡점",
+    "broker": "메리츠증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 176000,
+    "source": "hankyung"
+  },
+  "hk:650853": {
+    "code": "252990",
+    "name": "샘씨엔에스",
+    "title": "샘씨엔에스(252990) 흐름이 꺾이지 않는다",
+    "broker": "메리츠증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:650848": {
+    "code": "214320",
+    "name": "이노션",
+    "title": "이노션(214320) 계열과 비계열 고른 성장",
+    "broker": "메리츠증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 25000,
+    "source": "hankyung"
+  },
+  "hk:650847": {
+    "code": "161390",
+    "name": "한국타이어앤테크놀로지",
+    "title": "한국타이어앤테크놀로지(161390) 완벽한 레벨업",
+    "broker": "메리츠증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 120000,
+    "source": "hankyung"
+  },
+  "hk:650845": {
+    "code": "131970",
+    "name": "두산테스나",
+    "title": "두산테스나(131970) 확고한 성장 방향성에 주목",
+    "broker": "메리츠증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 164000,
+    "source": "hankyung"
+  },
+  "hk:650844": {
+    "code": "035760",
+    "name": "CJ ENM",
+    "title": "CJ ENM(035760) 높은 잠재력 vs 불안정한 실적",
+    "broker": "메리츠증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 70000,
+    "source": "hankyung"
+  },
+  "hk:650843": {
+    "code": "253450",
+    "name": "스튜디오드래곤",
+    "title": "스튜디오드래곤(253450) 중요한 건 실적의 꾸준함",
+    "broker": "메리츠증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 48000,
+    "source": "hankyung"
+  },
+  "hk:650842": {
+    "code": "030000",
+    "name": "제일기획",
+    "title": "제일기획(030000) 여전히 쉽지 않은 업황 속 선전",
+    "broker": "메리츠증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 26000,
+    "source": "hankyung"
+  },
+  "hk:650841": {
+    "code": "251270",
+    "name": "넷마블",
+    "title": "넷마블(251270) 바닥을 지나다",
+    "broker": "메리츠증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 60000,
+    "source": "hankyung"
+  },
+  "hk:650840": {
+    "code": "017810",
+    "name": "풀무원",
+    "title": "풀무원(017810) 탐방 Comment",
+    "broker": "메리츠증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:650837": {
+    "code": "047040",
+    "name": "대우건설",
+    "title": "대우건설(047040) 실적은 기대 이상, 원전 모멘텀은 숨 고르기",
+    "broker": "유진투자증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 24000,
+    "source": "hankyung"
+  },
+  "hk:650836": {
+    "code": "000720",
+    "name": "현대건설",
+    "title": "현대건설(000720) 실적 개선 지속, 남은 건 Off-taker",
+    "broker": "유진투자증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 178000,
+    "source": "hankyung"
+  },
+  "hk:650835": {
+    "code": "090430",
+    "name": "아모레퍼시픽",
+    "title": "아모레퍼시픽(090430) 2Q26 Preview: it’s so good",
+    "broker": "유진투자증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 150000,
+    "source": "hankyung"
+  },
+  "hk:650834": {
+    "code": "294870",
+    "name": "IPARK현대산업개발",
+    "title": "IPARK현대산업개발(294870) 실적이 투자 포인트",
+    "broker": "유진투자증권",
+    "date": "2026-07-20",
+    "target_price": null,
+    "listed_target_price": 30000,
+    "source": "hankyung"
   }
 }
