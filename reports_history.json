@@ -28426,5 +28426,312 @@
     "target_price": null,
     "listed_target_price": null,
     "source": "hankyung"
+  },
+  "94349": {
+    "code": "006280",
+    "name": "녹십자",
+    "title": "2Q26 Preview: 상저하고 실적 기대",
+    "broker": "미래에셋증권",
+    "date": "26.07.22",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "94348": {
+    "code": "066570",
+    "name": "LG전자",
+    "title": "로보틱스+데이터센터 쿨링 시스템 > 애플카",
+    "broker": "메리츠증권",
+    "date": "26.07.22",
+    "target_price": 260000,
+    "source": "naver"
+  },
+  "94347": {
+    "code": "003030",
+    "name": "세아제강지주",
+    "title": "예상보다 빠른 수익성 정상화",
+    "broker": "한화투자증권",
+    "date": "26.07.22",
+    "target_price": 207000,
+    "source": "naver"
+  },
+  "94346": {
+    "code": "081660",
+    "name": "미스토홀딩스",
+    "title": "2Q26 Preview : 성장 스토리가 있는 회사",
+    "broker": "한화투자증권",
+    "date": "26.07.22",
+    "target_price": 78000,
+    "source": "naver"
+  },
+  "94345": {
+    "code": "383220",
+    "name": "F&F",
+    "title": "2Q26 Preview : 인바운드 수혜를 보고 있는 ..",
+    "broker": "한화투자증권",
+    "date": "26.07.22",
+    "target_price": 105000,
+    "source": "naver"
+  },
+  "94344": {
+    "code": "079160",
+    "name": "CJ CGV",
+    "title": "4DPLEX와 함께하는 CGV의 Brand New Day",
+    "broker": "DS투자증권",
+    "date": "26.07.22",
+    "target_price": 8000,
+    "source": "naver"
+  },
+  "94343": {
+    "code": "160550",
+    "name": "NEW",
+    "title": "매력적인 콘텐츠 라인업에 주주가치 제고까지",
+    "broker": "DS투자증권",
+    "date": "26.07.22",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94342": {
+    "code": "280360",
+    "name": "롯데웰푸드",
+    "title": "2Q26 Pre: 시장 기대 부합 전망",
+    "broker": "하나증권",
+    "date": "26.07.22",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "94341": {
+    "code": "323410",
+    "name": "카카오뱅크",
+    "title": "관전 포인트는 여수신 성장",
+    "broker": "유안타증권",
+    "date": "26.07.22",
+    "target_price": 28000,
+    "source": "naver"
+  },
+  "94340": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "대만 NDR 후기: 같은 스토리, 다른 렌즈",
+    "broker": "유안타증권",
+    "date": "26.07.22",
+    "target_price": 149000,
+    "source": "naver"
+  },
+  "94339": {
+    "code": "035760",
+    "name": "CJ ENM",
+    "title": "광고만 회복되면 좋은데",
+    "broker": "대신증권",
+    "date": "26.07.22",
+    "target_price": 56000,
+    "source": "naver"
+  },
+  "94338": {
+    "code": "253450",
+    "name": "스튜디오드래곤",
+    "title": "드래곤의 작품은 확대 중",
+    "broker": "대신증권",
+    "date": "26.07.22",
+    "target_price": 39000,
+    "source": "naver"
+  },
+  "94337": {
+    "code": "004800",
+    "name": "효성",
+    "title": "두 가지 투자 포인트: 효성화학 반사수혜와 ..",
+    "broker": "대신증권",
+    "date": "26.07.22",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "94336": {
+    "code": "006280",
+    "name": "녹십자",
+    "title": "2Q26 Pre: 고마진 품목 이연, 컨센 하회",
+    "broker": "SK증권",
+    "date": "26.07.22",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "94335": {
+    "code": "005940",
+    "name": "NH투자증권",
+    "title": "2Q26 Preview: 성장을 위한 증자, 매력을 더..",
+    "broker": "SK증권",
+    "date": "26.07.22",
+    "target_price": 44000,
+    "source": "naver"
+  },
+  "94334": {
+    "code": "089890",
+    "name": "코세스",
+    "title": "본격적인 수주 + 실적 사이클 진입",
+    "broker": "SK증권",
+    "date": "26.07.22",
+    "target_price": 48000,
+    "source": "naver"
+  },
+  "94333": {
+    "code": "064850",
+    "name": "에프앤가이드",
+    "title": "2Q26P Review: ETF 시장 확대로 최대 실적 달..",
+    "broker": "유진투자증권",
+    "date": "26.07.22",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94332": {
+    "code": "006280",
+    "name": "녹십자",
+    "title": "2분기 공백, 하반기에 집중",
+    "broker": "IBK투자증권",
+    "date": "26.07.22",
+    "target_price": 190000,
+    "source": "naver"
+  },
+  "94331": {
+    "code": "000120",
+    "name": "CJ대한통운",
+    "title": "장기 목표에 시선 고정",
+    "broker": "신한투자증권",
+    "date": "26.07.22",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "94330": {
+    "code": "011200",
+    "name": "HMM",
+    "title": "우려 속 반복되는 단기 호황",
+    "broker": "신한투자증권",
+    "date": "26.07.22",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94329": {
+    "code": "089860",
+    "name": "롯데렌탈",
+    "title": "헤지 종목으로서의 역할이 부각되는 국면",
+    "broker": "키움증권",
+    "date": "26.07.22",
+    "target_price": 45000,
+    "source": "naver"
+  },
+  "94328": {
+    "code": "166090",
+    "name": "하나머티리얼즈",
+    "title": "매력적인 소부장",
+    "broker": "신한투자증권",
+    "date": "26.07.22",
+    "target_price": 83000,
+    "source": "naver"
+  },
+  "94327": {
+    "code": "082920",
+    "name": "비츠로셀",
+    "title": "전 세계가 1차전지를 필요로 한다",
+    "broker": "IBK투자증권",
+    "date": "26.07.22",
+    "target_price": 38000,
+    "source": "naver"
+  },
+  "hk:650954": {
+    "code": "006280",
+    "name": "녹십자",
+    "title": "녹십자(006280) 2분기 공백, 하반기에 집중",
+    "broker": "IBK투자증권",
+    "date": "2026-07-22",
+    "target_price": null,
+    "listed_target_price": 190000,
+    "source": "hankyung"
+  },
+  "hk:650947": {
+    "code": "006280",
+    "name": "녹십자",
+    "title": "녹십자(006280) 2Q26 Pre: 고마진 품목 이연, 컨센 하회",
+    "broker": "SK증권",
+    "date": "2026-07-22",
+    "target_price": null,
+    "listed_target_price": 200000,
+    "source": "hankyung"
+  },
+  "hk:650946": {
+    "code": "005940",
+    "name": "NH투자증권",
+    "title": "NH투자증권(005940) 2Q26 Preview: 성장을 위한 증자, 매력을 더하는 배당",
+    "broker": "SK증권",
+    "date": "2026-07-22",
+    "target_price": null,
+    "listed_target_price": 44000,
+    "source": "hankyung"
+  },
+  "hk:650945": {
+    "code": "089890",
+    "name": "코세스",
+    "title": "코세스(089890) 본격적인 수주 + 실적 사이클 진입",
+    "broker": "SK증권",
+    "date": "2026-07-22",
+    "target_price": null,
+    "listed_target_price": 48000,
+    "source": "hankyung"
+  },
+  "hk:650944": {
+    "code": "323410",
+    "name": "카카오뱅크",
+    "title": "카카오뱅크(323410) 관전 포인트는 여수신 성장",
+    "broker": "유안타증권",
+    "date": "2026-07-22",
+    "target_price": null,
+    "listed_target_price": 28000,
+    "source": "hankyung"
+  },
+  "hk:650942": {
+    "code": "306200",
+    "name": "세아제강",
+    "title": "세아제강(306200) 예상보다 빠른 수익성 정상화",
+    "broker": "한화투자증권",
+    "date": "2026-07-22",
+    "target_price": null,
+    "listed_target_price": 207000,
+    "source": "hankyung"
+  },
+  "hk:650941": {
+    "code": "253450",
+    "name": "스튜디오드래곤",
+    "title": "스튜디오드래곤(253450) 드래곤의 작품은 확대 중",
+    "broker": "대신증권",
+    "date": "2026-07-22",
+    "target_price": null,
+    "listed_target_price": 39000,
+    "source": "hankyung"
+  },
+  "hk:650940": {
+    "code": "004800",
+    "name": "효성",
+    "title": "효성(004800) 두 가지 투자 포인트: 효성화학 반사수혜와 고배당",
+    "broker": "대신증권",
+    "date": "2026-07-22",
+    "target_price": null,
+    "listed_target_price": 200000,
+    "source": "hankyung"
+  },
+  "hk:650939": {
+    "code": "035760",
+    "name": "CJ ENM",
+    "title": "CJ ENM(035760) 광고만 회복되면 좋은데",
+    "broker": "대신증권",
+    "date": "2026-07-22",
+    "target_price": null,
+    "listed_target_price": 56000,
+    "source": "hankyung"
+  },
+  "hk:650935": {
+    "code": "064850",
+    "name": "에프앤가이드",
+    "title": "에프앤가이드(064850) 2Q26P Review: ETF 시장 확대로 최대 실적 달성",
+    "broker": "유진투자증권",
+    "date": "2026-07-22",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
   }
 }
