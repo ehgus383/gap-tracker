@@ -29126,5 +29126,1418 @@
     "target_price": null,
     "listed_target_price": 55000,
     "source": "hankyung"
+  },
+  "94484": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "AIDC 사업개발 전문회사 SK하이퍼 설립 관련 ..",
+    "broker": "신한투자증권",
+    "date": "26.07.24",
+    "target_price": 100000,
+    "source": "naver"
+  },
+  "94483": {
+    "code": "251970",
+    "name": "펌텍코리아",
+    "title": "정상화, 개선 그리고 추가 증설",
+    "broker": "한화투자증권",
+    "date": "26.07.24",
+    "target_price": 67000,
+    "source": "naver"
+  },
+  "94482": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "2Q26 Re: 3분기부터 시작될 성장 랠리",
+    "broker": "DS투자증권",
+    "date": "26.07.24",
+    "target_price": 1950000,
+    "source": "naver"
+  },
+  "94480": {
+    "code": "086280",
+    "name": "현대글로비스",
+    "title": "이익 감소는 일시적, 매출 고성장은 지속",
+    "broker": "한화투자증권",
+    "date": "26.07.24",
+    "target_price": 380000,
+    "source": "naver"
+  },
+  "94479": {
+    "code": "017960",
+    "name": "한국카본",
+    "title": "실적 및 업황 대비 매력적인 밸류에이션 구간",
+    "broker": "DS투자증권",
+    "date": "26.07.24",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "94478": {
+    "code": "055550",
+    "name": "신한지주",
+    "title": "환원 수익률 7% 내외로 투자매력 확보",
+    "broker": "한화투자증권",
+    "date": "26.07.24",
+    "target_price": 137000,
+    "source": "naver"
+  },
+  "94477": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "실적은 저점, 시선은 로봇",
+    "broker": "DS투자증권",
+    "date": "26.07.24",
+    "target_price": 840000,
+    "source": "naver"
+  },
+  "94476": {
+    "code": "005090",
+    "name": "SGC에너지",
+    "title": "의심은 접어두고 매수로 대응할 시점",
+    "broker": "DS투자증권",
+    "date": "26.07.24",
+    "target_price": 83000,
+    "source": "naver"
+  },
+  "94475": {
+    "code": "005940",
+    "name": "NH투자증권",
+    "title": "2Q26 Reivew: 배당 매력 넘치는 구간",
+    "broker": "교보증권",
+    "date": "26.07.24",
+    "target_price": 41000,
+    "source": "naver"
+  },
+  "94474": {
+    "code": "483650",
+    "name": "달바글로벌",
+    "title": "확장의 구간",
+    "broker": "한화투자증권",
+    "date": "26.07.24",
+    "target_price": 290000,
+    "source": "naver"
+  },
+  "94473": {
+    "code": "010060",
+    "name": "OCI홀딩스",
+    "title": "2Q26 Review: LTA, 품절입니다",
+    "broker": "교보증권",
+    "date": "26.07.24",
+    "target_price": 430000,
+    "source": "naver"
+  },
+  "94472": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "기말 배당으로 이연된 하반기 재원",
+    "broker": "한화투자증권",
+    "date": "26.07.24",
+    "target_price": 226000,
+    "source": "naver"
+  },
+  "94471": {
+    "code": "175330",
+    "name": "JB금융지주",
+    "title": "2Q26 Review: 최선을 다하는 주주환원정책이 ..",
+    "broker": "교보증권",
+    "date": "26.07.24",
+    "target_price": 38000,
+    "source": "naver"
+  },
+  "94470": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "상반기 부정적 영향은 해소되는 중",
+    "broker": "한화투자증권",
+    "date": "26.07.24",
+    "target_price": 760000,
+    "source": "naver"
+  },
+  "94469": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "2Q26 Review: 업계 최고 수준의 자본력이 주..",
+    "broker": "교보증권",
+    "date": "26.07.24",
+    "target_price": 210000,
+    "source": "naver"
+  },
+  "94468": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "믿고 보는 실적",
+    "broker": "한화투자증권",
+    "date": "26.07.24",
+    "target_price": 70000,
+    "source": "naver"
+  },
+  "94467": {
+    "code": "055550",
+    "name": "신한지주",
+    "title": "2Q26 Review: 견조한 실적 바탕으로 목표 ROE..",
+    "broker": "교보증권",
+    "date": "26.07.24",
+    "target_price": 134000,
+    "source": "naver"
+  },
+  "94466": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "2Q26 Review: 납기의 속도가 실적을 결정할 ..",
+    "broker": "교보증권",
+    "date": "26.07.24",
+    "target_price": 320000,
+    "source": "naver"
+  },
+  "94465": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "2Q26 Review: 바닥을 찍고, 하반기 레벨업",
+    "broker": "교보증권",
+    "date": "26.07.24",
+    "target_price": 740000,
+    "source": "naver"
+  },
+  "94464": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "2Q26 Review: 편안하게 계속 성장하는 실적",
+    "broker": "교보증권",
+    "date": "26.07.24",
+    "target_price": 67000,
+    "source": "naver"
+  },
+  "94463": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "2Q26 Review; 방향성을 믿고 갈 때",
+    "broker": "교보증권",
+    "date": "26.07.24",
+    "target_price": 1900000,
+    "source": "naver"
+  },
+  "94462": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "멈추지 않는 실적 성장",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 270000,
+    "source": "naver"
+  },
+  "94461": {
+    "code": "005090",
+    "name": "SGC에너지",
+    "title": "하반기에 더 좋아진다",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 76000,
+    "source": "naver"
+  },
+  "94460": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "체급을 키우기 위한 약간의 성장통 (2Q26 Rev..",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 2050000,
+    "source": "naver"
+  },
+  "94459": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "전 계열사 고른 손익 개선. 총주주환원율도 5..",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 220000,
+    "source": "naver"
+  },
+  "94458": {
+    "code": "005940",
+    "name": "NH투자증권",
+    "title": "2Q26 Re - 거래대금 둔화 속 높아지는 배당 ..",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 44000,
+    "source": "naver"
+  },
+  "94457": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "빨라진 반도체 공사, 일회성 이익에 서프",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 67000,
+    "source": "naver"
+  },
+  "94456": {
+    "code": "050890",
+    "name": "쏠리드",
+    "title": "향후 3년간 이익 증가가 예상됩니다",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 30000,
+    "source": "naver"
+  },
+  "94455": {
+    "code": "230240",
+    "name": "에치에프알",
+    "title": "AI RAN에는 엔비디아만 있는 것이 아닙니다",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "94454": {
+    "code": "010060",
+    "name": "OCI홀딩스",
+    "title": "2027~29년 물량 완판. 대세 상승 사이클 진입",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 550000,
+    "source": "naver"
+  },
+  "94453": {
+    "code": "000120",
+    "name": "CJ대한통운",
+    "title": "2Q26 Pre: 기다림의 구간",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 120000,
+    "source": "naver"
+  },
+  "94452": {
+    "code": "086280",
+    "name": "현대글로비스",
+    "title": "매출액이 엄청 늘었어요. 마진은 회복될 거에..",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 310000,
+    "source": "naver"
+  },
+  "94451": {
+    "code": "055550",
+    "name": "신한지주",
+    "title": "M&A 이슈가 단기 주가 흐름에 영향을 미칠 전..",
+    "broker": "하나증권",
+    "date": "26.07.24",
+    "target_price": 135000,
+    "source": "naver"
+  },
+  "94450": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "2Q26 Re: 하반기 OPM 회복 발판 마련",
+    "broker": "유안타증권",
+    "date": "26.07.24",
+    "target_price": 570000,
+    "source": "naver"
+  },
+  "94449": {
+    "code": "086280",
+    "name": "현대글로비스",
+    "title": "유류비 부담은 일시적, 성장 동력은 여전",
+    "broker": "유안타증권",
+    "date": "26.07.24",
+    "target_price": 320000,
+    "source": "naver"
+  },
+  "94448": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "더 커진 수주, 더 빨라진 실적",
+    "broker": "유안타증권",
+    "date": "26.07.24",
+    "target_price": 300000,
+    "source": "naver"
+  },
+  "94447": {
+    "code": "055550",
+    "name": "신한지주",
+    "title": "기대되는 10월 자사주 매입 발표",
+    "broker": "유안타증권",
+    "date": "26.07.24",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "94446": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "조달비용 상승 우려 선반영",
+    "broker": "유안타증권",
+    "date": "26.07.24",
+    "target_price": 235000,
+    "source": "naver"
+  },
+  "94445": {
+    "code": "175330",
+    "name": "JB금융지주",
+    "title": "2026년 총주주환원율은 무조건 50% 달성",
+    "broker": "유안타증권",
+    "date": "26.07.24",
+    "target_price": 40000,
+    "source": "naver"
+  },
+  "94444": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "이익과 주주환원 모두 가장 편안한 선택지",
+    "broker": "iM증권",
+    "date": "26.07.24",
+    "target_price": 205000,
+    "source": "naver"
+  },
+  "94443": {
+    "code": "055550",
+    "name": "신한지주",
+    "title": "더 좋아질 이익과 높아진 주주환원 매력",
+    "broker": "iM증권",
+    "date": "26.07.24",
+    "target_price": 132000,
+    "source": "naver"
+  },
+  "94442": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "2Q26 Review: Hyperscaler를 의심하지 말자",
+    "broker": "미래에셋증권",
+    "date": "26.07.24",
+    "target_price": 280000,
+    "source": "naver"
+  },
+  "94441": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "가팔라지는 실적과 수주의 상향 기울기",
+    "broker": "미래에셋증권",
+    "date": "26.07.24",
+    "target_price": 70000,
+    "source": "naver"
+  },
+  "94440": {
+    "code": "086280",
+    "name": "현대글로비스",
+    "title": "여전히 명확한 실적 개선 경로",
+    "broker": "미래에셋증권",
+    "date": "26.07.24",
+    "target_price": 310000,
+    "source": "naver"
+  },
+  "94439": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "2Q26 리뷰: 우려 대비 양호, 로봇 모멘텀 주..",
+    "broker": "미래에셋증권",
+    "date": "26.07.24",
+    "target_price": 840000,
+    "source": "naver"
+  },
+  "94438": {
+    "code": "055550",
+    "name": "신한지주",
+    "title": "아직 한 발 더 남았다",
+    "broker": "미래에셋증권",
+    "date": "26.07.24",
+    "target_price": 131000,
+    "source": "naver"
+  },
+  "94437": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "아시아 데이터센터 왕이 될 상",
+    "broker": "미래에셋증권",
+    "date": "26.07.24",
+    "target_price": 120000,
+    "source": "naver"
+  },
+  "94436": {
+    "code": "006110",
+    "name": "삼아알미늄",
+    "title": "Corp Day: \"하반기 캐파 부족\" 알박 쇼티지",
+    "broker": "SK증권",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94435": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "압도적 환원 규모",
+    "broker": "대신증권",
+    "date": "26.07.24",
+    "target_price": 232000,
+    "source": "naver"
+  },
+  "94434": {
+    "code": "055550",
+    "name": "신한지주",
+    "title": "향상된 실적으로 환원액도 늘어날 전망",
+    "broker": "대신증권",
+    "date": "26.07.24",
+    "target_price": 130000,
+    "source": "naver"
+  },
+  "94433": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "부담은 덜어냈다",
+    "broker": "대신증권",
+    "date": "26.07.24",
+    "target_price": 740000,
+    "source": "naver"
+  },
+  "94432": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "구조적 실적 개선. 이제 시작일 뿐!",
+    "broker": "대신증권",
+    "date": "26.07.24",
+    "target_price": 330000,
+    "source": "naver"
+  },
+  "94431": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "실적도, 수주도 가속화",
+    "broker": "대신증권",
+    "date": "26.07.24",
+    "target_price": 68000,
+    "source": "naver"
+  },
+  "94430": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "분기 최대 실적 달성, 3Q 쉬어가도 성장은 지..",
+    "broker": "대신증권",
+    "date": "26.07.24",
+    "target_price": 2000000,
+    "source": "naver"
+  },
+  "94429": {
+    "code": "004800",
+    "name": "효성",
+    "title": "두 가지 투자 포인트: 효성화학 반사수혜와 ..",
+    "broker": "대신증권",
+    "date": "26.07.24",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "94428": {
+    "code": "007660",
+    "name": "이수페타시스",
+    "title": "Corp Day: “쇼티지 지속” 추가 증설 전망",
+    "broker": "SK증권",
+    "date": "26.07.24",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "94427": {
+    "code": "010060",
+    "name": "OCI홀딩스",
+    "title": "드디어 당겨진 첫번째 방아쇠, 증설",
+    "broker": "미래에셋증권",
+    "date": "26.07.24",
+    "target_price": 460000,
+    "source": "naver"
+  },
+  "94426": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "연간 영업이익 1조원이 보인다",
+    "broker": "유진투자증권",
+    "date": "26.07.24",
+    "target_price": 77000,
+    "source": "naver"
+  },
+  "94425": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "수주가 증명한 성장성",
+    "broker": "IBK투자증권",
+    "date": "26.07.24",
+    "target_price": 280000,
+    "source": "naver"
+  },
+  "94424": {
+    "code": "010060",
+    "name": "OCI홀딩스",
+    "title": "간다, 우주로",
+    "broker": "유진투자증권",
+    "date": "26.07.24",
+    "target_price": 400000,
+    "source": "naver"
+  },
+  "94423": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "영업레버리지에 멀티플 확장까지",
+    "broker": "SK증권",
+    "date": "26.07.24",
+    "target_price": 310000,
+    "source": "naver"
+  },
+  "94422": {
+    "code": "086280",
+    "name": "현대글로비스",
+    "title": "고유가에도 선방한 자동차 물동량",
+    "broker": "신한투자증권",
+    "date": "26.07.24",
+    "target_price": 320000,
+    "source": "naver"
+  },
+  "94421": {
+    "code": "035600",
+    "name": "KG이니시스",
+    "title": "성장의 반경 확대",
+    "broker": "신한투자증권",
+    "date": "26.07.24",
+    "target_price": 14000,
+    "source": "naver"
+  },
+  "94420": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "역대 최대 실적과 수주, 더해지는 증설",
+    "broker": "신한투자증권",
+    "date": "26.07.24",
+    "target_price": 250000,
+    "source": "naver"
+  },
+  "94419": {
+    "code": "241560",
+    "name": "두산밥캣",
+    "title": "변수는 있으나 성장 방향성 확실",
+    "broker": "신한투자증권",
+    "date": "26.07.24",
+    "target_price": 90000,
+    "source": "naver"
+  },
+  "94418": {
+    "code": "195940",
+    "name": "HK이노엔",
+    "title": "국내 1위를 넘어 미국으로",
+    "broker": "IBK투자증권",
+    "date": "26.07.24",
+    "target_price": 66000,
+    "source": "naver"
+  },
+  "94417": {
+    "code": "010060",
+    "name": "OCI홀딩스",
+    "title": "폴리실리콘 증설과 이번 투자에 담긴 3가지 ..",
+    "broker": "iM증권",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94416": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "본업 실적 회복 위에 올라설 로봇·SDV의 가..",
+    "broker": "신한투자증권",
+    "date": "26.07.24",
+    "target_price": 780000,
+    "source": "naver"
+  },
+  "94415": {
+    "code": "036570",
+    "name": "NC",
+    "title": "지금 이 주식을 사기 좋은 이유",
+    "broker": "신한투자증권",
+    "date": "26.07.24",
+    "target_price": 330000,
+    "source": "naver"
+  },
+  "94414": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "높아진 기대치를 상회",
+    "broker": "신한투자증권",
+    "date": "26.07.24",
+    "target_price": 68000,
+    "source": "naver"
+  },
+  "94413": {
+    "code": "189300",
+    "name": "인텔리안테크",
+    "title": "부진한 센티멘트에도 굳건한 실적",
+    "broker": "유진투자증권",
+    "date": "26.07.24",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "94412": {
+    "code": "005090",
+    "name": "SGC에너지",
+    "title": "숫자로 증명하는 발전사업, 내러티브는 데이..",
+    "broker": "SK증권",
+    "date": "26.07.24",
+    "target_price": 86000,
+    "source": "naver"
+  },
+  "94411": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "최대실적, 하반기 추가 주주환원",
+    "broker": "키움증권",
+    "date": "26.07.24",
+    "target_price": 230000,
+    "source": "naver"
+  },
+  "94410": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "미국 생산거점과 5공장, 그리고 펩타이드",
+    "broker": "IBK투자증권",
+    "date": "26.07.24",
+    "target_price": 2090000,
+    "source": "naver"
+  },
+  "94409": {
+    "code": "175330",
+    "name": "JB금융지주",
+    "title": "연간 가이던스 달성 가시성 확대",
+    "broker": "신한투자증권",
+    "date": "26.07.24",
+    "target_price": 33000,
+    "source": "naver"
+  },
+  "94408": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "다변화된 사업 포트폴리오 저력 입증",
+    "broker": "신한투자증권",
+    "date": "26.07.24",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "94407": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "이제 비만도 맡겨주세요",
+    "broker": "신한투자증권",
+    "date": "26.07.24",
+    "target_price": 1800000,
+    "source": "naver"
+  },
+  "94406": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "예상된 실적 부진, 그럼에도 밝은 이유",
+    "broker": "iM증권",
+    "date": "26.07.24",
+    "target_price": 650000,
+    "source": "naver"
+  },
+  "94405": {
+    "code": "005940",
+    "name": "NH투자증권",
+    "title": "브로커리지 중심 호실적과 높아진 비용 부담",
+    "broker": "iM증권",
+    "date": "26.07.24",
+    "target_price": 41000,
+    "source": "naver"
+  },
+  "94404": {
+    "code": "009150",
+    "name": "삼성전기",
+    "title": "MLCC 수주 공시 관련 코멘트: 늦게 오면 지각..",
+    "broker": "iM증권",
+    "date": "26.07.24",
+    "target_price": 3000000,
+    "source": "naver"
+  },
+  "94403": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "첨단 산업 눈높이 상향, 건설업종 Top pick으..",
+    "broker": "iM증권",
+    "date": "26.07.24",
+    "target_price": 69000,
+    "source": "naver"
+  },
+  "94402": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "성장을 이끄는 새로운 스토리가 생겼다",
+    "broker": "iM증권",
+    "date": "26.07.24",
+    "target_price": 1900000,
+    "source": "naver"
+  },
+  "94401": {
+    "code": "073490",
+    "name": "LIG아큐버",
+    "title": "예상보다 빠른 실적 턴어라운드",
+    "broker": "미래에셋증권",
+    "date": "26.07.24",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "94400": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "2Q26 Review: 연간 가이던스 유지, 미래 전략..",
+    "broker": "유진투자증권",
+    "date": "26.07.24",
+    "target_price": 900000,
+    "source": "naver"
+  },
+  "94399": {
+    "code": "005940",
+    "name": "NH투자증권",
+    "title": "2Q26 Review: 견조한 탑라인, 커진 비용 부담",
+    "broker": "SK증권",
+    "date": "26.07.24",
+    "target_price": 44000,
+    "source": "naver"
+  },
+  "94398": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "록빌과 5공장으로 이어질 성장. 기대되는 4분..",
+    "broker": "키움증권",
+    "date": "26.07.24",
+    "target_price": 2100000,
+    "source": "naver"
+  },
+  "94397": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "여전히 Top Pick, 슈퍼사이클에 올라타다",
+    "broker": "키움증권",
+    "date": "26.07.24",
+    "target_price": 73000,
+    "source": "naver"
+  },
+  "94396": {
+    "code": "010060",
+    "name": "OCI홀딩스",
+    "title": "용이 어찌 못 속의 물건이랴",
+    "broker": "키움증권",
+    "date": "26.07.24",
+    "target_price": 420000,
+    "source": "naver"
+  },
+  "94395": {
+    "code": "241560",
+    "name": "두산밥캣",
+    "title": "대규모 관세 환입이 이끈 어닝 서프라이즈",
+    "broker": "키움증권",
+    "date": "26.07.24",
+    "target_price": 96000,
+    "source": "naver"
+  },
+  "94394": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "상반기의 부진을 딛고 수익성 가이던스 유지",
+    "broker": "키움증권",
+    "date": "26.07.24",
+    "target_price": 700000,
+    "source": "naver"
+  },
+  "94393": {
+    "code": "175330",
+    "name": "JB금융지주",
+    "title": "이익증가 추세 회복",
+    "broker": "키움증권",
+    "date": "26.07.24",
+    "target_price": 42000,
+    "source": "naver"
+  },
+  "94392": {
+    "code": "055550",
+    "name": "신한지주",
+    "title": "이익증가로 주주환원 확대 기대",
+    "broker": "키움증권",
+    "date": "26.07.24",
+    "target_price": 150000,
+    "source": "naver"
+  },
+  "94391": {
+    "code": "005940",
+    "name": "NH투자증권",
+    "title": "2Q26 Re: 자본 10조원 돌파, 예상 배당수익률..",
+    "broker": "키움증권",
+    "date": "26.07.24",
+    "target_price": 44000,
+    "source": "naver"
+  },
+  "94390": {
+    "code": "195940",
+    "name": "HK이노엔",
+    "title": "K-CAB의 다음 무대, 미국 딱 기다려!",
+    "broker": "한국IR협의회",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94389": {
+    "code": "086390",
+    "name": "유니테스트",
+    "title": "HBM Burn-in 테스터가 여는 실적 턴어라운드",
+    "broker": "한국IR협의회",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94388": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "2Q26 Review: 기대치를 넘는 그룹사 수주 상..",
+    "broker": "IBK투자증권",
+    "date": "26.07.24",
+    "target_price": 68000,
+    "source": "naver"
+  },
+  "94387": {
+    "code": "042040",
+    "name": "케이피엠테크",
+    "title": "첨단표면처리산업을 선도하는 54년 기술 혁신..",
+    "broker": "NICE평가정보",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94386": {
+    "code": "244880",
+    "name": "나눔테크",
+    "title": "인공지능 심전도 분석 기술로 생명을 살리는 ..",
+    "broker": "NICE평가정보",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94385": {
+    "code": "254160",
+    "name": "제이엠멀티",
+    "title": "천연목재 인프라와 첨단 헬스케어 기술을 잇..",
+    "broker": "NICE평가정보",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94384": {
+    "code": "227420",
+    "name": "도부",
+    "title": "산업안전과 재난대피 수요 기반으로 필터·정..",
+    "broker": "서울평가정보",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94383": {
+    "code": "256940",
+    "name": "킵스파마",
+    "title": "표적항암제와 경구용 펩타이드 플랫폼 기반 ..",
+    "broker": "서울평가정보",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94382": {
+    "code": "180400",
+    "name": "DXVX",
+    "title": "경구용 비만치료제와 핵산 플랫폼 기반 신약..",
+    "broker": "서울평가정보",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94381": {
+    "code": "039610",
+    "name": "화성밸브",
+    "title": "정밀 밀폐·완전용접 기술과 폭넓은 공급 기..",
+    "broker": "서울평가정보",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94380": {
+    "code": "065500",
+    "name": "오리엔트정공",
+    "title": "현대·기아차 1차 협력 알루미늄 정밀부품 전..",
+    "broker": "NICE평가정보",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94379": {
+    "code": "015260",
+    "name": "에이엔피",
+    "title": "자동차 전장 PCB 45년 노하우, 로봇·전기차 ..",
+    "broker": "NICE평가정보",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94378": {
+    "code": "036560",
+    "name": "KZ정밀",
+    "title": "고사양 플랜트용 펌프·밸브 제조 기반과 주..",
+    "broker": "서울평가정보",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94377": {
+    "code": "201490",
+    "name": "미투온",
+    "title": "소셜카지노와 캐주얼 게임 기반 위에 콘텐츠 ..",
+    "broker": "서울평가정보",
+    "date": "26.07.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "hk:651056": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "삼성E&A(028050) 믿고 보는 실적",
+    "broker": "한화투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 70000,
+    "source": "hankyung"
+  },
+  "hk:651055": {
+    "code": "086280",
+    "name": "현대글로비스",
+    "title": "현대글로비스(086280) 이익 감소는 일시적, 매출 고성장은 지속",
+    "broker": "한화투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 380000,
+    "source": "hankyung"
+  },
+  "hk:651054": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "KB금융(105560) 기말 배당으로 이연된 하반기 재원",
+    "broker": "한화투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 226000,
+    "source": "hankyung"
+  },
+  "hk:651053": {
+    "code": "055550",
+    "name": "신한지주",
+    "title": "신한지주(055550) 환원 수익률 7% 내외로 투자매력 확보",
+    "broker": "한화투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 137000,
+    "source": "hankyung"
+  },
+  "hk:651052": {
+    "code": "251970",
+    "name": "펌텍코리아",
+    "title": "펌텍코리아(251970) 정상화, 개선 그리고 추가 증설",
+    "broker": "한화투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 67000,
+    "source": "hankyung"
+  },
+  "hk:651051": {
+    "code": "483650",
+    "name": "달바글로벌",
+    "title": "달바글로벌(483650) 확장의 구간",
+    "broker": "한화투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 290000,
+    "source": "hankyung"
+  },
+  "hk:651050": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "현대차(005380) ECB, 인상은 끝나지 않았다",
+    "broker": "한화투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 760000,
+    "source": "hankyung"
+  },
+  "hk:651048": {
+    "code": "086390",
+    "name": "유니테스트",
+    "title": "유니테스트(086390) HBM Burn-in 테스터가 여는 실적 턴어라운드",
+    "broker": "한국IR협의회",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651047": {
+    "code": "195940",
+    "name": "HK이노엔",
+    "title": "HK이노엔(195940) K-CAB의 다음 무대, 미국 딱 기다려!",
+    "broker": "한국IR협의회",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651046": {
+    "code": "000120",
+    "name": "CJ대한통운",
+    "title": "CJ대한통운(000120) 외형 성장을 위한 발판 마련중",
+    "broker": "상상인증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 110000,
+    "source": "hankyung"
+  },
+  "hk:651044": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "삼성바이오로직스(207940) 2Q26P Review: 펩타이드 공장 인수는 긍정적, 수주는 확인 필요",
+    "broker": "메리츠증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 2000000,
+    "source": "hankyung"
+  },
+  "hk:651043": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "삼성E&A(028050) 2Q26 Review: 물 들어오는 첨단 산업 수주",
+    "broker": "메리츠증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 76000,
+    "source": "hankyung"
+  },
+  "hk:651042": {
+    "code": "175330",
+    "name": "JB금융지주",
+    "title": "JB금융지주(175330) 과도한 저평가 국면",
+    "broker": "메리츠증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 41500,
+    "source": "hankyung"
+  },
+  "hk:651041": {
+    "code": "005940",
+    "name": "NH투자증권",
+    "title": "NH투자증권(005940) 믿을만한 고배당",
+    "broker": "메리츠증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 44000,
+    "source": "hankyung"
+  },
+  "hk:651040": {
+    "code": "060720",
+    "name": "KH바텍",
+    "title": "KH바텍(060720) 와이드 폴드의 주인공 + 로봇",
+    "broker": "메리츠증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 16000,
+    "source": "hankyung"
+  },
+  "hk:651039": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "삼성E&A(028050) 실적도, 수주도 가속화",
+    "broker": "대신증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 68000,
+    "source": "hankyung"
+  },
+  "hk:651037": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "LS ELECTRIC(010120) 구조적 실적 개선. 이제 시작일 뿐!",
+    "broker": "대신증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 330000,
+    "source": "hankyung"
+  },
+  "hk:651036": {
+    "code": "010060",
+    "name": "OCI홀딩스",
+    "title": "OCI홀딩스(010060) 폴리실리콘 증설과 이번 투자에 담긴 3가지 시사점",
+    "broker": "iM증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651035": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "삼성바이오로직스(207940) 분기 최대 실적 달성, 3Q 쉬어가도 성장은 지속",
+    "broker": "대신증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 2000000,
+    "source": "hankyung"
+  },
+  "hk:651034": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "현대차(005380) 예상된 실적 부진, 그럼에도 밝은 이유",
+    "broker": "iM증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 650000,
+    "source": "hankyung"
+  },
+  "hk:651033": {
+    "code": "009150",
+    "name": "삼성전기",
+    "title": "삼성전기(009150) MLCC 수주 공시 관련 코멘트: 늦게 오면 지각비 낸다",
+    "broker": "iM증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 3000000,
+    "source": "hankyung"
+  },
+  "hk:651031": {
+    "code": "005940",
+    "name": "NH투자증권",
+    "title": "NH투자증권(005940) 브로커리지 중심 호실적과 높아진 비용 부담",
+    "broker": "iM증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 41000,
+    "source": "hankyung"
+  },
+  "hk:651029": {
+    "code": "055550",
+    "name": "신한지주",
+    "title": "신한지주(055550) 더 좋아질 이익과 높아진 주주환원 매력",
+    "broker": "iM증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 132000,
+    "source": "hankyung"
+  },
+  "hk:651028": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "KB금융(105560) 이익과 주주환원 모두 가장 편안한 선택지",
+    "broker": "iM증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 205000,
+    "source": "hankyung"
+  },
+  "hk:651027": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "삼성E&A(028050) 첨단 산업 눈높이 상향, 건설업종 Top pick 추천",
+    "broker": "iM증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 69000,
+    "source": "hankyung"
+  },
+  "hk:651026": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "삼성E&A(028050) 연간 영업이익 1조원이 보인다",
+    "broker": "유진투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 77000,
+    "source": "hankyung"
+  },
+  "hk:651025": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "삼성바이오로직스(207940) 성장을 이끄는 새로운 스토리가 생겼다",
+    "broker": "iM증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 1900000,
+    "source": "hankyung"
+  },
+  "hk:651019": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "LS ELECTRIC(010120) 수주가 증명한 성장성",
+    "broker": "IBK투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 280000,
+    "source": "hankyung"
+  },
+  "hk:651018": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "LS ELECTRIC(010120) 수주가 증명한 성장성",
+    "broker": "IBK투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 280000,
+    "source": "hankyung"
+  },
+  "hk:651017": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "삼성바이오로직스(207940) 미국 생산거점과 5공장, 그리고 펩타이드",
+    "broker": "IBK투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 2090000,
+    "source": "hankyung"
+  },
+  "hk:651011": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "현대차(005380) 2Q26 Re: 하반기 OPM 회복 발판 마련",
+    "broker": "유안타증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 570000,
+    "source": "hankyung"
+  },
+  "hk:651010": {
+    "code": "086280",
+    "name": "현대글로비스",
+    "title": "현대글로비스(086280) 유류비 부담은 일시적, 성장 동력은 여전",
+    "broker": "유안타증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 320000,
+    "source": "hankyung"
+  },
+  "hk:651009": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "LS ELECTRIC(010120) 더 커진 수주, 더 빨라진 실적",
+    "broker": "유안타증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 300000,
+    "source": "hankyung"
+  },
+  "hk:651008": {
+    "code": "055550",
+    "name": "신한지주",
+    "title": "신한지주(055550) 기대되는 10월 자사주 매입 발표",
+    "broker": "유안타증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 140000,
+    "source": "hankyung"
+  },
+  "hk:651007": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "KB금융(105560) 조달비용 상승 우려 선반영",
+    "broker": "유안타증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 235000,
+    "source": "hankyung"
+  },
+  "hk:651006": {
+    "code": "175330",
+    "name": "JB금융지주",
+    "title": "JB금융지주(175330) 2026년 총주주환원율은 무조건 50% 달성",
+    "broker": "유안타증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 40000,
+    "source": "hankyung"
+  },
+  "hk:651001": {
+    "code": "005090",
+    "name": "SGC에너지",
+    "title": "SGC에너지(005090) 숫자로 증명하는 발전사업, 내러티브는 데이터센터가 끌고간다",
+    "broker": "SK증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 86000,
+    "source": "hankyung"
+  },
+  "hk:651000": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "LS ELECTRIC(010120) 영업레버리지에 멀티플 확장까지",
+    "broker": "SK증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 310000,
+    "source": "hankyung"
+  },
+  "hk:650999": {
+    "code": "005940",
+    "name": "NH투자증권",
+    "title": "NH투자증권(005940) 2Q26 Review: 견조한 탑라인, 커진 비용 부담",
+    "broker": "SK증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 44000,
+    "source": "hankyung"
+  },
+  "hk:650998": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "현대차(005380) 하반기 실적 개선과 모멘텀 집중",
+    "broker": "LS증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 720000,
+    "source": "hankyung"
+  },
+  "hk:650997": {
+    "code": "086280",
+    "name": "현대글로비스",
+    "title": "현대글로비스(086280) 2Q26 Review: 후반전 해트트릭 예고",
+    "broker": "LS증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 320000,
+    "source": "hankyung"
+  },
+  "hk:650996": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "LS ELECTRIC(010120) 실적, 수주 Surprise + AI발 배전모멘텀 → 밸류 할증 당연",
+    "broker": "LS증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 350000,
+    "source": "hankyung"
+  },
+  "hk:650995": {
+    "code": "189300",
+    "name": "인텔리안테크",
+    "title": "인텔리안테크(189300) 부진한 센티멘트에도 굳건한 실적",
+    "broker": "유진투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 140000,
+    "source": "hankyung"
+  },
+  "hk:650994": {
+    "code": "010060",
+    "name": "OCI홀딩스",
+    "title": "OCI홀딩스(010060) 간다, 우주로",
+    "broker": "유진투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 400000,
+    "source": "hankyung"
+  },
+  "hk:650993": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "현대차(005380) 2Q26 Review: 연간 가이던스 유지, 미래 전략은 8월 CID에서",
+    "broker": "유진투자증권",
+    "date": "2026-07-24",
+    "target_price": null,
+    "listed_target_price": 900000,
+    "source": "hankyung"
   }
 }
