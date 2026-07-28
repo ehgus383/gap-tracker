@@ -31686,5 +31686,1053 @@
     "target_price": null,
     "listed_target_price": 26000,
     "source": "hankyung"
+  },
+  "94642": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "상선 수익성 단숨에 국내 1위 등극",
+    "broker": "DS투자증권",
+    "date": "26.07.28",
+    "target_price": 145000,
+    "source": "naver"
+  },
+  "94641": {
+    "code": "068270",
+    "name": "셀트리온",
+    "title": "2Q26 Re: 기대를 뛰어넘는 가파른 성장",
+    "broker": "DS투자증권",
+    "date": "26.07.28",
+    "target_price": 320000,
+    "source": "naver"
+  },
+  "94640": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "과도한 우려",
+    "broker": "DS투자증권",
+    "date": "26.07.28",
+    "target_price": 1300000,
+    "source": "naver"
+  },
+  "94639": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "아직 불안한 실적",
+    "broker": "한화투자증권",
+    "date": "26.07.28",
+    "target_price": 47000,
+    "source": "naver"
+  },
+  "94638": {
+    "code": "000150",
+    "name": "두산",
+    "title": "광모듈 CCL, 새로운 성장 축으로 부상",
+    "broker": "DS투자증권",
+    "date": "26.07.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94637": {
+    "code": "139130",
+    "name": "iM금융지주",
+    "title": "4분기 추가 자사주의 가능성도 열려있다",
+    "broker": "한화투자증권",
+    "date": "26.07.28",
+    "target_price": 25000,
+    "source": "naver"
+  },
+  "94636": {
+    "code": "139480",
+    "name": "이마트",
+    "title": "2Q26 Preview: 우려는 일시적, 개선은 진행형",
+    "broker": "교보증권",
+    "date": "26.07.28",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "94635": {
+    "code": "114810",
+    "name": "한솔아이원스",
+    "title": "더 큰 성장을 위한 발판을 마련중",
+    "broker": "한화투자증권",
+    "date": "26.07.28",
+    "target_price": 15000,
+    "source": "naver"
+  },
+  "94634": {
+    "code": "000150",
+    "name": "두산",
+    "title": "낮아진 밸류에이션과 견고한 사업 경쟁력",
+    "broker": "교보증권",
+    "date": "26.07.28",
+    "target_price": 1800000,
+    "source": "naver"
+  },
+  "94633": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "2Q26 Review 서프라이즈 실적",
+    "broker": "교보증권",
+    "date": "26.07.28",
+    "target_price": 1300000,
+    "source": "naver"
+  },
+  "94632": {
+    "code": "000150",
+    "name": "두산",
+    "title": "예상대비 가파른 광모듈 수요 증가",
+    "broker": "하나증권",
+    "date": "26.07.28",
+    "target_price": 2420000,
+    "source": "naver"
+  },
+  "94631": {
+    "code": "095340",
+    "name": "ISC",
+    "title": "새로운 시장이 열린다",
+    "broker": "하나증권",
+    "date": "26.07.28",
+    "target_price": 250000,
+    "source": "naver"
+  },
+  "94630": {
+    "code": "327260",
+    "name": "RF머트리얼즈",
+    "title": "실적 성장세 감안하면 말도 안되게 낮은 멀티..",
+    "broker": "하나증권",
+    "date": "26.07.28",
+    "target_price": 75000,
+    "source": "naver"
+  },
+  "94629": {
+    "code": "035420",
+    "name": "NAVER",
+    "title": "3대 주주 엔비디아, 의심을 확신으로 바꿀 시..",
+    "broker": "하나증권",
+    "date": "26.07.28",
+    "target_price": 400000,
+    "source": "naver"
+  },
+  "94628": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "상선 마진 추가 레벨업",
+    "broker": "하나증권",
+    "date": "26.07.28",
+    "target_price": 175000,
+    "source": "naver"
+  },
+  "94627": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "핵심사업 중심 중장기 마진 개선 유효",
+    "broker": "하나증권",
+    "date": "26.07.28",
+    "target_price": 165000,
+    "source": "naver"
+  },
+  "94626": {
+    "code": "443060",
+    "name": "HD현대마린솔루션",
+    "title": "Core 마진 하락에도 최대 실적 달성",
+    "broker": "하나증권",
+    "date": "26.07.28",
+    "target_price": 330000,
+    "source": "naver"
+  },
+  "94625": {
+    "code": "139130",
+    "name": "iM금융지주",
+    "title": "실적은 아쉬웠지만 큰폭의 CET 1 비율 개선은..",
+    "broker": "하나증권",
+    "date": "26.07.28",
+    "target_price": 24500,
+    "source": "naver"
+  },
+  "94624": {
+    "code": "029780",
+    "name": "삼성카드",
+    "title": "만만치 않은 영업환경. 일부 자사주 활용 방..",
+    "broker": "하나증권",
+    "date": "26.07.28",
+    "target_price": 66000,
+    "source": "naver"
+  },
+  "94623": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "동트기 전이 가장 어둡다",
+    "broker": "유안타증권",
+    "date": "26.07.28",
+    "target_price": 149000,
+    "source": "naver"
+  },
+  "94622": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "지속되는 운은 실력이고, 환차익도 이익이다",
+    "broker": "유안타증권",
+    "date": "26.07.28",
+    "target_price": 179000,
+    "source": "naver"
+  },
+  "94621": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "2Q26 Re: 계절성을 뛰어넘은 실적",
+    "broker": "유안타증권",
+    "date": "26.07.28",
+    "target_price": 1400000,
+    "source": "naver"
+  },
+  "94620": {
+    "code": "441270",
+    "name": "파인엠텍",
+    "title": "사상 최대 매출이 예상되는 2026년",
+    "broker": "유안타증권",
+    "date": "26.07.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94619": {
+    "code": "068270",
+    "name": "셀트리온",
+    "title": "2Q26Re: 계속되는 신제품 효과",
+    "broker": "유안타증권",
+    "date": "26.07.28",
+    "target_price": 280000,
+    "source": "naver"
+  },
+  "94618": {
+    "code": "009240",
+    "name": "한샘",
+    "title": "실적 방어 지속, 다시금 강화된 주주환원",
+    "broker": "미래에셋증권",
+    "date": "26.07.28",
+    "target_price": 48000,
+    "source": "naver"
+  },
+  "94617": {
+    "code": "099190",
+    "name": "아이센스",
+    "title": "영업레버리지 효과 발휘 구간 확인",
+    "broker": "미래에셋증권",
+    "date": "26.07.28",
+    "target_price": 40000,
+    "source": "naver"
+  },
+  "94616": {
+    "code": "316140",
+    "name": "우리금융지주",
+    "title": "약점을 딛고 도약",
+    "broker": "대신증권",
+    "date": "26.07.28",
+    "target_price": 43000,
+    "source": "naver"
+  },
+  "94615": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "3Q 성장은 가속화",
+    "broker": "대신증권",
+    "date": "26.07.28",
+    "target_price": 1300000,
+    "source": "naver"
+  },
+  "94614": {
+    "code": "000150",
+    "name": "두산",
+    "title": "견고한 본업, 부각되는 광모듈",
+    "broker": "대신증권",
+    "date": "26.07.28",
+    "target_price": 1840000,
+    "source": "naver"
+  },
+  "94613": {
+    "code": "068270",
+    "name": "셀트리온",
+    "title": "이익 레벨업, 하반기가 더 기대되는 이유",
+    "broker": "대신증권",
+    "date": "26.07.28",
+    "target_price": 280000,
+    "source": "naver"
+  },
+  "94612": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "눈높이는 낮춰도, 자리는 그대로다",
+    "broker": "미래에셋증권",
+    "date": "26.07.28",
+    "target_price": 950000,
+    "source": "naver"
+  },
+  "94611": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "2Q26 Review: 완벽한 청사진",
+    "broker": "미래에셋증권",
+    "date": "26.07.28",
+    "target_price": 100000,
+    "source": "naver"
+  },
+  "94610": {
+    "code": "139130",
+    "name": "iM금융지주",
+    "title": "철저한 RWA 관리 긍정적",
+    "broker": "미래에셋증권",
+    "date": "26.07.28",
+    "target_price": 25000,
+    "source": "naver"
+  },
+  "94609": {
+    "code": "443060",
+    "name": "HD현대마린솔루션",
+    "title": "2Q26 Review 다시 쓴 사상 최대, 일시적 비용..",
+    "broker": "신한투자증권",
+    "date": "26.07.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94608": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "2024년 물량의 힘",
+    "broker": "유진투자증권",
+    "date": "26.07.28",
+    "target_price": 137000,
+    "source": "naver"
+  },
+  "94607": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "하반기 수주 기대",
+    "broker": "유진투자증권",
+    "date": "26.07.28",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "94606": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "2·3분기 실적 견조. 눈높이는 조정",
+    "broker": "SK증권",
+    "date": "26.07.28",
+    "target_price": 1000000,
+    "source": "naver"
+  },
+  "94605": {
+    "code": "403870",
+    "name": "HPSP",
+    "title": "로직을 넘어 메모리로, HPA 성장축 다변화",
+    "broker": "한국IR협의회",
+    "date": "26.07.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94604": {
+    "code": "077360",
+    "name": "덕산하이메탈",
+    "title": "고객사 장기계약이 뒷받침하는 솔더볼 수요",
+    "broker": "IBK투자증권",
+    "date": "26.07.28",
+    "target_price": 18000,
+    "source": "naver"
+  },
+  "94603": {
+    "code": "068270",
+    "name": "셀트리온",
+    "title": "Top-Tier에 걸맞은 실적. 경쟁사 대비 저평가",
+    "broker": "미래에셋증권",
+    "date": "26.07.28",
+    "target_price": 280000,
+    "source": "naver"
+  },
+  "94602": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "믿기지 않는 상선 마진율, 그러나 관망 필요",
+    "broker": "SK증권",
+    "date": "26.07.28",
+    "target_price": 134000,
+    "source": "naver"
+  },
+  "94601": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "모바일이 막아주는 하방, 기판이 열어주는 상..",
+    "broker": "키움증권",
+    "date": "26.07.28",
+    "target_price": 1100000,
+    "source": "naver"
+  },
+  "94600": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "견조한 수주 성장세",
+    "broker": "IBK투자증권",
+    "date": "26.07.28",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "94599": {
+    "code": "000150",
+    "name": "두산",
+    "title": "견조한 실적과 하반기 성장에 주목할 시기",
+    "broker": "키움증권",
+    "date": "26.07.28",
+    "target_price": 2200000,
+    "source": "naver"
+  },
+  "94598": {
+    "code": "068270",
+    "name": "셀트리온",
+    "title": "신규 제품이 바꾼 이익 체급",
+    "broker": "신한투자증권",
+    "date": "26.07.28",
+    "target_price": 290000,
+    "source": "naver"
+  },
+  "94597": {
+    "code": "095340",
+    "name": "ISC",
+    "title": "더 좋은 하반기 그리고 2027",
+    "broker": "신한투자증권",
+    "date": "26.07.28",
+    "target_price": 220000,
+    "source": "naver"
+  },
+  "94596": {
+    "code": "218410",
+    "name": "RFHIC",
+    "title": "다시 전고점을 향해",
+    "broker": "신한투자증권",
+    "date": "26.07.28",
+    "target_price": 81000,
+    "source": "naver"
+  },
+  "94595": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "3년 뒤, 5년 뒤를 보며 움직인다",
+    "broker": "iM증권",
+    "date": "26.07.28",
+    "target_price": 910000,
+    "source": "naver"
+  },
+  "94594": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "기판 성장이 주가 방향성 결정",
+    "broker": "신한투자증권",
+    "date": "26.07.28",
+    "target_price": 1100000,
+    "source": "naver"
+  },
+  "94593": {
+    "code": "139130",
+    "name": "iM금융지주",
+    "title": "하반기로 갈수록 높아질 투자 매력",
+    "broker": "신한투자증권",
+    "date": "26.07.28",
+    "target_price": 23000,
+    "source": "naver"
+  },
+  "94592": {
+    "code": "000150",
+    "name": "두산",
+    "title": "변함없는 성장과 방향성",
+    "broker": "신한투자증권",
+    "date": "26.07.28",
+    "target_price": 2100000,
+    "source": "naver"
+  },
+  "94591": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "아쉬움을 덮는 이익 체력",
+    "broker": "신한투자증권",
+    "date": "26.07.28",
+    "target_price": 130000,
+    "source": "naver"
+  },
+  "94590": {
+    "code": "237690",
+    "name": "에스티팜",
+    "title": "일회성 원가에 가려진 성장",
+    "broker": "IBK투자증권",
+    "date": "26.07.28",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "94589": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "2Q26: 상선과 특수선의 희비교차",
+    "broker": "iM증권",
+    "date": "26.07.28",
+    "target_price": 134000,
+    "source": "naver"
+  },
+  "94588": {
+    "code": "024110",
+    "name": "기업은행",
+    "title": "업종 내 상대적 약세 완화 기대",
+    "broker": "신한투자증권",
+    "date": "26.07.28",
+    "target_price": 26000,
+    "source": "naver"
+  },
+  "94587": {
+    "code": "024110",
+    "name": "기업은행",
+    "title": "명목 배당수익률 외에는 제한적인 투자매력",
+    "broker": "iM증권",
+    "date": "26.07.28",
+    "target_price": 27000,
+    "source": "naver"
+  },
+  "94586": {
+    "code": "139130",
+    "name": "iM금융지주",
+    "title": "자본력 개선은 긍정적이나 높아진 비용 부담",
+    "broker": "iM증권",
+    "date": "26.07.28",
+    "target_price": 23000,
+    "source": "naver"
+  },
+  "94585": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "광학 계절성 변수는 좋은 변화",
+    "broker": "IBK투자증권",
+    "date": "26.07.28",
+    "target_price": 850000,
+    "source": "naver"
+  },
+  "94584": {
+    "code": "068270",
+    "name": "셀트리온",
+    "title": "이제는 믿을맨 포지션",
+    "broker": "iM증권",
+    "date": "26.07.28",
+    "target_price": 260000,
+    "source": "naver"
+  },
+  "94583": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "부침은 있어도 방향성은 변하지 않는다",
+    "broker": "신한투자증권",
+    "date": "26.07.28",
+    "target_price": 135000,
+    "source": "naver"
+  },
+  "94582": {
+    "code": "108320",
+    "name": "LX세미콘",
+    "title": "2026년 실적 역성장 불가피할 전망",
+    "broker": "iM증권",
+    "date": "26.07.28",
+    "target_price": 43000,
+    "source": "naver"
+  },
+  "94581": {
+    "code": "039030",
+    "name": "이오테크닉스",
+    "title": "기존 주력 제품의 부활",
+    "broker": "iM증권",
+    "date": "26.07.28",
+    "target_price": 485000,
+    "source": "naver"
+  },
+  "94580": {
+    "code": "420570",
+    "name": "제이투케이바이오",
+    "title": "탐방노트: 실적 반등 전망",
+    "broker": "SK증권",
+    "date": "26.07.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94579": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "놀라운 실적 개선 속도, 하반기 수주 확대 기..",
+    "broker": "키움증권",
+    "date": "26.07.28",
+    "target_price": 144000,
+    "source": "naver"
+  },
+  "94578": {
+    "code": "003540",
+    "name": "대신증권",
+    "title": "2Q26 Preview: 생각보다 좋음",
+    "broker": "SK증권",
+    "date": "26.07.28",
+    "target_price": 42000,
+    "source": "naver"
+  },
+  "94577": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "저평가된 국내 시장 잠재력에 주목",
+    "broker": "키움증권",
+    "date": "26.07.28",
+    "target_price": 130000,
+    "source": "naver"
+  },
+  "94576": {
+    "code": "140860",
+    "name": "파크시스템스",
+    "title": "기술 패권 경쟁의 수혜",
+    "broker": "SK증권",
+    "date": "26.07.28",
+    "target_price": 350000,
+    "source": "naver"
+  },
+  "94575": {
+    "code": "024110",
+    "name": "기업은행",
+    "title": "환율상승으로 순이익 소폭 감소, 중간배당 실..",
+    "broker": "키움증권",
+    "date": "26.07.28",
+    "target_price": 30000,
+    "source": "naver"
+  },
+  "94574": {
+    "code": "139130",
+    "name": "iM금융지주",
+    "title": "이익감소에도 자본비율 상승, 주주환원 강화",
+    "broker": "키움증권",
+    "date": "26.07.28",
+    "target_price": 25500,
+    "source": "naver"
+  },
+  "94573": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "2Q26 Review: 더욱 빨라진 기판 시계열",
+    "broker": "유진투자증권",
+    "date": "26.07.28",
+    "target_price": 900000,
+    "source": "naver"
+  },
+  "94572": {
+    "code": "000150",
+    "name": "두산",
+    "title": "2Q26 Review: 두산 사세요, 두산 좋아요",
+    "broker": "유진투자증권",
+    "date": "26.07.28",
+    "target_price": 2580000,
+    "source": "naver"
+  },
+  "94571": {
+    "code": "079370",
+    "name": "제우스",
+    "title": "반도체 수율의 해결사",
+    "broker": "한국IR협의회",
+    "date": "26.07.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "hk:651195": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "LG이노텍(011070) 3년 뒤, 5년 뒤를 보며 움직인다",
+    "broker": "iM증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 910000,
+    "source": "hankyung"
+  },
+  "hk:651194": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "한화오션(042660) 2Q26: 상선과 특수선의 희비교차",
+    "broker": "iM증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 134000,
+    "source": "hankyung"
+  },
+  "hk:651193": {
+    "code": "068270",
+    "name": "셀트리온",
+    "title": "셀트리온(068270) 이제는 믿을맨 포지션",
+    "broker": "iM증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 260000,
+    "source": "hankyung"
+  },
+  "hk:651192": {
+    "code": "108320",
+    "name": "LX세미콘",
+    "title": "LX세미콘(108320) 2026년 실적 역성장 불가피할 전망",
+    "broker": "iM증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 43000,
+    "source": "hankyung"
+  },
+  "hk:651191": {
+    "code": "039030",
+    "name": "이오테크닉스",
+    "title": "이오테크닉스(039030) 기존 주력 제품의 부활",
+    "broker": "iM증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 485000,
+    "source": "hankyung"
+  },
+  "hk:651190": {
+    "code": "139130",
+    "name": "iM금융지주",
+    "title": "iM금융지주(139130) 자본력 개선은 긍정적이나 높아진 비용 부담",
+    "broker": "iM증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 23000,
+    "source": "hankyung"
+  },
+  "hk:651189": {
+    "code": "024110",
+    "name": "기업은행",
+    "title": "기업은행(024110) 명목 배당수익률 외에는 제한적인 투자매력",
+    "broker": "iM증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 27000,
+    "source": "hankyung"
+  },
+  "hk:651185": {
+    "code": "077360",
+    "name": "덕산하이메탈",
+    "title": "덕산하이메탈(077360) 고객사 장기계약이 뒷받침하는 솔더볼 수요",
+    "broker": "IBK투자증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 18000,
+    "source": "hankyung"
+  },
+  "hk:651184": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "두산에너빌리티(034020) 견조한 수주 성장세",
+    "broker": "IBK투자증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 140000,
+    "source": "hankyung"
+  },
+  "hk:651183": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "두산에너빌리티(034020) 견조한 수주 성장세",
+    "broker": "IBK투자증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 140000,
+    "source": "hankyung"
+  },
+  "hk:651181": {
+    "code": "237690",
+    "name": "에스티팜",
+    "title": "에스티팜(237690) 일회성 원가에 가려진 성장",
+    "broker": "IBK투자증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 200000,
+    "source": "hankyung"
+  },
+  "hk:651180": {
+    "code": "069260",
+    "name": "TKG휴켐스",
+    "title": "TKG휴켐스(069260) 라인강 수위 저하로 인한 반사수혜 가능성",
+    "broker": "IBK투자증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 24000,
+    "source": "hankyung"
+  },
+  "hk:651179": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "LG이노텍(011070) 광학 계절성 변수는 좋은 변화",
+    "broker": "IBK투자증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 850000,
+    "source": "hankyung"
+  },
+  "hk:651177": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "LG이노텍(011070) 2· 3분기 실적 견조. 눈높이는 조정",
+    "broker": "SK증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 1000000,
+    "source": "hankyung"
+  },
+  "hk:651176": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "한화오션(042660) 믿기지 않는 상선 마진율, 그러나 관망 필요",
+    "broker": "SK증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 134000,
+    "source": "hankyung"
+  },
+  "hk:651175": {
+    "code": "003540",
+    "name": "대신증권",
+    "title": "대신증권(003540) 2Q26 Preview: 생각보다 좋음",
+    "broker": "SK증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 42000,
+    "source": "hankyung"
+  },
+  "hk:651174": {
+    "code": "140860",
+    "name": "파크시스템스",
+    "title": "파크시스템스(140860) 기술 패권 경쟁의 수혜",
+    "broker": "SK증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 350000,
+    "source": "hankyung"
+  },
+  "hk:651173": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "두산에너빌리티(034020) 동트기 전이 가장 어둡다",
+    "broker": "유안타증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 149000,
+    "source": "hankyung"
+  },
+  "hk:651172": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "한화오션(042660) 지속되는 운은 실력이고, 환차익도 이익이다",
+    "broker": "유안타증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 179000,
+    "source": "hankyung"
+  },
+  "hk:651171": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "LG이노텍(011070) 2Q26 Re: 계절성을 뛰어넘은 실적",
+    "broker": "유안타증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 1400000,
+    "source": "hankyung"
+  },
+  "hk:651170": {
+    "code": "068270",
+    "name": "셀트리온",
+    "title": "셀트리온(068270) 2Q26Re: 계속되는 신제품 효과",
+    "broker": "유안타증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 280000,
+    "source": "hankyung"
+  },
+  "hk:651165": {
+    "code": "011210",
+    "name": "현대위아",
+    "title": "현대위아(011210) 변화가 진행되는 중",
+    "broker": "LS증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 68000,
+    "source": "hankyung"
+  },
+  "hk:651164": {
+    "code": "089860",
+    "name": "롯데렌탈",
+    "title": "롯데렌탈(089860) 상반기보다 좋을 하반기",
+    "broker": "LS증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 51000,
+    "source": "hankyung"
+  },
+  "hk:651163": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "두산에너빌리티(034020) 채워가는 곳간",
+    "broker": "LS증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 120000,
+    "source": "hankyung"
+  },
+  "hk:651162": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "한화오션(042660) 2Q26 Review: 슈뢰딩거의 일회성",
+    "broker": "LS증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 140000,
+    "source": "hankyung"
+  },
+  "hk:651161": {
+    "code": "079370",
+    "name": "제우스",
+    "title": "제우스(079370) 반도체 수율의 해결사",
+    "broker": "한국IR협의회",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651160": {
+    "code": "403870",
+    "name": "HPSP",
+    "title": "HPSP(403870) 로직을 넘어 메모리로, HPA 성장축 다변화",
+    "broker": "한국IR협의회",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651159": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "한화오션(042660) 2Q26 Review: P 믹스와 환차익의 콜라보",
+    "broker": "상상인증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 130000,
+    "source": "hankyung"
+  },
+  "hk:651158": {
+    "code": "068270",
+    "name": "셀트리온",
+    "title": "셀트리온(068270) 하반기에도 지속되는 신제품 확대",
+    "broker": "상상인증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 290000,
+    "source": "hankyung"
+  },
+  "hk:651155": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "한국전력(015760) 아직 불안한 실적",
+    "broker": "한화투자증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 47000,
+    "source": "hankyung"
+  },
+  "hk:651154": {
+    "code": "139130",
+    "name": "iM금융지주",
+    "title": "iM금융지주(139130) 4분기 추가 자사주의 가능성도 열려있다",
+    "broker": "한화투자증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 25000,
+    "source": "hankyung"
+  },
+  "hk:651153": {
+    "code": "011070",
+    "name": "LG이노텍",
+    "title": "LG이노텍(011070) 걱정말아요 그대",
+    "broker": "메리츠증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 1200000,
+    "source": "hankyung"
+  },
+  "hk:651149": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "두산에너빌리티(034020) 2Q26 Review: 무언가 시작되는 느낌",
+    "broker": "메리츠증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 131000,
+    "source": "hankyung"
+  },
+  "hk:651148": {
+    "code": "443060",
+    "name": "HD현대마린솔루션",
+    "title": "HD현대마린솔루션(443060) 2Q26 Review:실적도, 기대감도 하반기에는 더 나아진다",
+    "broker": "메리츠증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 300000,
+    "source": "hankyung"
+  },
+  "hk:651147": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "한화오션(042660) 2Q26 Review: 상선 사업부, 기념비적 영업이익률",
+    "broker": "메리츠증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 140000,
+    "source": "hankyung"
+  },
+  "hk:651146": {
+    "code": "068270",
+    "name": "셀트리온",
+    "title": "셀트리온(068270) 신제품 성장과 직판 레버리지 확인",
+    "broker": "메리츠증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 290000,
+    "source": "hankyung"
+  },
+  "hk:651145": {
+    "code": "000150",
+    "name": "두산",
+    "title": "두산(000150) 새로운 매력 발산 시작",
+    "broker": "메리츠증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 2400000,
+    "source": "hankyung"
+  },
+  "hk:651139": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "한화오션(042660) 2024년 물량의 힘",
+    "broker": "유진투자증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 137000,
+    "source": "hankyung"
+  },
+  "hk:651138": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "두산에너빌리티(034020) 하반기 수주 기대",
+    "broker": "유진투자증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 110000,
+    "source": "hankyung"
+  },
+  "hk:651137": {
+    "code": "000150",
+    "name": "두산",
+    "title": "두산(000150) 2Q26 Review: 두산 사세요, 두산 좋아요",
+    "broker": "유진투자증권",
+    "date": "2026-07-28",
+    "target_price": null,
+    "listed_target_price": 2580000,
+    "source": "hankyung"
   }
 }
