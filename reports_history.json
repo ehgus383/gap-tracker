@@ -32734,5 +32734,834 @@
     "target_price": null,
     "listed_target_price": 2580000,
     "source": "hankyung"
+  },
+  "94703": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "title": "2Q26 Conference call",
+    "broker": "SK증권",
+    "date": "26.07.29",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94702": {
+    "code": "138930",
+    "name": "BNK금융지주",
+    "title": "이익 추정치 하향에도 높은 환원 수익률",
+    "broker": "한화투자증권",
+    "date": "26.07.29",
+    "target_price": 23500,
+    "source": "naver"
+  },
+  "94701": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "The Show Must Go On!",
+    "broker": "DS투자증권",
+    "date": "26.07.29",
+    "target_price": 350000,
+    "source": "naver"
+  },
+  "94700": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "우수한 방산, 안정적인 ICT, 개선되는 필리조..",
+    "broker": "DS투자증권",
+    "date": "26.07.29",
+    "target_price": 94000,
+    "source": "naver"
+  },
+  "94699": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "2Q26 Review: 보고 있는 것과 봐야 할 것",
+    "broker": "교보증권",
+    "date": "26.07.29",
+    "target_price": 320000,
+    "source": "naver"
+  },
+  "94698": {
+    "code": "034020",
+    "name": "두산에너빌리티",
+    "title": "2Q26 Review: 수주는 가이던스 초과를 향해",
+    "broker": "교보증권",
+    "date": "26.07.29",
+    "target_price": 120000,
+    "source": "naver"
+  },
+  "94697": {
+    "code": "011210",
+    "name": "현대위아",
+    "title": "2Q26 Review: 아쉬운 실적, 방향성은 유효",
+    "broker": "교보증권",
+    "date": "26.07.29",
+    "target_price": 80000,
+    "source": "naver"
+  },
+  "94696": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "2Q26 Review: 무난함 속에 숨겨진 저력",
+    "broker": "교보증권",
+    "date": "26.07.29",
+    "target_price": 1000000,
+    "source": "naver"
+  },
+  "94695": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "2Q26 Review; 에페글레나타이드 출시를 기다..",
+    "broker": "교보증권",
+    "date": "26.07.29",
+    "target_price": 700000,
+    "source": "naver"
+  },
+  "94694": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "실적 서프라이즈에도 이해할 수 없는 셀온",
+    "broker": "하나증권",
+    "date": "26.07.29",
+    "target_price": 350000,
+    "source": "naver"
+  },
+  "94693": {
+    "code": "138930",
+    "name": "BNK금융지주",
+    "title": "주주환원 보다 더 중요한 것은 이익 안정성에..",
+    "broker": "하나증권",
+    "date": "26.07.29",
+    "target_price": 24500,
+    "source": "naver"
+  },
+  "94692": {
+    "code": "003620",
+    "name": "KG모빌리티",
+    "title": "P/B 0.3배대를 극복하기 위한 두 가지 조건",
+    "broker": "하나증권",
+    "date": "26.07.29",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94691": {
+    "code": "030200",
+    "name": "KT",
+    "title": "8월 전략 - 당분간 저점 박스권 트레이딩 추..",
+    "broker": "하나증권",
+    "date": "26.07.29",
+    "target_price": 76000,
+    "source": "naver"
+  },
+  "94690": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "8월 전략 - AI가 배당 올릴 수 있다는 확신 ..",
+    "broker": "하나증권",
+    "date": "26.07.29",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "94689": {
+    "code": "032640",
+    "name": "LG유플러스",
+    "title": "8월 전략 - 단기 한 단계 주가 상승은 가능할..",
+    "broker": "하나증권",
+    "date": "26.07.29",
+    "target_price": 20000,
+    "source": "naver"
+  },
+  "94688": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "이제 배전도 성장 국면 진입",
+    "broker": "하나증권",
+    "date": "26.07.29",
+    "target_price": 1440000,
+    "source": "naver"
+  },
+  "94687": {
+    "code": "237690",
+    "name": "에스티팜",
+    "title": "일시적 영향이지만, 돌다리를 두드리며 (2Q26..",
+    "broker": "하나증권",
+    "date": "26.07.29",
+    "target_price": 190000,
+    "source": "naver"
+  },
+  "94686": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "2Q26 Re: 역대 최고 분기 OP 기록",
+    "broker": "유안타증권",
+    "date": "26.07.29",
+    "target_price": 136000,
+    "source": "naver"
+  },
+  "94685": {
+    "code": "024110",
+    "name": "기업은행",
+    "title": "떨어져라 환율아",
+    "broker": "유안타증권",
+    "date": "26.07.29",
+    "target_price": 25500,
+    "source": "naver"
+  },
+  "94684": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "주가는 빠졌지만, 실적은 흔들리지 않았다",
+    "broker": "유안타증권",
+    "date": "26.07.29",
+    "target_price": 1165000,
+    "source": "naver"
+  },
+  "94683": {
+    "code": "139130",
+    "name": "iM금융지주",
+    "title": "하반기 실적이 중요하다",
+    "broker": "유안타증권",
+    "date": "26.07.29",
+    "target_price": 26000,
+    "source": "naver"
+  },
+  "94682": {
+    "code": "237690",
+    "name": "에스티팜",
+    "title": "2Q26Re: 원가율 상승은 일시적",
+    "broker": "유안타증권",
+    "date": "26.07.29",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "94681": {
+    "code": "098460",
+    "name": "고영",
+    "title": "내년까지 든든한 AI 서버 수요",
+    "broker": "미래에셋증권",
+    "date": "26.07.29",
+    "target_price": 52500,
+    "source": "naver"
+  },
+  "94680": {
+    "code": "001740",
+    "name": "SK네트웍스",
+    "title": "본업 눈높이는 낮추고, AI 가치는 높이고",
+    "broker": "신한투자증권",
+    "date": "26.07.29",
+    "target_price": 9500,
+    "source": "naver"
+  },
+  "94679": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "북경한미 회복과 파이프라인 개발 진전에 주..",
+    "broker": "미래에셋증권",
+    "date": "26.07.29",
+    "target_price": 640000,
+    "source": "naver"
+  },
+  "94678": {
+    "code": "042660",
+    "name": "한화오션",
+    "title": "놀라운 상선 실적 22.7%",
+    "broker": "대신증권",
+    "date": "26.07.29",
+    "target_price": 139000,
+    "source": "naver"
+  },
+  "94677": {
+    "code": "237690",
+    "name": "에스티팜",
+    "title": "일시적 원가 부담, 컨센서스 하회",
+    "broker": "대신증권",
+    "date": "26.07.29",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "94676": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "2Q26 Review: 시작된 턴어라운드",
+    "broker": "대신증권",
+    "date": "26.07.29",
+    "target_price": 103000,
+    "source": "naver"
+  },
+  "94675": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "주가는 하락했지만, 펀더멘털은 강화 중",
+    "broker": "대신증권",
+    "date": "26.07.29",
+    "target_price": 1150000,
+    "source": "naver"
+  },
+  "94674": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "2Q26 Review: 데이터센터향 발주 본격화",
+    "broker": "미래에셋증권",
+    "date": "26.07.29",
+    "target_price": 1200000,
+    "source": "naver"
+  },
+  "94673": {
+    "code": "024110",
+    "name": "기업은행",
+    "title": "연간 주당배당금 감소 예상",
+    "broker": "미래에셋증권",
+    "date": "26.07.29",
+    "target_price": 22000,
+    "source": "naver"
+  },
+  "94672": {
+    "code": "138930",
+    "name": "BNK금융지주",
+    "title": "올해 증익은 어려울 것으로 예상",
+    "broker": "미래에셋증권",
+    "date": "26.07.29",
+    "target_price": 25000,
+    "source": "naver"
+  },
+  "94671": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "title": "펀더멘털에 비해 과격한 조정",
+    "broker": "미래에셋증권",
+    "date": "26.07.29",
+    "target_price": 2800000,
+    "source": "naver"
+  },
+  "94670": {
+    "code": "441270",
+    "name": "파인엠텍",
+    "title": "Corp Day: \"4Q에 집중된다\" 성장 재점화",
+    "broker": "SK증권",
+    "date": "26.07.29",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94669": {
+    "code": "138930",
+    "name": "BNK금융지주",
+    "title": "일회성 비용으로 컨센서스 하회",
+    "broker": "신한투자증권",
+    "date": "26.07.29",
+    "target_price": 21000,
+    "source": "naver"
+  },
+  "94668": {
+    "code": "005930",
+    "name": "삼성전자",
+    "title": "배당 매력도 급등 구간",
+    "broker": "미래에셋증권",
+    "date": "26.07.29",
+    "target_price": 370000,
+    "source": "naver"
+  },
+  "94667": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "수출이 이끈 호조, 미래를 위한 숨고르기",
+    "broker": "신한투자증권",
+    "date": "26.07.29",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94666": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "편안한 실적, 더 길어지는 성장 사이클",
+    "broker": "신한투자증권",
+    "date": "26.07.29",
+    "target_price": 1000000,
+    "source": "naver"
+  },
+  "94665": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "무난한 실적발표",
+    "broker": "SK증권",
+    "date": "26.07.29",
+    "target_price": 900000,
+    "source": "naver"
+  },
+  "94664": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "실적과 반대로 가는 주가",
+    "broker": "유진투자증권",
+    "date": "26.07.29",
+    "target_price": 340000,
+    "source": "naver"
+  },
+  "94663": {
+    "code": "000880",
+    "name": "한화",
+    "title": "인적분할 전후 투자전략 점검",
+    "broker": "키움증권",
+    "date": "26.07.29",
+    "target_price": 169000,
+    "source": "naver"
+  },
+  "94662": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "2Q 어닝 서프, 하반기 실적 보다 수주에 집중",
+    "broker": "SK증권",
+    "date": "26.07.29",
+    "target_price": 100000,
+    "source": "naver"
+  },
+  "94661": {
+    "code": "071970",
+    "name": "HD현대마린엔진",
+    "title": "컨센서스 하회, 그렇기에 기대되는 하반기",
+    "broker": "SK증권",
+    "date": "26.07.29",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "94660": {
+    "code": "098460",
+    "name": "고영",
+    "title": "2Q26P Review: 어닝서프라이즈 시현, 최대 실..",
+    "broker": "유진투자증권",
+    "date": "26.07.29",
+    "target_price": 41000,
+    "source": "naver"
+  },
+  "94659": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "두 자릿수 마진 회복",
+    "broker": "iM증권",
+    "date": "26.07.29",
+    "target_price": 330000,
+    "source": "naver"
+  },
+  "94658": {
+    "code": "094360",
+    "name": "칩스앤미디어",
+    "title": "2Q26P Review: 4분기 연속 로열티 매출 증가",
+    "broker": "유진투자증권",
+    "date": "26.07.29",
+    "target_price": 26000,
+    "source": "naver"
+  },
+  "94657": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "실적은 BTS, 미래는 차세대 IP",
+    "broker": "SK증권",
+    "date": "26.07.29",
+    "target_price": 350000,
+    "source": "naver"
+  },
+  "94656": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "비용 증가를 압도하는 매출 성장",
+    "broker": "신한투자증권",
+    "date": "26.07.29",
+    "target_price": 320000,
+    "source": "naver"
+  },
+  "94655": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "BTS 투어 위력 입증, 실적 눈높이 상향 조정",
+    "broker": "키움증권",
+    "date": "26.07.29",
+    "target_price": 330000,
+    "source": "naver"
+  },
+  "94654": {
+    "code": "138930",
+    "name": "BNK금융지주",
+    "title": "일회성비용, 비은행 개선, 주주환원 지속",
+    "broker": "키움증권",
+    "date": "26.07.29",
+    "target_price": 24000,
+    "source": "naver"
+  },
+  "94653": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "하반기는 실적보다 수주를 바라보자",
+    "broker": "키움증권",
+    "date": "26.07.29",
+    "target_price": 121000,
+    "source": "naver"
+  },
+  "94652": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "성장성은 변함없다",
+    "broker": "IBK투자증권",
+    "date": "26.07.29",
+    "target_price": 1200000,
+    "source": "naver"
+  },
+  "94651": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "2Q26: 방산, 필리, 모두 좋아지는 중",
+    "broker": "iM증권",
+    "date": "26.07.29",
+    "target_price": 104000,
+    "source": "naver"
+  },
+  "94650": {
+    "code": "138930",
+    "name": "BNK금융지주",
+    "title": "하반기 이익과 자사주 매입/소각 규모가 관건",
+    "broker": "iM증권",
+    "date": "26.07.29",
+    "target_price": 23000,
+    "source": "naver"
+  },
+  "94649": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "호실적도 있었고, 우려점도 있었다",
+    "broker": "iM증권",
+    "date": "26.07.29",
+    "target_price": 600000,
+    "source": "naver"
+  },
+  "94648": {
+    "code": "170900",
+    "name": "동아에스티",
+    "title": "조금 더딜 뿐이다",
+    "broker": "iM증권",
+    "date": "26.07.29",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "94647": {
+    "code": "098460",
+    "name": "고영",
+    "title": "운기조식(運氣調息)",
+    "broker": "키움증권",
+    "date": "26.07.29",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94646": {
+    "code": "119610",
+    "name": "인터로조",
+    "title": "어두웠던 과거, 밝아질 수 있는 미래",
+    "broker": "키움증권",
+    "date": "26.07.29",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94645": {
+    "code": "001500",
+    "name": "현대차증권",
+    "title": "주주환원 정책 의지 강한 증권사",
+    "broker": "한국IR협의회",
+    "date": "26.07.29",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94644": {
+    "code": "247540",
+    "name": "에코프로비엠",
+    "title": "수익성 정상화를 넘어 외형 확장 국면 진입",
+    "broker": "한국IR협의회",
+    "date": "26.07.29",
+    "target_price": null,
+    "source": "naver"
+  },
+  "94643": {
+    "code": "237690",
+    "name": "에스티팜",
+    "title": "2Q26 Review: 예상하지 못한 일회성 요인",
+    "broker": "미래에셋증권",
+    "date": "26.07.29",
+    "target_price": 150000,
+    "source": "naver"
+  },
+  "hk:651246": {
+    "code": "000120",
+    "name": "CJ대한통운",
+    "title": "CJ대한통운(000120) 2Q26 Preview: 1등의 고민",
+    "broker": "LS증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 120000,
+    "source": "hankyung"
+  },
+  "hk:651245": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "한화시스템(272210) 어닝 서프라이즈 기록",
+    "broker": "LS증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 100000,
+    "source": "hankyung"
+  },
+  "hk:651244": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "HD현대일렉트릭(267260) 실적/수주, 증설 등 상대적 열위. 이 부분 변화 가능성?",
+    "broker": "LS증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 1220000,
+    "source": "hankyung"
+  },
+  "hk:651242": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "하이브(352820) 두 자릿수 마진 회복",
+    "broker": "iM증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 330000,
+    "source": "hankyung"
+  },
+  "hk:651241": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "한화시스템(272210) 2Q26: 방산, 필리, 모두 좋아지는 중",
+    "broker": "iM증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 104000,
+    "source": "hankyung"
+  },
+  "hk:651240": {
+    "code": "138930",
+    "name": "BNK금융지주",
+    "title": "BNK금융지주(138930) 하반기 이익과 자사주 매입/소각 규모가 관건",
+    "broker": "iM증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 23000,
+    "source": "hankyung"
+  },
+  "hk:651239": {
+    "code": "105560",
+    "name": "KB금융",
+    "title": "KB금융(105560) 균형의 미",
+    "broker": "iM증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 205000,
+    "source": "hankyung"
+  },
+  "hk:651238": {
+    "code": "086790",
+    "name": "하나금융지주",
+    "title": "하나금융지주(086790) 환율 환경과 밸류에이션 매력 모두 부각",
+    "broker": "iM증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 153000,
+    "source": "hankyung"
+  },
+  "hk:651237": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "한미약품(128940) 호실적도 있었고, 우려점도 있었다",
+    "broker": "iM증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 600000,
+    "source": "hankyung"
+  },
+  "hk:651236": {
+    "code": "170900",
+    "name": "동아에스티",
+    "title": "동아에스티(170900) 조금 더딜 뿐이다",
+    "broker": "iM증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 50000,
+    "source": "hankyung"
+  },
+  "hk:651230": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "HD현대일렉트릭(267260) 성장성은 변함없다",
+    "broker": "IBK투자증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 1200000,
+    "source": "hankyung"
+  },
+  "hk:651220": {
+    "code": "237690",
+    "name": "에스티팜",
+    "title": "에스티팜(237690) 2Q26 Review: 일회성 원가를 걷어내면 양호한 실적",
+    "broker": "메리츠증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651219": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "한미약품(128940) 북경한미 부진에 가려진 기술이전의 가치",
+    "broker": "메리츠증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651216": {
+    "code": "247540",
+    "name": "에코프로비엠",
+    "title": "에코프로비엠(247540) 수익성 정상화를 넘어 외형 확장 국면 진입",
+    "broker": "한국IR협의회",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651212": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "한화시스템(272210) 2Q 어닝 서프, 하반기 실적 보다 수주에 집중",
+    "broker": "SK증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 100000,
+    "source": "hankyung"
+  },
+  "hk:651211": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "한화시스템(272210) 2Q 어닝 서프, 하반기 실적 보다 수주에 집중",
+    "broker": "SK증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 100000,
+    "source": "hankyung"
+  },
+  "hk:651210": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "HD현대일렉트릭(267260) 무난한 실적발표",
+    "broker": "SK증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 900000,
+    "source": "hankyung"
+  },
+  "hk:651208": {
+    "code": "071970",
+    "name": "HD현대마린엔진",
+    "title": "HD현대마린엔진(071970) 컨센서스 하회, 그렇기에 기대되는 하반기",
+    "broker": "SK증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 110000,
+    "source": "hankyung"
+  },
+  "hk:651207": {
+    "code": "352820",
+    "name": "하이브",
+    "title": "하이브(352820) 실적은 BTS, 미래는 차세대 IP",
+    "broker": "SK증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 350000,
+    "source": "hankyung"
+  },
+  "hk:651206": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "HD현대일렉트릭(267260) 주가는 하락했지만, 펀더멘털은 강화 중",
+    "broker": "대신증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 1150000,
+    "source": "hankyung"
+  },
+  "hk:651205": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "한화시스템(272210) 2Q26 Review: 시작된 턴어라운드",
+    "broker": "대신증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 103000,
+    "source": "hankyung"
+  },
+  "hk:651204": {
+    "code": "237690",
+    "name": "에스티팜",
+    "title": "에스티팜(237690) 일시적 원가 부담, 컨센서스 하회",
+    "broker": "대신증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 170000,
+    "source": "hankyung"
+  },
+  "hk:651203": {
+    "code": "237690",
+    "name": "에스티팜",
+    "title": "에스티팜(237690) 2026년 2분기 일회성 비용 반영",
+    "broker": "상상인증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 190000,
+    "source": "hankyung"
+  },
+  "hk:651202": {
+    "code": "272210",
+    "name": "한화시스템",
+    "title": "한화시스템(272210) 2Q26 Re: 역대 최고 분기 OP 기록",
+    "broker": "유안타증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 136000,
+    "source": "hankyung"
+  },
+  "hk:651201": {
+    "code": "024110",
+    "name": "기업은행",
+    "title": "기업은행(024110) 떨어져라 환율아",
+    "broker": "유안타증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 25500,
+    "source": "hankyung"
+  },
+  "hk:651200": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "HD현대일렉트릭(267260) 주가는 빠졌지만, 실적은 흔들리지 않았다",
+    "broker": "유안타증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 1165000,
+    "source": "hankyung"
+  },
+  "hk:651199": {
+    "code": "139130",
+    "name": "iM금융지주",
+    "title": "iM금융지주(139130) 하반기 실적이 중요하다",
+    "broker": "유안타증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 26000,
+    "source": "hankyung"
+  },
+  "hk:651198": {
+    "code": "237690",
+    "name": "에스티팜",
+    "title": "에스티팜(237690) 2Q26Re: 원가율 상승은 일시적",
+    "broker": "유안타증권",
+    "date": "2026-07-29",
+    "target_price": null,
+    "listed_target_price": 200000,
+    "source": "hankyung"
   }
 }
