@@ -37630,5 +37630,369 @@
     "target_price": null,
     "listed_target_price": 115000,
     "source": "hankyung"
+  },
+  "95042": {
+    "code": "004020",
+    "name": "현대제철",
+    "title": "2Q26 Review: 본업 회복 지연, 하반기 스프레..",
+    "broker": "한화투자증권",
+    "date": "26.08.04",
+    "target_price": 43000,
+    "source": "naver"
+  },
+  "95041": {
+    "code": "020000",
+    "name": "한섬",
+    "title": "2Q26 Review : 계속되는 GPM 고민",
+    "broker": "한화투자증권",
+    "date": "26.08.04",
+    "target_price": 28000,
+    "source": "naver"
+  },
+  "95040": {
+    "code": "094360",
+    "name": "칩스앤미디어",
+    "title": "안정적인 실적, 4분기 큰 성장 기대",
+    "broker": "한화투자증권",
+    "date": "26.08.04",
+    "target_price": 16800,
+    "source": "naver"
+  },
+  "95039": {
+    "code": "000100",
+    "name": "유한양행",
+    "title": "2Q26 Review; 레이저티닙 유럽 진출 시작",
+    "broker": "교보증권",
+    "date": "26.08.04",
+    "target_price": 130000,
+    "source": "naver"
+  },
+  "95038": {
+    "code": "004020",
+    "name": "현대제철",
+    "title": "그래도 조금씩 개선 중",
+    "broker": "하나증권",
+    "date": "26.08.04",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "95037": {
+    "code": "001120",
+    "name": "LX인터내셔널",
+    "title": "하반기에도 이어질 증익 기조",
+    "broker": "하나증권",
+    "date": "26.08.04",
+    "target_price": 66000,
+    "source": "naver"
+  },
+  "95036": {
+    "code": "010950",
+    "name": "S-Oil",
+    "title": "사상 최대 실적과 그렇지 못한 주가",
+    "broker": "하나증권",
+    "date": "26.08.04",
+    "target_price": 220000,
+    "source": "naver"
+  },
+  "95035": {
+    "code": "068930",
+    "name": "디지털대성",
+    "title": "예상되었던 2Q 호실적",
+    "broker": "유안타증권",
+    "date": "26.08.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95034": {
+    "code": "472850",
+    "name": "폰드그룹",
+    "title": "M&A 통한 성장 & 사업부간 시너지 효과 기대",
+    "broker": "유안타증권",
+    "date": "26.08.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95033": {
+    "code": "004020",
+    "name": "현대제철",
+    "title": "부진한 2분기 실적, 저평가 해소 시나리오 기..",
+    "broker": "미래에셋증권",
+    "date": "26.08.04",
+    "target_price": 47000,
+    "source": "naver"
+  },
+  "95032": {
+    "code": "004020",
+    "name": "현대제철",
+    "title": "밸류에이션 매력은 충분",
+    "broker": "대신증권",
+    "date": "26.08.04",
+    "target_price": 44600,
+    "source": "naver"
+  },
+  "95031": {
+    "code": "020000",
+    "name": "한섬",
+    "title": "재고 소진에 따른 매출총이익률 하락",
+    "broker": "대신증권",
+    "date": "26.08.04",
+    "target_price": 30000,
+    "source": "naver"
+  },
+  "95030": {
+    "code": "298040",
+    "name": "효성중공업",
+    "title": "주가만 후퇴. 펀더멘털은 전진 앞으로!",
+    "broker": "대신증권",
+    "date": "26.08.04",
+    "target_price": 4200000,
+    "source": "naver"
+  },
+  "95029": {
+    "code": "298050",
+    "name": "HS효성첨단소재",
+    "title": "본업은 강하고, 탄소섬유는 살아난다",
+    "broker": "신한투자증권",
+    "date": "26.08.04",
+    "target_price": 260000,
+    "source": "naver"
+  },
+  "95028": {
+    "code": "388210",
+    "name": "씨엠티엑스",
+    "title": "인라인한 실적, 바뀐 것은 시장 환경",
+    "broker": "신한투자증권",
+    "date": "26.08.04",
+    "target_price": 120000,
+    "source": "naver"
+  },
+  "95027": {
+    "code": "010950",
+    "name": "S-Oil",
+    "title": "유가에 일희일비하던 과거에서 벗어날 때",
+    "broker": "iM증권",
+    "date": "26.08.04",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "95026": {
+    "code": "361610",
+    "name": "SK아이이테크놀로지",
+    "title": "거점 일원화, 선택과 집중",
+    "broker": "SK증권",
+    "date": "26.08.04",
+    "target_price": 21500,
+    "source": "naver"
+  },
+  "95025": {
+    "code": "001120",
+    "name": "LX인터내셔널",
+    "title": "자원 부문 수익성 둔화 우려",
+    "broker": "유진투자증권",
+    "date": "26.08.04",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "95024": {
+    "code": "010950",
+    "name": "S-Oil",
+    "title": "투자 종료, 늘어날 배당",
+    "broker": "유진투자증권",
+    "date": "26.08.04",
+    "target_price": 148000,
+    "source": "naver"
+  },
+  "95023": {
+    "code": "001120",
+    "name": "LX인터내셔널",
+    "title": "호실적을 바탕으로 주주 환원 기대 상승",
+    "broker": "미래에셋증권",
+    "date": "26.08.04",
+    "target_price": 56000,
+    "source": "naver"
+  },
+  "95022": {
+    "code": "004020",
+    "name": "현대제철",
+    "title": "너무 빠진 주가",
+    "broker": "iM증권",
+    "date": "26.08.04",
+    "target_price": 40000,
+    "source": "naver"
+  },
+  "95021": {
+    "code": "100120",
+    "name": "뷰웍스",
+    "title": "2Q26P Review: 2분기 연속 어닝서프라이즈 시..",
+    "broker": "유진투자증권",
+    "date": "26.08.04",
+    "target_price": 34000,
+    "source": "naver"
+  },
+  "95020": {
+    "code": "001120",
+    "name": "LX인터내셔널",
+    "title": "좋은 흐름은 하반기에도",
+    "broker": "신한투자증권",
+    "date": "26.08.04",
+    "target_price": 66000,
+    "source": "naver"
+  },
+  "95019": {
+    "code": "004020",
+    "name": "현대제철",
+    "title": "하반기 스프레드 회복에 주목",
+    "broker": "신한투자증권",
+    "date": "26.08.04",
+    "target_price": 44000,
+    "source": "naver"
+  },
+  "95018": {
+    "code": "010950",
+    "name": "S-Oil",
+    "title": "공급 부족이 지지하는 정제마진",
+    "broker": "신한투자증권",
+    "date": "26.08.04",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "95017": {
+    "code": "010950",
+    "name": "S-Oil",
+    "title": "보수적으로 가정해도 강한 정제마진",
+    "broker": "미래에셋증권",
+    "date": "26.08.04",
+    "target_price": 150000,
+    "source": "naver"
+  },
+  "hk:651446": {
+    "code": "139130",
+    "name": "iM금융지주",
+    "title": "iM금융지주(139130) 주주환원 확대기조 유지",
+    "broker": "LS증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 22000,
+    "source": "hankyung"
+  },
+  "hk:651445": {
+    "code": "100120",
+    "name": "뷰웍스",
+    "title": "뷰웍스(100120) 2Q26 Review: 영업이익 강한 회복 흐름",
+    "broker": "LS증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 36000,
+    "source": "hankyung"
+  },
+  "hk:651444": {
+    "code": "028670",
+    "name": "팬오션",
+    "title": "팬오션(028670) 2Q26 Review: 노 젓는 차에 물 들어왔다",
+    "broker": "LS증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 8700,
+    "source": "hankyung"
+  },
+  "hk:651443": {
+    "code": "010950",
+    "name": "S-Oil",
+    "title": "S-Oil(010950) 유가에 일희일비하던 과거에서 벗어날 때",
+    "broker": "iM증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 170000,
+    "source": "hankyung"
+  },
+  "hk:651442": {
+    "code": "028050",
+    "name": "삼성E&A",
+    "title": "삼성E&A(028050) 반도체 특수로 첨단산업 사이클 도래",
+    "broker": "iM증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 69000,
+    "source": "hankyung"
+  },
+  "hk:651441": {
+    "code": "006360",
+    "name": "GS건설",
+    "title": "GS건설(006360) 동해 AI DC 구체화 시 큰 폭의 벨류에이션 상향 가능",
+    "broker": "iM증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 35000,
+    "source": "hankyung"
+  },
+  "hk:651440": {
+    "code": "004020",
+    "name": "현대제철",
+    "title": "현대제철(004020) 너무 빠진 주가",
+    "broker": "iM증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 40000,
+    "source": "hankyung"
+  },
+  "hk:651439": {
+    "code": "441270",
+    "name": "파인엠텍",
+    "title": "파인엠텍(441270) ‘Foldable New Normal’의 주인공",
+    "broker": "메리츠증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 12000,
+    "source": "hankyung"
+  },
+  "hk:651436": {
+    "code": "373220",
+    "name": "LG에너지솔루션",
+    "title": "LG에너지솔루션(373220) 명확한 방향성",
+    "broker": "대신증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 550000,
+    "source": "hankyung"
+  },
+  "hk:651434": {
+    "code": "003540",
+    "name": "대신증권",
+    "title": "대신증권(003540) 주가만 후퇴. 펀더멘털은 전진 앞으로!",
+    "broker": "대신증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 4200000,
+    "source": "hankyung"
+  },
+  "hk:651429": {
+    "code": "010950",
+    "name": "S-Oil",
+    "title": "S-Oil(010950) 투자 종료, 늘어날 배당",
+    "broker": "유진투자증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651428": {
+    "code": "001120",
+    "name": "LX인터내셔널",
+    "title": "LX인터내셔널(001120) 자원 부문 수익성 둔화 우려",
+    "broker": "유진투자증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 50000,
+    "source": "hankyung"
+  },
+  "hk:651426": {
+    "code": "100120",
+    "name": "뷰웍스",
+    "title": "뷰웍스(100120) 2Q26P Review: 2분기 연속 어닝서프라이즈 시현",
+    "broker": "유진투자증권",
+    "date": "2026-08-04",
+    "target_price": null,
+    "listed_target_price": 34000,
+    "source": "hankyung"
   }
 }
