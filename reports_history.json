@@ -38580,5 +38580,1073 @@
     "target_price": null,
     "listed_target_price": null,
     "source": "hankyung"
+  },
+  "95190": {
+    "code": "035720",
+    "name": "카카오",
+    "title": "이제는 AI로 증명할 시기",
+    "broker": "미래에셋증권",
+    "date": "26.08.06",
+    "target_price": 52000,
+    "source": "naver"
+  },
+  "95189": {
+    "code": "089860",
+    "name": "롯데렌탈",
+    "title": "컨센서스에 부합하는 견조한 실적",
+    "broker": "신한투자증권",
+    "date": "26.08.06",
+    "target_price": 47000,
+    "source": "naver"
+  },
+  "95188": {
+    "code": "251270",
+    "name": "넷마블",
+    "title": "바닥을 지나는 중",
+    "broker": "한화투자증권",
+    "date": "26.08.06",
+    "target_price": 56000,
+    "source": "naver"
+  },
+  "95187": {
+    "code": "069960",
+    "name": "현대백화점",
+    "title": "2Q26 Review : 일본 백화점보다 못한 게 뭔데..",
+    "broker": "한화투자증권",
+    "date": "26.08.06",
+    "target_price": 190000,
+    "source": "naver"
+  },
+  "95186": {
+    "code": "005300",
+    "name": "롯데칠성",
+    "title": "위기 속에서 드러나는 제품 경쟁력",
+    "broker": "DS투자증권",
+    "date": "26.08.06",
+    "target_price": 160000,
+    "source": "naver"
+  },
+  "95185": {
+    "code": "278470",
+    "name": "에이피알",
+    "title": "모범 답안 그 자체",
+    "broker": "한화투자증권",
+    "date": "26.08.06",
+    "target_price": 550000,
+    "source": "naver"
+  },
+  "95184": {
+    "code": "278470",
+    "name": "에이피알",
+    "title": "가장 높은 성장성 Vs. 가장 낮은 밸류에이션",
+    "broker": "교보증권",
+    "date": "26.08.06",
+    "target_price": 550000,
+    "source": "naver"
+  },
+  "95183": {
+    "code": "005300",
+    "name": "롯데칠성",
+    "title": "최악은 지났지만",
+    "broker": "한화투자증권",
+    "date": "26.08.06",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "95182": {
+    "code": "005300",
+    "name": "롯데칠성",
+    "title": "아쉬운 비용 부담 요인 증가",
+    "broker": "교보증권",
+    "date": "26.08.06",
+    "target_price": 125000,
+    "source": "naver"
+  },
+  "95181": {
+    "code": "317400",
+    "name": "자이에스앤디",
+    "title": "성장에 성장을 더한다",
+    "broker": "한화투자증권",
+    "date": "26.08.06",
+    "target_price": 10000,
+    "source": "naver"
+  },
+  "95180": {
+    "code": "323410",
+    "name": "카카오뱅크",
+    "title": "2Q26 Review: 고객기반 및 플랫폼 비즈니스 ..",
+    "broker": "교보증권",
+    "date": "26.08.06",
+    "target_price": 32000,
+    "source": "naver"
+  },
+  "95179": {
+    "code": "323410",
+    "name": "카카오뱅크",
+    "title": "마진 개선과 대출 증가세의 약화",
+    "broker": "한화투자증권",
+    "date": "26.08.06",
+    "target_price": 26000,
+    "source": "naver"
+  },
+  "95178": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "예상을 뛰어넘는 SOCAMM 효과",
+    "broker": "교보증권",
+    "date": "26.08.06",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "95177": {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "title": "2Q26 Review; 엑스코프리의 독주",
+    "broker": "교보증권",
+    "date": "26.08.06",
+    "target_price": 150000,
+    "source": "naver"
+  },
+  "95176": {
+    "code": "293490",
+    "name": "카카오게임즈",
+    "title": "실적과 주가 모두 바닥 수준",
+    "broker": "한화투자증권",
+    "date": "26.08.06",
+    "target_price": 10000,
+    "source": "naver"
+  },
+  "95175": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "기판 야호!",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "95174": {
+    "code": "278470",
+    "name": "에이피알",
+    "title": "2026년 매출 3조원 이상 가능성",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 510000,
+    "source": "naver"
+  },
+  "95173": {
+    "code": "069960",
+    "name": "현대백화점",
+    "title": "2Q26 Re: 실적 모멘텀 확대기 진입",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "95172": {
+    "code": "039130",
+    "name": "하나투어",
+    "title": "조금만 더 기다려 볼까요",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 53000,
+    "source": "naver"
+  },
+  "95171": {
+    "code": "041510",
+    "name": "에스엠",
+    "title": "모멘텀만 있으면 되는데",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 124000,
+    "source": "naver"
+  },
+  "95170": {
+    "code": "196170",
+    "name": "알테오젠",
+    "title": "계약 추가로 ALT-B4의 수요 확인, Qlex 추정 ..",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 580000,
+    "source": "naver"
+  },
+  "95169": {
+    "code": "089860",
+    "name": "롯데렌탈",
+    "title": "2Q26 Re: 결국 주가는 매각 기대감의 선반영",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 44000,
+    "source": "naver"
+  },
+  "95168": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "2026년 2분기 컨퍼런스콜 요약",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "95167": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "2Q 리뷰 - 장/단기 실적 기대감 상승 국면",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "95166": {
+    "code": "002380",
+    "name": "KCC",
+    "title": "실리콘 회복과 6조원에 달하는 지분가치",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 730000,
+    "source": "naver"
+  },
+  "95165": {
+    "code": "251270",
+    "name": "넷마블",
+    "title": "하반기 신작의 서프라이즈가 필요",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "95164": {
+    "code": "323410",
+    "name": "카카오뱅크",
+    "title": "대출성장률은 더뎠지만 이익 성장 잠재력은 ..",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 35000,
+    "source": "naver"
+  },
+  "95163": {
+    "code": "018670",
+    "name": "SK가스",
+    "title": "See you in October",
+    "broker": "하나증권",
+    "date": "26.08.06",
+    "target_price": 365000,
+    "source": "naver"
+  },
+  "95162": {
+    "code": "251270",
+    "name": "넷마블",
+    "title": "기존작 매출 지속성과 신작 성과 확인 필요",
+    "broker": "유안타증권",
+    "date": "26.08.06",
+    "target_price": 52000,
+    "source": "naver"
+  },
+  "95161": {
+    "code": "286940",
+    "name": "롯데이노베이트",
+    "title": "데이터센터 DBO로 성장성 개선 기대",
+    "broker": "유안타증권",
+    "date": "26.08.06",
+    "target_price": 30000,
+    "source": "naver"
+  },
+  "95160": {
+    "code": "263860",
+    "name": "지니언스",
+    "title": "일시적이 아닌 구조적 변화에 기인한 실적개..",
+    "broker": "유안타증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95159": {
+    "code": "041510",
+    "name": "에스엠",
+    "title": "2Q26리뷰: 컨센서스 부합",
+    "broker": "유안타증권",
+    "date": "26.08.06",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "95158": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "본업은 제자리로, 성장은 AI로",
+    "broker": "유안타증권",
+    "date": "26.08.06",
+    "target_price": 118000,
+    "source": "naver"
+  },
+  "95157": {
+    "code": "278470",
+    "name": "에이피알",
+    "title": "우려 넘은 실적, 가이던스 상향에 신사업까지",
+    "broker": "유안타증권",
+    "date": "26.08.06",
+    "target_price": 540000,
+    "source": "naver"
+  },
+  "95156": {
+    "code": "278470",
+    "name": "에이피알",
+    "title": "폭발적인 성장세",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": 560000,
+    "source": "naver"
+  },
+  "95155": {
+    "code": "041510",
+    "name": "에스엠",
+    "title": "SMTR25 데뷔와 초기 성과에 주목",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": 120000,
+    "source": "naver"
+  },
+  "95154": {
+    "code": "000880",
+    "name": "한화",
+    "title": "8월 25일, 다시 서는 지주회사",
+    "broker": "대신증권",
+    "date": "26.08.06",
+    "target_price": 163000,
+    "source": "naver"
+  },
+  "95152": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "이제는 하이퍼 텔레콤입니다.",
+    "broker": "대신증권",
+    "date": "26.08.06",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "95151": {
+    "code": "069960",
+    "name": "현대백화점",
+    "title": "지누스 우려는 정점 통과, 백화점과 면세점에..",
+    "broker": "대신증권",
+    "date": "26.08.06",
+    "target_price": 220000,
+    "source": "naver"
+  },
+  "95150": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "정상화, 그 이상",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": 120000,
+    "source": "naver"
+  },
+  "95149": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "배당주와 성장주 그 갈림길에서",
+    "broker": "신한투자증권",
+    "date": "26.08.06",
+    "target_price": 112000,
+    "source": "naver"
+  },
+  "95148": {
+    "code": "229640",
+    "name": "LS에코에너지",
+    "title": "구리가격 상승으로 두드러진 외형성장",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": 90000,
+    "source": "naver"
+  },
+  "95147": {
+    "code": "293490",
+    "name": "카카오게임즈",
+    "title": "올해까지는 영업적자 불가피",
+    "broker": "유진투자증권",
+    "date": "26.08.06",
+    "target_price": 7600,
+    "source": "naver"
+  },
+  "95146": {
+    "code": "251270",
+    "name": "넷마블",
+    "title": "부진한 상반기 신작 성과, 부족한 하반기 신..",
+    "broker": "유진투자증권",
+    "date": "26.08.06",
+    "target_price": 55000,
+    "source": "naver"
+  },
+  "95145": {
+    "code": "088800",
+    "name": "에이스테크",
+    "title": "전장부터 방산까지, 수익성 개선 성과 보인다",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95144": {
+    "code": "416180",
+    "name": "신성에스티",
+    "title": "미국에서 존재감 드러내는 ESS 수혜주",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95143": {
+    "code": "196170",
+    "name": "알테오젠",
+    "title": "벌써 계약 3건, 하반기 몇 발 더 남았다",
+    "broker": "신한투자증권",
+    "date": "26.08.06",
+    "target_price": 480000,
+    "source": "naver"
+  },
+  "95142": {
+    "code": "251270",
+    "name": "넷마블",
+    "title": "주요 신작 공개가 필요한 시점",
+    "broker": "미래에셋증권",
+    "date": "26.08.06",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "95141": {
+    "code": "089590",
+    "name": "제주항공",
+    "title": "영업환경 어렵지만 유연한 공급 조절로 수익..",
+    "broker": "iM증권",
+    "date": "26.08.06",
+    "target_price": 7000,
+    "source": "naver"
+  },
+  "95140": {
+    "code": "107640",
+    "name": "한중엔시에스",
+    "title": "미국 시장 공략 속도, 사업 영역도 확장 중",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95139": {
+    "code": "214320",
+    "name": "이노션",
+    "title": "할 수 있는 모든 영역을 광고하자",
+    "broker": "유진투자증권",
+    "date": "26.08.06",
+    "target_price": 26000,
+    "source": "naver"
+  },
+  "95138": {
+    "code": "125490",
+    "name": "한라캐스트",
+    "title": "점점 더 커지는 존재감",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95137": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "쉽지 않은 배당수익률의 벽",
+    "broker": "유진투자증권",
+    "date": "26.08.06",
+    "target_price": 94000,
+    "source": "naver"
+  },
+  "95136": {
+    "code": "041510",
+    "name": "에스엠",
+    "title": "형님들의 저력",
+    "broker": "유진투자증권",
+    "date": "26.08.06",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "95135": {
+    "code": "388050",
+    "name": "지투파워",
+    "title": "우리나라 AI 배전반 1위 기업",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95134": {
+    "code": "474170",
+    "name": "루미르",
+    "title": "우주 기술 경쟁력, 선박 엔진 부품까지 확산",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95133": {
+    "code": "004380",
+    "name": "삼익THK",
+    "title": "반도체 장비부터 협동 로봇까지, 실체 있는 ..",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95132": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "명실상부 소캠 시장 확대의 최대 수혜주",
+    "broker": "iM증권",
+    "date": "26.08.06",
+    "target_price": 185000,
+    "source": "naver"
+  },
+  "95131": {
+    "code": "236200",
+    "name": "슈프리마",
+    "title": "이 시국에 대단하다",
+    "broker": "신한투자증권",
+    "date": "26.08.06",
+    "target_price": 74000,
+    "source": "naver"
+  },
+  "95130": {
+    "code": "323410",
+    "name": "카카오뱅크",
+    "title": "핵심이익 성장세 지속",
+    "broker": "신한투자증권",
+    "date": "26.08.06",
+    "target_price": 29000,
+    "source": "naver"
+  },
+  "95129": {
+    "code": "012210",
+    "name": "삼미금속",
+    "title": "발전용 선박 엔진 필수품부터 천무까지",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95128": {
+    "code": "005300",
+    "name": "롯데칠성",
+    "title": "돌파구 찾기",
+    "broker": "신한투자증권",
+    "date": "26.08.06",
+    "target_price": 145000,
+    "source": "naver"
+  },
+  "95127": {
+    "code": "069960",
+    "name": "현대백화점",
+    "title": "의심을 거두고",
+    "broker": "신한투자증권",
+    "date": "26.08.06",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "95126": {
+    "code": "229640",
+    "name": "LS에코에너지",
+    "title": "본업 순항 중, 신사업 가시화 기대",
+    "broker": "신한투자증권",
+    "date": "26.08.06",
+    "target_price": 72000,
+    "source": "naver"
+  },
+  "95125": {
+    "code": "018670",
+    "name": "SK가스",
+    "title": "SMP 상한제 도입 가정해도 2H26 47% 증익",
+    "broker": "iM증권",
+    "date": "26.08.06",
+    "target_price": 330000,
+    "source": "naver"
+  },
+  "95124": {
+    "code": "493330",
+    "name": "지에프아이",
+    "title": "성장에 또 성장, 실적으로 증명하다",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95123": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "과거 기판 사이클 챔피언의 위엄, 가이던스 ..",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 190000,
+    "source": "naver"
+  },
+  "95122": {
+    "code": "018880",
+    "name": "한온시스템",
+    "title": "[NDR 후기] 3개월 만에 EPS 컨센서스 33% 상..",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 6500,
+    "source": "naver"
+  },
+  "95121": {
+    "code": "900140",
+    "name": "엘브이엠씨홀딩스",
+    "title": "동남아시아 고성장 최대 수혜주",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95120": {
+    "code": "069960",
+    "name": "현대백화점",
+    "title": "눈높이 하향 조정은 필요",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "95119": {
+    "code": "005300",
+    "name": "롯데칠성",
+    "title": "원가 상승 부담 방어 중",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95118": {
+    "code": "003570",
+    "name": "SNT다이내믹스",
+    "title": "높아지는 배당 매력, 존재감 빛날 것",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": 77000,
+    "source": "naver"
+  },
+  "95117": {
+    "code": "278470",
+    "name": "에이피알",
+    "title": "2Q26 Review: 연간 가이던스 상향",
+    "broker": "유진투자증권",
+    "date": "26.08.06",
+    "target_price": 530000,
+    "source": "naver"
+  },
+  "95116": {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "title": "밸류에이션은 낮아지는데 GPM은 여전히 94%",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 120000,
+    "source": "naver"
+  },
+  "95115": {
+    "code": "034230",
+    "name": "파라다이스",
+    "title": "중요한 분기점",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": 25000,
+    "source": "naver"
+  },
+  "95114": {
+    "code": "006730",
+    "name": "서부T&D",
+    "title": "망설일 필요 없는 시점",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": 20000,
+    "source": "naver"
+  },
+  "95113": {
+    "code": "032350",
+    "name": "롯데관광개발",
+    "title": "얼마나 좋을지 감도 안 옴",
+    "broker": "SK증권",
+    "date": "26.08.06",
+    "target_price": 31000,
+    "source": "naver"
+  },
+  "95112": {
+    "code": "204610",
+    "name": "티쓰리",
+    "title": "주주환원 GOAT",
+    "broker": "한국IR협의회",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95111": {
+    "code": "041830",
+    "name": "인바디",
+    "title": "락스, 퐁퐁, 포스트잇, 인바디",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95110": {
+    "code": "376300",
+    "name": "디어유",
+    "title": "둔화된 본업, 증명이 필요한 미국 신사업",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 30000,
+    "source": "naver"
+  },
+  "95109": {
+    "code": "035250",
+    "name": "강원랜드",
+    "title": "리노베이션 영향 본격화되며 컨센 하회",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 18000,
+    "source": "naver"
+  },
+  "95108": {
+    "code": "499790",
+    "name": "GS피앤엘",
+    "title": "레버리지 효과 증명, 하반기 눈높이 상향",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 70000,
+    "source": "naver"
+  },
+  "95107": {
+    "code": "047040",
+    "name": "대우건설",
+    "title": "수익성 개선에 하반기 넘쳐나는 수주 기회까..",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 23000,
+    "source": "naver"
+  },
+  "95106": {
+    "code": "003620",
+    "name": "KG모빌리티",
+    "title": "체리자동차 전략적 파트너십 체결 및 2Q26 실..",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95105": {
+    "code": "004020",
+    "name": "현대제철",
+    "title": "2분기 실적 반등 성공",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 46000,
+    "source": "naver"
+  },
+  "95104": {
+    "code": "090460",
+    "name": "비에이치",
+    "title": "저평가에 집중",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 24000,
+    "source": "naver"
+  },
+  "95103": {
+    "code": "002900",
+    "name": "TYM",
+    "title": "풍년의 기운이 느껴진다",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95102": {
+    "code": "489790",
+    "name": "한화비전",
+    "title": "HBM 성장성에 다시 주목해야 할 시기",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 100000,
+    "source": "naver"
+  },
+  "95101": {
+    "code": "069960",
+    "name": "현대백화점",
+    "title": "부진한 실적. 기대치 크게 하회",
+    "broker": "IBK투자증권",
+    "date": "26.08.06",
+    "target_price": 168000,
+    "source": "naver"
+  },
+  "95100": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "SK그룹의 다음 먹거리: SKT 데이터센터",
+    "broker": "미래에셋증권",
+    "date": "26.08.06",
+    "target_price": 120000,
+    "source": "naver"
+  },
+  "95099": {
+    "code": "278470",
+    "name": "에이피알",
+    "title": "지역, 채널, 제품 3박자 좋은 실적",
+    "broker": "IBK투자증권",
+    "date": "26.08.06",
+    "target_price": 550000,
+    "source": "naver"
+  },
+  "95098": {
+    "code": "035420",
+    "name": "NAVER",
+    "title": "자산은 파트너가, 운영 매출은 NAVER가",
+    "broker": "IBK투자증권",
+    "date": "26.08.06",
+    "target_price": 320000,
+    "source": "naver"
+  },
+  "95097": {
+    "code": "293490",
+    "name": "카카오게임즈",
+    "title": "신작으로 증명할 시기",
+    "broker": "미래에셋증권",
+    "date": "26.08.06",
+    "target_price": 9000,
+    "source": "naver"
+  },
+  "95096": {
+    "code": "001040",
+    "name": "CJ",
+    "title": "성장세는 유효하나, 수익성 하락 우려는 부담",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 220000,
+    "source": "naver"
+  },
+  "95095": {
+    "code": "012450",
+    "name": "한화에어로스페이스",
+    "title": "실적은 견고, 남은 것은 수주 성과 확인",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 1580000,
+    "source": "naver"
+  },
+  "95094": {
+    "code": "012210",
+    "name": "삼미금속",
+    "title": "정밀가공 확장을 통한 성장성 확보",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95093": {
+    "code": "000150",
+    "name": "두산",
+    "title": "SK실트론 인수 관련 코멘트: 싸게 잘 사왔다...",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95092": {
+    "code": "353200",
+    "name": "대덕전자",
+    "title": "전 사업부 실적 호황 반영 중, 중장기 로드맵..",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 240000,
+    "source": "naver"
+  },
+  "95091": {
+    "code": "074600",
+    "name": "원익QnC",
+    "title": "실적 회복세 진입",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 35000,
+    "source": "naver"
+  },
+  "95090": {
+    "code": "267250",
+    "name": "HD현대",
+    "title": "2Q26 Re: 브랜드 뉴 데이",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 400000,
+    "source": "naver"
+  },
+  "95089": {
+    "code": "247540",
+    "name": "에코프로비엠",
+    "title": "확인되는 전방 수요 부진, 중장기 접근 필요",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 123000,
+    "source": "naver"
+  },
+  "95088": {
+    "code": "103140",
+    "name": "풍산",
+    "title": "신동사업 호조로 서프라이즈",
+    "broker": "키움증권",
+    "date": "26.08.06",
+    "target_price": 130000,
+    "source": "naver"
+  },
+  "hk:651513": {
+    "code": "204610",
+    "name": "티쓰리",
+    "title": "티쓰리(204610) 주주환원 GOAT",
+    "broker": "한국IR협의회",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651512": {
+    "code": "039490",
+    "name": "키움증권",
+    "title": "키움증권(039490) 거래를 넘어, 자산관리 플랫폼으로",
+    "broker": "상상인증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 385000,
+    "source": "hankyung"
+  },
+  "hk:651509": {
+    "code": "005300",
+    "name": "롯데칠성",
+    "title": "롯데칠성(005300) 최악은 지났지만",
+    "broker": "한화투자증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 110000,
+    "source": "hankyung"
+  },
+  "hk:651508": {
+    "code": "278470",
+    "name": "에이피알",
+    "title": "에이피알(278470) 모범 답안 그 자체",
+    "broker": "한화투자증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 550000,
+    "source": "hankyung"
+  },
+  "hk:651507": {
+    "code": "317400",
+    "name": "자이에스앤디",
+    "title": "자이에스앤디(317400) 성장에 성장을 더한다",
+    "broker": "한화투자증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 10000,
+    "source": "hankyung"
+  },
+  "hk:651506": {
+    "code": "251270",
+    "name": "넷마블",
+    "title": "넷마블(251270) 바닥을 지나는 중",
+    "broker": "한화투자증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 56000,
+    "source": "hankyung"
+  },
+  "hk:651505": {
+    "code": "069960",
+    "name": "현대백화점",
+    "title": "현대백화점(069960) 2Q26 Review : 일본 백화점보다 못한 게 뭔데?",
+    "broker": "한화투자증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 190000,
+    "source": "hankyung"
+  },
+  "hk:651503": {
+    "code": "214320",
+    "name": "이노션",
+    "title": "이노션(214320) 인상적인 해외 지역 고성장",
+    "broker": "메리츠증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 25000,
+    "source": "hankyung"
+  },
+  "hk:651502": {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "title": "SK바이오팜(326030) 실적은 우상향, 경쟁 구도는 완화",
+    "broker": "메리츠증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 140000,
+    "source": "hankyung"
+  },
+  "hk:651501": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "심텍(222800) SoCAMM의 선봉장",
+    "broker": "메리츠증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 170000,
+    "source": "hankyung"
+  },
+  "hk:651500": {
+    "code": "069960",
+    "name": "현대백화점",
+    "title": "현대백화점(069960) 지누스 우려는 정점 통과, 백화점과 면세점에 집중한 투자 필요",
+    "broker": "대신증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 220000,
+    "source": "hankyung"
+  },
+  "hk:651499": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "SK텔레콤(017670) 이제는 하이퍼 텔레콤입니다.",
+    "broker": "대신증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 110000,
+    "source": "hankyung"
+  },
+  "hk:651497": {
+    "code": "000880",
+    "name": "한화",
+    "title": "한화(000880) 8월 25일, 다시 서는 지주회사",
+    "broker": "대신증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 163000,
+    "source": "hankyung"
+  },
+  "hk:651494": {
+    "code": "006730",
+    "name": "서부T&D",
+    "title": "서부T&D(006730) 망설일 필요 없는 시점",
+    "broker": "SK증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 20000,
+    "source": "hankyung"
+  },
+  "hk:651493": {
+    "code": "032350",
+    "name": "롯데관광개발",
+    "title": "롯데관광개발(032350) 얼마나 좋을지 감도 안 옴",
+    "broker": "SK증권",
+    "date": "2026-08-06",
+    "target_price": null,
+    "listed_target_price": 31000,
+    "source": "hankyung"
   }
 }
