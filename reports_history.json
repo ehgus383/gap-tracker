@@ -43345,5 +43345,1015 @@
     "target_price": null,
     "listed_target_price": 50000,
     "source": "hankyung"
+  },
+  "95584": {
+    "code": "100090",
+    "name": "SK오션플랜트",
+    "title": "2Q26 Review: 골짜기 앞에서 확인한 수주 체..",
+    "broker": "교보증권",
+    "date": "26.08.13",
+    "target_price": 25000,
+    "source": "naver"
+  },
+  "95583": {
+    "code": "214150",
+    "name": "클래시스",
+    "title": "2Q26 Review; 잠시 숨고르기",
+    "broker": "교보증권",
+    "date": "26.08.13",
+    "target_price": 62000,
+    "source": "naver"
+  },
+  "95582": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "2Q26 Review: 하반기 실적 모멘텀 유효",
+    "broker": "교보증권",
+    "date": "26.08.13",
+    "target_price": 70000,
+    "source": "naver"
+  },
+  "95581": {
+    "code": "000370",
+    "name": "한화손해보험",
+    "title": "2Q26 Re - 계리가정 반영에도 견조한 CSM",
+    "broker": "하나증권",
+    "date": "26.08.13",
+    "target_price": 10500,
+    "source": "naver"
+  },
+  "95580": {
+    "code": "088350",
+    "name": "한화생명",
+    "title": "2Q26Review: 본업 경쟁력 강화 속, 사업 포트..",
+    "broker": "교보증권",
+    "date": "26.08.13",
+    "target_price": 7000,
+    "source": "naver"
+  },
+  "95579": {
+    "code": "088350",
+    "name": "한화생명",
+    "title": "2Q26 Re - 가려진 성장에 주목할 때",
+    "broker": "하나증권",
+    "date": "26.08.13",
+    "target_price": 7300,
+    "source": "naver"
+  },
+  "95578": {
+    "code": "000370",
+    "name": "한화손해보험",
+    "title": "2Q26 Review: 2026년에도 여성 특화 보험은 ..",
+    "broker": "교보증권",
+    "date": "26.08.13",
+    "target_price": 8300,
+    "source": "naver"
+  },
+  "95577": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "특이사항 없이 부진했던 실적",
+    "broker": "하나증권",
+    "date": "26.08.13",
+    "target_price": 45000,
+    "source": "naver"
+  },
+  "95576": {
+    "code": "006800",
+    "name": "미래에셋증권",
+    "title": "2Q26 Review: 2026년 수익구조 고도화의 시작",
+    "broker": "교보증권",
+    "date": "26.08.13",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "95575": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "선케어 글로벌 1위를 향해!",
+    "broker": "교보증권",
+    "date": "26.08.13",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "95574": {
+    "code": "100090",
+    "name": "SK오션플랜트",
+    "title": "하반기 매출 감소 예상. 다만 전방 시장은 확..",
+    "broker": "하나증권",
+    "date": "26.08.13",
+    "target_price": 25000,
+    "source": "naver"
+  },
+  "95573": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "하반기는 더 크다",
+    "broker": "하나증권",
+    "date": "26.08.13",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "95572": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "남들은 다 겪었던 시간이 뒤늦게 다가오고 있..",
+    "broker": "하나증권",
+    "date": "26.08.13",
+    "target_price": 58000,
+    "source": "naver"
+  },
+  "95571": {
+    "code": "100090",
+    "name": "SK오션플랜트",
+    "title": "당분간 가시밭길",
+    "broker": "DS투자증권",
+    "date": "26.08.13",
+    "target_price": 19000,
+    "source": "naver"
+  },
+  "95570": {
+    "code": "192080",
+    "name": "더블유게임즈",
+    "title": "환율 대비 아쉬운 실적",
+    "broker": "하나증권",
+    "date": "26.08.13",
+    "target_price": 80000,
+    "source": "naver"
+  },
+  "95569": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "비만 파이프라인 성과와 MSD의 반전을 기다리..",
+    "broker": "하나증권",
+    "date": "26.08.13",
+    "target_price": 610000,
+    "source": "naver"
+  },
+  "95568": {
+    "code": "030200",
+    "name": "KT",
+    "title": "AI 요금제 시도 긍정적, 이제 장기 매수는 괜..",
+    "broker": "하나증권",
+    "date": "26.08.13",
+    "target_price": 76000,
+    "source": "naver"
+  },
+  "95567": {
+    "code": "095340",
+    "name": "ISC",
+    "title": "AI 수요 확대와 함께 성장의 축도 넓어진다",
+    "broker": "한화투자증권",
+    "date": "26.08.13",
+    "target_price": 210000,
+    "source": "naver"
+  },
+  "95566": {
+    "code": "006800",
+    "name": "미래에셋증권",
+    "title": "2026년 2분기 컨퍼런스 콜 요약",
+    "broker": "하나증권",
+    "date": "26.08.13",
+    "target_price": 95000,
+    "source": "naver"
+  },
+  "95565": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "2Q26 시장 컨센서스 하회",
+    "broker": "유안타증권",
+    "date": "26.08.13",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "95564": {
+    "code": "192080",
+    "name": "더블유게임즈",
+    "title": "캐주얼 성장과 DTC 확대 지속",
+    "broker": "유안타증권",
+    "date": "26.08.13",
+    "target_price": 84000,
+    "source": "naver"
+  },
+  "95563": {
+    "code": "030200",
+    "name": "KT",
+    "title": "선(線) 넘었다",
+    "broker": "유안타증권",
+    "date": "26.08.13",
+    "target_price": 73000,
+    "source": "naver"
+  },
+  "95562": {
+    "code": "006800",
+    "name": "미래에셋증권",
+    "title": "우주에 묻혀버린 양호한 실적",
+    "broker": "유안타증권",
+    "date": "26.08.13",
+    "target_price": 75000,
+    "source": "naver"
+  },
+  "95561": {
+    "code": "031430",
+    "name": "신세계인터내셔날",
+    "title": "2Q26 흑자전환! 하반기 F/W 모멘텀 기대",
+    "broker": "유안타증권",
+    "date": "26.08.13",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95560": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "창사 이래 최대 실적, 남은 건 CAPA뿐",
+    "broker": "유안타증권",
+    "date": "26.08.13",
+    "target_price": 160000,
+    "source": "naver"
+  },
+  "95559": {
+    "code": "030200",
+    "name": "KT",
+    "title": "CEO 간담회 그리고 데이터센터",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 77000,
+    "source": "naver"
+  },
+  "95558": {
+    "code": "100090",
+    "name": "SK오션플랜트",
+    "title": "단기 실적은 부진하나 전방 시장은 확대",
+    "broker": "유진투자증권",
+    "date": "26.08.13",
+    "target_price": 25000,
+    "source": "naver"
+  },
+  "95557": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "알고 있지만",
+    "broker": "유진투자증권",
+    "date": "26.08.13",
+    "target_price": 65000,
+    "source": "naver"
+  },
+  "95556": {
+    "code": "214150",
+    "name": "클래시스",
+    "title": "2Q26P Review: 21분기 연속 매출 성장 성공",
+    "broker": "유진투자증권",
+    "date": "26.08.13",
+    "target_price": 67000,
+    "source": "naver"
+  },
+  "95555": {
+    "code": "030200",
+    "name": "KT",
+    "title": "AX Platform 회사로의 도약",
+    "broker": "iM증권",
+    "date": "26.08.13",
+    "target_price": 70000,
+    "source": "naver"
+  },
+  "95554": {
+    "code": "213420",
+    "name": "덕산네오룩스",
+    "title": "신모델 사이클 진입(폴더블, IT OLED)",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 55000,
+    "source": "naver"
+  },
+  "95553": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "원전의 빈자리, 믹스를 놓치다",
+    "broker": "유진투자증권",
+    "date": "26.08.13",
+    "target_price": 64000,
+    "source": "naver"
+  },
+  "95552": {
+    "code": "006360",
+    "name": "GS건설",
+    "title": "GS이니마의 빈자리를 채워갈 동해 AIDC",
+    "broker": "유진투자증권",
+    "date": "26.08.13",
+    "target_price": 48000,
+    "source": "naver"
+  },
+  "95551": {
+    "code": "006800",
+    "name": "미래에셋증권",
+    "title": "2Q26 Re: 단기 실적 변동성과 장기 확고한 방..",
+    "broker": "키움증권",
+    "date": "26.08.13",
+    "target_price": 65000,
+    "source": "naver"
+  },
+  "95550": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "ODM 대장주다운 실적",
+    "broker": "SK증권",
+    "date": "26.08.13",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "95549": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "2Q26 Review: 분기 영업이익 1,000억 돌파",
+    "broker": "유진투자증권",
+    "date": "26.08.13",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "95548": {
+    "code": "066570",
+    "name": "LG전자",
+    "title": "시황을 사는 주식에서 수주를 사는 주식으로",
+    "broker": "iM증권",
+    "date": "26.08.13",
+    "target_price": 250000,
+    "source": "naver"
+  },
+  "95547": {
+    "code": "006800",
+    "name": "미래에셋증권",
+    "title": "사상 최대 실적",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "95546": {
+    "code": "000370",
+    "name": "한화손해보험",
+    "title": "27F PER 1.8x, 배당만 남았다",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 8000,
+    "source": "naver"
+  },
+  "95545": {
+    "code": "138040",
+    "name": "메리츠금융지주",
+    "title": "장기 투자를 선호한다면",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 142000,
+    "source": "naver"
+  },
+  "95544": {
+    "code": "074600",
+    "name": "원익QnC",
+    "title": "다시 한번 성장 증명",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "95543": {
+    "code": "088350",
+    "name": "한화생명",
+    "title": "이익은 확인됐고 이제 남은 건 주주환원뿐",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 6000,
+    "source": "naver"
+  },
+  "95542": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "원전의 빈자리가 느껴진 2Q26",
+    "broker": "키움증권",
+    "date": "26.08.13",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95541": {
+    "code": "213420",
+    "name": "덕산네오룩스",
+    "title": "수익성이 증명한 업종 최선호주의 자격",
+    "broker": "IBK투자증권",
+    "date": "26.08.13",
+    "target_price": 69000,
+    "source": "naver"
+  },
+  "95540": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "가지마 가지마",
+    "broker": "SK증권",
+    "date": "26.08.13",
+    "target_price": 66000,
+    "source": "naver"
+  },
+  "95539": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "하반기 본격화될 비용 부담",
+    "broker": "iM증권",
+    "date": "26.08.13",
+    "target_price": 48000,
+    "source": "naver"
+  },
+  "95538": {
+    "code": "192080",
+    "name": "더블유게임즈",
+    "title": "분기 영업이익 700억원 달성",
+    "broker": "유진투자증권",
+    "date": "26.08.13",
+    "target_price": 78000,
+    "source": "naver"
+  },
+  "95537": {
+    "code": "030200",
+    "name": "KT",
+    "title": "밑그림은 그려졌고, 이제 실행을 볼 차례",
+    "broker": "유진투자증권",
+    "date": "26.08.13",
+    "target_price": 73000,
+    "source": "naver"
+  },
+  "95536": {
+    "code": "138040",
+    "name": "메리츠금융지주",
+    "title": "다른 선택지가 애매할 때 부각되는 펀더멘털",
+    "broker": "iM증권",
+    "date": "26.08.13",
+    "target_price": 147000,
+    "source": "naver"
+  },
+  "95535": {
+    "code": "000370",
+    "name": "한화손해보험",
+    "title": "예실차 개선세 긍정적이나 제도 이슈 상존",
+    "broker": "iM증권",
+    "date": "26.08.13",
+    "target_price": 8000,
+    "source": "naver"
+  },
+  "95534": {
+    "code": "088350",
+    "name": "한화생명",
+    "title": "변액 관련 영향으로 호실적. 제도 불확실성은..",
+    "broker": "iM증권",
+    "date": "26.08.13",
+    "target_price": 5900,
+    "source": "naver"
+  },
+  "95533": {
+    "code": "417840",
+    "name": "저스템",
+    "title": "압도적 실적 성장 지속될 것",
+    "broker": "SK증권",
+    "date": "26.08.13",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95532": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "3Q26은 더 좋대요!",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 153000,
+    "source": "naver"
+  },
+  "95531": {
+    "code": "078340",
+    "name": "컴투스",
+    "title": "구체화된 신작들로 실적 성장 재개",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 38000,
+    "source": "naver"
+  },
+  "95530": {
+    "code": "263750",
+    "name": "펄어비스",
+    "title": "채널 믹스와 성과급으로 실적 부진",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95529": {
+    "code": "192080",
+    "name": "더블유게임즈",
+    "title": "신사업과 기존 사업 모두 청신호",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "95528": {
+    "code": "095660",
+    "name": "네오위즈",
+    "title": "기존작으로 기초 체력 유지 중",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 23000,
+    "source": "naver"
+  },
+  "95527": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "어려운 하반기를 앞두고 예상 밖의 부진",
+    "broker": "신한투자증권",
+    "date": "26.08.13",
+    "target_price": 45000,
+    "source": "naver"
+  },
+  "95526": {
+    "code": "030200",
+    "name": "KT",
+    "title": "상반기 부담을 뒤로하고",
+    "broker": "IBK투자증권",
+    "date": "26.08.13",
+    "target_price": 75000,
+    "source": "naver"
+  },
+  "95525": {
+    "code": "006800",
+    "name": "미래에셋증권",
+    "title": "2Q26 Review: 역대급 실적. 하반기 변동성 관..",
+    "broker": "SK증권",
+    "date": "26.08.13",
+    "target_price": 42000,
+    "source": "naver"
+  },
+  "95524": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "트와이스 불확실성 반영, 관건은 저연차 IP",
+    "broker": "키움증권",
+    "date": "26.08.13",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "95523": {
+    "code": "293490",
+    "name": "카카오게임즈",
+    "title": "창의적 신작 게임성 요구",
+    "broker": "키움증권",
+    "date": "26.08.13",
+    "target_price": 10000,
+    "source": "naver"
+  },
+  "95522": {
+    "code": "138040",
+    "name": "메리츠금융지주",
+    "title": "2Q26 Re: 당연해진 실적 서프라이즈",
+    "broker": "키움증권",
+    "date": "26.08.13",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "95521": {
+    "code": "000370",
+    "name": "한화손해보험",
+    "title": "2Q26 Re: 보험손익 회복 기조 지속",
+    "broker": "키움증권",
+    "date": "26.08.13",
+    "target_price": 9000,
+    "source": "naver"
+  },
+  "95520": {
+    "code": "030200",
+    "name": "KT",
+    "title": "양호한 실적, 시선은 사업체질 전환으로",
+    "broker": "SK증권",
+    "date": "26.08.13",
+    "target_price": 72000,
+    "source": "naver"
+  },
+  "95519": {
+    "code": "030200",
+    "name": "KT",
+    "title": "무선서비스 정상화 구간 진입 예상",
+    "broker": "미래에셋증권",
+    "date": "26.08.13",
+    "target_price": 73000,
+    "source": "naver"
+  },
+  "95518": {
+    "code": "214150",
+    "name": "클래시스",
+    "title": "가이던스 하향 조정과 함께 먼 길 가는 중",
+    "broker": "키움증권",
+    "date": "26.08.13",
+    "target_price": 54000,
+    "source": "naver"
+  },
+  "95517": {
+    "code": "032620",
+    "name": "GC메디아이",
+    "title": "Medical OS를 통한 플랫폼 기업으로의 도약",
+    "broker": "한국IR협의회",
+    "date": "26.08.13",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95516": {
+    "code": "100090",
+    "name": "SK오션플랜트",
+    "title": "낮아진 눈높이에서 다시 시작",
+    "broker": "미래에셋증권",
+    "date": "26.08.13",
+    "target_price": 18000,
+    "source": "naver"
+  },
+  "95515": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "강력한 기초 체력",
+    "broker": "IBK투자증권",
+    "date": "26.08.13",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "hk:651701": {
+    "code": "089860",
+    "name": "롯데렌탈",
+    "title": "롯데렌탈(089860) TPG와 새로운 시작",
+    "broker": "LS증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 51000,
+    "source": "hankyung"
+  },
+  "hk:651700": {
+    "code": "088350",
+    "name": "한화생명",
+    "title": "한화생명(088350) 보험손익 투자손익 동반 개선",
+    "broker": "LS증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651699": {
+    "code": "006800",
+    "name": "미래에셋증권",
+    "title": "미래에셋증권(006800) 스페이스X 효과로 이익규모 급증",
+    "broker": "LS증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 40000,
+    "source": "hankyung"
+  },
+  "hk:651698": {
+    "code": "252990",
+    "name": "샘씨엔에스",
+    "title": "샘씨엔에스(252990) 세라믹 STF 고성장: HBM 분야 확대",
+    "broker": "LS증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 25000,
+    "source": "hankyung"
+  },
+  "hk:651697": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "JYP Ent.(035900) 27년 재도약",
+    "broker": "LS증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 74000,
+    "source": "hankyung"
+  },
+  "hk:651696": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "한국콜마(161890) 2Q26 Review: 스케일업의 힘",
+    "broker": "LS증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 200000,
+    "source": "hankyung"
+  },
+  "hk:651695": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "한국전력(015760) 중장기 실적 방향성, 원전 모멘텀 이상 무. 종전 시 가치 복원",
+    "broker": "LS증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 52000,
+    "source": "hankyung"
+  },
+  "hk:651688": {
+    "code": "213420",
+    "name": "덕산네오룩스",
+    "title": "덕산네오룩스(213420) 수익성으로 증명한 업종 최선호주의 자격",
+    "broker": "IBK투자증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 69000,
+    "source": "hankyung"
+  },
+  "hk:651687": {
+    "code": "030200",
+    "name": "KT",
+    "title": "KT(030200) 상반기 부담을 뒤로하고",
+    "broker": "IBK투자증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 75000,
+    "source": "hankyung"
+  },
+  "hk:651681": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "한국콜마(161890) ODM 대장주다운 호실적",
+    "broker": "SK증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 170000,
+    "source": "hankyung"
+  },
+  "hk:651678": {
+    "code": "095340",
+    "name": "ISC",
+    "title": "ISC(095340) AI 수요 확대와 함께 성장의 축도 넓어진다",
+    "broker": "한화투자증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 210000,
+    "source": "hankyung"
+  },
+  "hk:651677": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "JYP Ent.(035900) 가지마 가지마",
+    "broker": "SK증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 66000,
+    "source": "hankyung"
+  },
+  "hk:651675": {
+    "code": "100090",
+    "name": "SK오션플랜트",
+    "title": "SK오션플랜트(100090) 2Q26 Review: 하반기 실적 공백에 유의",
+    "broker": "메리츠증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 25000,
+    "source": "hankyung"
+  },
+  "hk:651674": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "한국전력(015760) 2Q26 Review: 예상보다 컸던 연료비 상승 폭",
+    "broker": "메리츠증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 57000,
+    "source": "hankyung"
+  },
+  "hk:651673": {
+    "code": "006800",
+    "name": "미래에셋증권",
+    "title": "미래에셋증권(006800) 2Q26 Review: 역대급 실적. 하반기 변동성 관리가 필요",
+    "broker": "SK증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 42000,
+    "source": "hankyung"
+  },
+  "hk:651672": {
+    "code": "088350",
+    "name": "한화생명",
+    "title": "한화생명(088350) Valuation 매력도가 돋보일 시기",
+    "broker": "메리츠증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 6200,
+    "source": "hankyung"
+  },
+  "hk:651671": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "JYP Ent.(035900) 단기 수익성 둔화, 하반기 회복에 주목",
+    "broker": "메리츠증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 65000,
+    "source": "hankyung"
+  },
+  "hk:651670": {
+    "code": "030200",
+    "name": "KT",
+    "title": "KT(030200) 양호한 실적, 시선은 사업체질 전환으로",
+    "broker": "SK증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 72000,
+    "source": "hankyung"
+  },
+  "hk:651669": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "JYP Ent.(035900) 2Q26 시장 컨센서스 하회",
+    "broker": "유안타증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 60000,
+    "source": "hankyung"
+  },
+  "hk:651668": {
+    "code": "214150",
+    "name": "클래시스",
+    "title": "클래시스(214150) 외형은 레벨업, 수익성은 로딩 중",
+    "broker": "대신증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 60000,
+    "source": "hankyung"
+  },
+  "hk:651665": {
+    "code": "192080",
+    "name": "더블유게임즈",
+    "title": "더블유게임즈(192080) 캐주얼 성장과 DTC 확대 지속",
+    "broker": "유안타증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 84000,
+    "source": "hankyung"
+  },
+  "hk:651664": {
+    "code": "030200",
+    "name": "KT",
+    "title": "KT(030200) 선(線) 넘었다",
+    "broker": "유안타증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 73000,
+    "source": "hankyung"
+  },
+  "hk:651663": {
+    "code": "006800",
+    "name": "미래에셋증권",
+    "title": "미래에셋증권(006800) 우주에 묻혀버린 양호한 실적",
+    "broker": "유안타증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 75000,
+    "source": "hankyung"
+  },
+  "hk:651662": {
+    "code": "030200",
+    "name": "KT",
+    "title": "KT(030200) AX Platform 회사로의 도약",
+    "broker": "iM증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 70000,
+    "source": "hankyung"
+  },
+  "hk:651661": {
+    "code": "066570",
+    "name": "LG전자",
+    "title": "LG전자(066570) 시황을 사는 주식에서 수주를 사는 주식으로",
+    "broker": "iM증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 250000,
+    "source": "hankyung"
+  },
+  "hk:651660": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "한국전력(015760) 하반기 본격화될 비용 부담",
+    "broker": "iM증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 48000,
+    "source": "hankyung"
+  },
+  "hk:651659": {
+    "code": "000370",
+    "name": "한화손해보험",
+    "title": "한화손해보험(000370) 예실차 개선세 긍정적이나 제도 이슈 상존",
+    "broker": "iM증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 8000,
+    "source": "hankyung"
+  },
+  "hk:651658": {
+    "code": "138040",
+    "name": "메리츠금융지주",
+    "title": "메리츠금융지주(138040) 다른 선택지가 애매할 때 부각되는 펀더멘털",
+    "broker": "iM증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 147000,
+    "source": "hankyung"
+  },
+  "hk:651657": {
+    "code": "088350",
+    "name": "한화생명",
+    "title": "한화생명(088350) 변액 관련 영향으로 호실적. 제도 불확실성은 상존",
+    "broker": "iM증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 5900,
+    "source": "hankyung"
+  },
+  "hk:651656": {
+    "code": "006800",
+    "name": "미래에셋증권",
+    "title": "미래에셋증권(006800) 기-승-전-스페이스X",
+    "broker": "iM증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 42000,
+    "source": "hankyung"
+  },
+  "hk:651654": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "한국콜마(161890) 2Q26 Review: 분기 영업이익 1,000억 돌파",
+    "broker": "유진투자증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 170000,
+    "source": "hankyung"
+  },
+  "hk:651653": {
+    "code": "100090",
+    "name": "SK오션플랜트",
+    "title": "SK오션플랜트(100090) 단기 실적은 부진하나 전방 시장은 확대",
+    "broker": "유진투자증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 25000,
+    "source": "hankyung"
+  },
+  "hk:651652": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "JYP Ent.(035900) 알고 있지만",
+    "broker": "유진투자증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 65000,
+    "source": "hankyung"
+  },
+  "hk:651651": {
+    "code": "030200",
+    "name": "KT",
+    "title": "KT(030200) 밑그림은 그려졌고, 이제 실행을 볼 차례",
+    "broker": "유진투자증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 73000,
+    "source": "hankyung"
+  },
+  "hk:651650": {
+    "code": "006360",
+    "name": "GS건설",
+    "title": "GS건설(006360) GS이니마의 빈자리를 채워갈 동해 AIDC",
+    "broker": "유진투자증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 48000,
+    "source": "hankyung"
+  },
+  "hk:651649": {
+    "code": "192080",
+    "name": "더블유게임즈",
+    "title": "더블유게임즈(192080) 분기 영업이익 700억원 달성",
+    "broker": "유진투자증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 78000,
+    "source": "hankyung"
+  },
+  "hk:651648": {
+    "code": "214150",
+    "name": "클래시스",
+    "title": "클래시스(214150) 2Q26P Review: 21분기 연속 매출 성장 성공",
+    "broker": "유진투자증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 67000,
+    "source": "hankyung"
+  },
+  "hk:651647": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "한국전력(015760) 원전의 빈자리, 믹스를 놓치다",
+    "broker": "유진투자증권",
+    "date": "2026-08-13",
+    "target_price": null,
+    "listed_target_price": 64000,
+    "source": "hankyung"
   }
 }
