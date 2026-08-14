@@ -44355,5 +44355,852 @@
     "target_price": null,
     "listed_target_price": 64000,
     "source": "hankyung"
+  },
+  "95658": {
+    "code": "001450",
+    "name": "현대해상",
+    "title": "손에 잡힐 것도 같은 배당",
+    "broker": "미래에셋증권",
+    "date": "26.08.14",
+    "target_price": 41000,
+    "source": "naver"
+  },
+  "95657": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "2Q26 Review: 눈에 띄는 보험손익 개선, 기대..",
+    "broker": "교보증권",
+    "date": "26.08.14",
+    "target_price": 219000,
+    "source": "naver"
+  },
+  "95656": {
+    "code": "139480",
+    "name": "이마트",
+    "title": "2Q26 Review: 본업 개선세 확인, 중장기 방향..",
+    "broker": "교보증권",
+    "date": "26.08.14",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "95655": {
+    "code": "000810",
+    "name": "삼성화재",
+    "title": "2Q26 Review: 보험손익 및 투자손익 개선세 ..",
+    "broker": "교보증권",
+    "date": "26.08.14",
+    "target_price": 800000,
+    "source": "naver"
+  },
+  "95654": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "2Q26 Review: 견조한 이익을 바탕으로 한 배..",
+    "broker": "교보증권",
+    "date": "26.08.14",
+    "target_price": 380000,
+    "source": "naver"
+  },
+  "95653": {
+    "code": "257720",
+    "name": "실리콘투",
+    "title": "사상 최대 실적 기록",
+    "broker": "교보증권",
+    "date": "26.08.14",
+    "target_price": 63000,
+    "source": "naver"
+  },
+  "95652": {
+    "code": "483650",
+    "name": "달바글로벌",
+    "title": "높아졌던 시장 눈높이",
+    "broker": "교보증권",
+    "date": "26.08.14",
+    "target_price": 310000,
+    "source": "naver"
+  },
+  "95651": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "2Q26 Re - 2027년 DPS를 바라보며",
+    "broker": "하나증권",
+    "date": "26.08.14",
+    "target_price": 370000,
+    "source": "naver"
+  },
+  "95650": {
+    "code": "000810",
+    "name": "삼성화재",
+    "title": "2Q26 Re - 하반기에도 이어질 배당 모멘텀",
+    "broker": "하나증권",
+    "date": "26.08.14",
+    "target_price": 785000,
+    "source": "naver"
+  },
+  "95649": {
+    "code": "139480",
+    "name": "이마트",
+    "title": "실적 불확실성이 너무 크다",
+    "broker": "하나증권",
+    "date": "26.08.14",
+    "target_price": 82000,
+    "source": "naver"
+  },
+  "95648": {
+    "code": "483650",
+    "name": "달바글로벌",
+    "title": "중화권 진출, 브랜드 확장 전략 긍정적",
+    "broker": "하나증권",
+    "date": "26.08.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95647": {
+    "code": "003550",
+    "name": "LG",
+    "title": "전자계열사 실적 개선. 로봇사업 기대도 여전..",
+    "broker": "하나증권",
+    "date": "26.08.14",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "95646": {
+    "code": "475150",
+    "name": "SK이터닉스",
+    "title": "실적 리미트 해제 가능성",
+    "broker": "하나증권",
+    "date": "26.08.14",
+    "target_price": 66000,
+    "source": "naver"
+  },
+  "95645": {
+    "code": "011200",
+    "name": "HMM",
+    "title": "2Q26 Re: 글로벌 정세가 불안정하면 물류는 ..",
+    "broker": "하나증권",
+    "date": "26.08.14",
+    "target_price": 21000,
+    "source": "naver"
+  },
+  "95644": {
+    "code": "032350",
+    "name": "롯데관광개발",
+    "title": "과도했던 우려가 만든 역사적 저평가 구간",
+    "broker": "하나증권",
+    "date": "26.08.14",
+    "target_price": 21000,
+    "source": "naver"
+  },
+  "95643": {
+    "code": "010780",
+    "name": "아이에스동서",
+    "title": "아쉬운 지식산업센터, 긍정적인 콘크리트",
+    "broker": "하나증권",
+    "date": "26.08.14",
+    "target_price": 30000,
+    "source": "naver"
+  },
+  "95642": {
+    "code": "257720",
+    "name": "실리콘투",
+    "title": "새로운 성장 단계로 진입",
+    "broker": "하나증권",
+    "date": "26.08.14",
+    "target_price": 59000,
+    "source": "naver"
+  },
+  "95641": {
+    "code": "123330",
+    "name": "제닉",
+    "title": "매 분기 최고치 경신 중",
+    "broker": "하나증권",
+    "date": "26.08.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95640": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "사업가치 감소로 목표주가 하향",
+    "broker": "한화투자증권",
+    "date": "26.08.14",
+    "target_price": 336000,
+    "source": "naver"
+  },
+  "95639": {
+    "code": "139480",
+    "name": "이마트",
+    "title": "2Q26 Review : 아쉬움은 뒤로하고, 내일을 볼..",
+    "broker": "한화투자증권",
+    "date": "26.08.14",
+    "target_price": 100000,
+    "source": "naver"
+  },
+  "95638": {
+    "code": "003550",
+    "name": "LG",
+    "title": "2Q26 Review : 오픈웨이트 AI 모델 개발사",
+    "broker": "한화투자증권",
+    "date": "26.08.14",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "95637": {
+    "code": "257720",
+    "name": "실리콘투",
+    "title": "위기가 기회일지도",
+    "broker": "한화투자증권",
+    "date": "26.08.14",
+    "target_price": 55000,
+    "source": "naver"
+  },
+  "95636": {
+    "code": "483650",
+    "name": "달바글로벌",
+    "title": "기존의 둔화, 신규의 가속",
+    "broker": "한화투자증권",
+    "date": "26.08.14",
+    "target_price": 290000,
+    "source": "naver"
+  },
+  "95635": {
+    "code": "212710",
+    "name": "아이에스티이",
+    "title": "이어질 호실적 & 높아질 밸류에이션",
+    "broker": "유안타증권",
+    "date": "26.08.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95634": {
+    "code": "214150",
+    "name": "클래시스",
+    "title": "외형은 레벨업, 수익성은 로딩 중",
+    "broker": "대신증권",
+    "date": "26.08.14",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "95633": {
+    "code": "138040",
+    "name": "메리츠금융지주",
+    "title": "화재가 견인한 2분기 서프",
+    "broker": "대신증권",
+    "date": "26.08.14",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "95632": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "영업가치는 견조하나 막을 수 없는 지분가치 ..",
+    "broker": "대신증권",
+    "date": "26.08.14",
+    "target_price": 440000,
+    "source": "naver"
+  },
+  "95631": {
+    "code": "000810",
+    "name": "삼성화재",
+    "title": "오랫동안 기다리던 지표 개선 흐름 확인!",
+    "broker": "대신증권",
+    "date": "26.08.14",
+    "target_price": 870000,
+    "source": "naver"
+  },
+  "95630": {
+    "code": "482630",
+    "name": "삼양엔씨켐",
+    "title": "일시적인 성장통",
+    "broker": "대신증권",
+    "date": "26.08.14",
+    "target_price": 23000,
+    "source": "naver"
+  },
+  "95629": {
+    "code": "003550",
+    "name": "LG",
+    "title": "지분법손익 개선과 자사주 전량 소각 이행 완..",
+    "broker": "대신증권",
+    "date": "26.08.14",
+    "target_price": 130000,
+    "source": "naver"
+  },
+  "95628": {
+    "code": "196170",
+    "name": "알테오젠",
+    "title": "QLEX 순항, 확장되는 플랫폼",
+    "broker": "대신증권",
+    "date": "26.08.14",
+    "target_price": 410000,
+    "source": "naver"
+  },
+  "95627": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "title": "단번에 풀려가는 매듭들",
+    "broker": "미래에셋증권",
+    "date": "26.08.14",
+    "target_price": 2800000,
+    "source": "naver"
+  },
+  "95626": {
+    "code": "003550",
+    "name": "LG",
+    "title": "제도로 뒷받침될 매력",
+    "broker": "미래에셋증권",
+    "date": "26.08.14",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "95625": {
+    "code": "214150",
+    "name": "클래시스",
+    "title": "브라질 정상화가 관건",
+    "broker": "미래에셋증권",
+    "date": "26.08.14",
+    "target_price": 64000,
+    "source": "naver"
+  },
+  "95624": {
+    "code": "005930",
+    "name": "삼성전자",
+    "title": "사방에서 울리는 낭보들",
+    "broker": "미래에셋증권",
+    "date": "26.08.14",
+    "target_price": 370000,
+    "source": "naver"
+  },
+  "95623": {
+    "code": "079430",
+    "name": "현대리바트",
+    "title": "2Q26 NDR 후기: 외형 성장 필요",
+    "broker": "IBK투자증권",
+    "date": "26.08.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95622": {
+    "code": "000720",
+    "name": "현대건설",
+    "title": "2Q26 NDR 후기: 서명은 늦어졌지만 판이 커졌..",
+    "broker": "IBK투자증권",
+    "date": "26.08.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95621": {
+    "code": "145720",
+    "name": "덴티움",
+    "title": "2차 VBP 개시 카운트 다운 시작",
+    "broker": "미래에셋증권",
+    "date": "26.08.14",
+    "target_price": 69000,
+    "source": "naver"
+  },
+  "95620": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "저연차 IP의 수익화 역량 증명 필요",
+    "broker": "iM증권",
+    "date": "26.08.14",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "95619": {
+    "code": "023160",
+    "name": "태광",
+    "title": "쉬어간 실적, 다시 차오르는 수주",
+    "broker": "신한투자증권",
+    "date": "26.08.14",
+    "target_price": 40000,
+    "source": "naver"
+  },
+  "95618": {
+    "code": "032350",
+    "name": "롯데관광개발",
+    "title": "실적도 주가도 올라갈 일만 남았다",
+    "broker": "유진투자증권",
+    "date": "26.08.14",
+    "target_price": 22000,
+    "source": "naver"
+  },
+  "95617": {
+    "code": "011200",
+    "name": "HMM",
+    "title": "운임 상승으로 3Q 이익 증가 예상",
+    "broker": "iM증권",
+    "date": "26.08.14",
+    "target_price": 23000,
+    "source": "naver"
+  },
+  "95616": {
+    "code": "000810",
+    "name": "삼성화재",
+    "title": "전자가 채워줄 곳간",
+    "broker": "신한투자증권",
+    "date": "26.08.14",
+    "target_price": 850000,
+    "source": "naver"
+  },
+  "95615": {
+    "code": "483650",
+    "name": "달바글로벌",
+    "title": "역대급 실적, 그런데…?",
+    "broker": "신한투자증권",
+    "date": "26.08.14",
+    "target_price": 310000,
+    "source": "naver"
+  },
+  "95614": {
+    "code": "011200",
+    "name": "HMM",
+    "title": "난리통 속 공존하는 위기와 기회",
+    "broker": "신한투자증권",
+    "date": "26.08.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95613": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "입금은 확정인데 출금은 아직 미확정",
+    "broker": "신한투자증권",
+    "date": "26.08.14",
+    "target_price": 450000,
+    "source": "naver"
+  },
+  "95612": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "대규모 환입이 만든 어닝 서프라이즈",
+    "broker": "신한투자증권",
+    "date": "26.08.14",
+    "target_price": 220000,
+    "source": "naver"
+  },
+  "95611": {
+    "code": "071050",
+    "name": "한국금융지주",
+    "title": "KDB생명 인수 우선협상대상자 선정",
+    "broker": "신한투자증권",
+    "date": "26.08.14",
+    "target_price": 300000,
+    "source": "naver"
+  },
+  "95610": {
+    "code": "002350",
+    "name": "넥센타이어",
+    "title": "저평가의 이유는 줄고, 재평가의 조건은 쌓인..",
+    "broker": "신한투자증권",
+    "date": "26.08.14",
+    "target_price": 10000,
+    "source": "naver"
+  },
+  "95609": {
+    "code": "139480",
+    "name": "이마트",
+    "title": "본업 반등 본격화에 위안",
+    "broker": "신한투자증권",
+    "date": "26.08.14",
+    "target_price": 100000,
+    "source": "naver"
+  },
+  "95608": {
+    "code": "000080",
+    "name": "하이트진로",
+    "title": "비용 절감은 우수, 판매량 회복은 과제",
+    "broker": "신한투자증권",
+    "date": "26.08.14",
+    "target_price": 22000,
+    "source": "naver"
+  },
+  "95607": {
+    "code": "095660",
+    "name": "네오위즈",
+    "title": "신작 모멘텀 부재",
+    "broker": "유진투자증권",
+    "date": "26.08.14",
+    "target_price": 25000,
+    "source": "naver"
+  },
+  "95606": {
+    "code": "035420",
+    "name": "NAVER",
+    "title": "프런티어 업체와 제휴 필요",
+    "broker": "키움증권",
+    "date": "26.08.14",
+    "target_price": 320000,
+    "source": "naver"
+  },
+  "95605": {
+    "code": "170920",
+    "name": "엘티씨",
+    "title": "2분기 연속 최대 실적 경신",
+    "broker": "신한투자증권",
+    "date": "26.08.14",
+    "target_price": 64000,
+    "source": "naver"
+  },
+  "95604": {
+    "code": "000810",
+    "name": "삼성화재",
+    "title": "안정적 실적이지만 관건은 자본 정책",
+    "broker": "iM증권",
+    "date": "26.08.14",
+    "target_price": 740000,
+    "source": "naver"
+  },
+  "95603": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "One-off 요인으로 본업 부진. 관건은 주주환..",
+    "broker": "iM증권",
+    "date": "26.08.14",
+    "target_price": 380000,
+    "source": "naver"
+  },
+  "95602": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "제도 관련 대규모 환입으로 감익 우려 축소",
+    "broker": "iM증권",
+    "date": "26.08.14",
+    "target_price": 220000,
+    "source": "naver"
+  },
+  "95601": {
+    "code": "139480",
+    "name": "이마트",
+    "title": "문제는 실적의 레벨이 아니라 가시성",
+    "broker": "키움증권",
+    "date": "26.08.14",
+    "target_price": 103000,
+    "source": "naver"
+  },
+  "95600": {
+    "code": "005430",
+    "name": "한국공항",
+    "title": "저평가 업체의 실적 개선세와 추가 모멘텀 주..",
+    "broker": "키움증권",
+    "date": "26.08.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95599": {
+    "code": "095610",
+    "name": "테스",
+    "title": "신규 수주 급증",
+    "broker": "SK증권",
+    "date": "26.08.14",
+    "target_price": 230000,
+    "source": "naver"
+  },
+  "95598": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "2Q26 Re: 기대치 하회했으나 매력도는 여전",
+    "broker": "키움증권",
+    "date": "26.08.14",
+    "target_price": 450000,
+    "source": "naver"
+  },
+  "95597": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "2Q26 Re: 견조한 실적, 추가 자본 활용 기대",
+    "broker": "키움증권",
+    "date": "26.08.14",
+    "target_price": 250000,
+    "source": "naver"
+  },
+  "95596": {
+    "code": "000810",
+    "name": "삼성화재",
+    "title": "2Q26 Re: 견조한 본업 실적에 지분법손익도 ..",
+    "broker": "키움증권",
+    "date": "26.08.14",
+    "target_price": 750000,
+    "source": "naver"
+  },
+  "95594": {
+    "code": "011200",
+    "name": "HMM",
+    "title": "운임 상승과 비용 증가의 줄다리기",
+    "broker": "미래에셋증권",
+    "date": "26.08.14",
+    "target_price": 26000,
+    "source": "naver"
+  },
+  "95593": {
+    "code": "139480",
+    "name": "이마트",
+    "title": "실적 쇼크는 맞는데...",
+    "broker": "IBK투자증권",
+    "date": "26.08.14",
+    "target_price": 100000,
+    "source": "naver"
+  },
+  "95592": {
+    "code": "138040",
+    "name": "메리츠금융지주",
+    "title": "차별화된 성장세 지속",
+    "broker": "미래에셋증권",
+    "date": "26.08.14",
+    "target_price": 161000,
+    "source": "naver"
+  },
+  "95591": {
+    "code": "000810",
+    "name": "삼성화재",
+    "title": "신계약 CSM YoY 14% 감소",
+    "broker": "미래에셋증권",
+    "date": "26.08.14",
+    "target_price": 600000,
+    "source": "naver"
+  },
+  "95590": {
+    "code": "483650",
+    "name": "달바글로벌",
+    "title": "북미와 유럽이 견인한 실적",
+    "broker": "IBK투자증권",
+    "date": "26.08.14",
+    "target_price": 320000,
+    "source": "naver"
+  },
+  "95589": {
+    "code": "476710",
+    "name": "타조이엔터테인먼트",
+    "title": "K-POP 공연기획 역량 기반의 숏폼 콘텐츠 사..",
+    "broker": "서울평가정보",
+    "date": "26.08.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95588": {
+    "code": "014280",
+    "name": "금강공업",
+    "title": "강관에서 모듈러까지, 건설·산업 소재의 전 ..",
+    "broker": "NICE평가정보",
+    "date": "26.08.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95587": {
+    "code": "014950",
+    "name": "삼익제약",
+    "title": "재도약(Re)으로 더 높이 비상(Leap)하는 3대 ..",
+    "broker": "NICE평가정보",
+    "date": "26.08.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95586": {
+    "code": "355390",
+    "name": "크라우드웍스",
+    "title": "AI 데이터 구축 역량 기반 사업영역을 확장하..",
+    "broker": "서울평가정보",
+    "date": "26.08.14",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95585": {
+    "code": "006400",
+    "name": "삼성SDI",
+    "title": "중국 점유율을 뺏어오기 시작할 것",
+    "broker": "미래에셋증권",
+    "date": "26.08.14",
+    "target_price": 1000000,
+    "source": "naver"
+  },
+  "hk:651738": {
+    "code": "035900",
+    "name": "JYP Ent.",
+    "title": "JYP Ent.(035900) 저연차 IP의 수익화 역량 증명 필요",
+    "broker": "iM증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 60000,
+    "source": "hankyung"
+  },
+  "hk:651737": {
+    "code": "011200",
+    "name": "HMM",
+    "title": "HMM(011200) 운임 상승으로 3Q 이익 증가 예상",
+    "broker": "iM증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 23000,
+    "source": "hankyung"
+  },
+  "hk:651736": {
+    "code": "000810",
+    "name": "삼성화재",
+    "title": "삼성화재(000810) 안정적 실적이지만 관건은 자본 정책",
+    "broker": "iM증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 740000,
+    "source": "hankyung"
+  },
+  "hk:651735": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "삼성생명(032830) One-off 요인으로 본업 부진. 관건은 주주환원",
+    "broker": "iM증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 380000,
+    "source": "hankyung"
+  },
+  "hk:651734": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "DB손해보험(005830) 제도 관련 대규모 환입으로 감익 우려 축소",
+    "broker": "iM증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 220000,
+    "source": "hankyung"
+  },
+  "hk:651722": {
+    "code": "139480",
+    "name": "이마트",
+    "title": "이마트(139480) 2Q26 Review: 가려진 본업의 힘",
+    "broker": "LS증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 115000,
+    "source": "hankyung"
+  },
+  "hk:651720": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "DB손해보험(005830) 이익체력 회복과 주주환원 기대감 확대",
+    "broker": "LS증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 210000,
+    "source": "hankyung"
+  },
+  "hk:651719": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "삼성생명(032830) 경상이익 개선흐름 전망",
+    "broker": "LS증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 380000,
+    "source": "hankyung"
+  },
+  "hk:651718": {
+    "code": "000810",
+    "name": "삼성화재",
+    "title": "삼성화재(000810) 뚜렷한 실적 개선. 하반기 전망도 긍정적",
+    "broker": "LS증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 750000,
+    "source": "hankyung"
+  },
+  "hk:651717": {
+    "code": "011200",
+    "name": "HMM",
+    "title": "HMM(011200) 2Q26 Review: 우려에서 기대로 바뀐 26년",
+    "broker": "LS증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 30000,
+    "source": "hankyung"
+  },
+  "hk:651716": {
+    "code": "093520",
+    "name": "매커스",
+    "title": "매커스(093520) 성장성이 높다 FPGA",
+    "broker": "LS증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 33000,
+    "source": "hankyung"
+  },
+  "hk:651715": {
+    "code": "030190",
+    "name": "NICE평가정보",
+    "title": "NICE평가정보(030190) 2Q26 Review: 영업이익 +19.2% YoY",
+    "broker": "LS증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 20000,
+    "source": "hankyung"
+  },
+  "hk:651714": {
+    "code": "095610",
+    "name": "테스",
+    "title": "테스(095610) 신규 수주 급증",
+    "broker": "SK증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 230000,
+    "source": "hankyung"
+  },
+  "hk:651712": {
+    "code": "005690",
+    "name": "파미셀",
+    "title": "파미셀(005690) 긍정적인 변화 점검",
+    "broker": "메리츠증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651711": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "DB손해보험(005830) 변화될 주주환원정책",
+    "broker": "메리츠증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 220000,
+    "source": "hankyung"
+  },
+  "hk:651710": {
+    "code": "003550",
+    "name": "LG",
+    "title": "LG(003550) 지분법손익 개선과 자사주 전량 소각 이행 완료",
+    "broker": "대신증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 130000,
+    "source": "hankyung"
+  },
+  "hk:651709": {
+    "code": "482630",
+    "name": "삼양엔씨켐",
+    "title": "삼양엔씨켐(482630) 일시적인 성장통",
+    "broker": "대신증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 23000,
+    "source": "hankyung"
+  },
+  "hk:651704": {
+    "code": "095660",
+    "name": "네오위즈",
+    "title": "네오위즈(095660) 단기 신작 모멘텀 부재",
+    "broker": "유진투자증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 25000,
+    "source": "hankyung"
+  },
+  "hk:651703": {
+    "code": "032350",
+    "name": "롯데관광개발",
+    "title": "롯데관광개발(032350) 실적도 주가도 올라갈 일만 남았다",
+    "broker": "유진투자증권",
+    "date": "2026-08-14",
+    "target_price": null,
+    "listed_target_price": 22000,
+    "source": "hankyung"
   }
 }
