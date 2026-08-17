@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 19:18",
+  "updated_at": "2026-08-17 18:56",
   "count": 311,
   "rows": [
     {
@@ -3041,7 +3041,7 @@
       "target_max": 900000,
       "target_min": 570000,
       "gap_pct": 66.0,
-      "report_count": 13,
+      "report_count": 12,
       "target_count": 10,
       "reports": [
         {
@@ -3125,13 +3125,6 @@
           "title": "현대차(005380) 하반기 생산 정상화, 신사업 일정 구체화 기대",
           "broker": "상상인증권",
           "date": "2026-07-08",
-          "target_price": null,
-          "source": "hankyung"
-        },
-        {
-          "title": "현대차(005380) 월드모델 전쟁, 자동차가 유튜버다",
-          "broker": "메리츠증권",
-          "date": "2026-05-18",
           "target_price": null,
           "source": "hankyung"
         }
@@ -3223,7 +3216,7 @@
       "target_max": 161000,
       "target_min": 89000,
       "gap_pct": 64.6,
-      "report_count": 4,
+      "report_count": 3,
       "target_count": 3,
       "reports": [
         {
@@ -3246,13 +3239,6 @@
           "date": "26.07.21",
           "target_price": 89000,
           "source": "naver"
-        },
-        {
-          "title": "인텔리안테크(189300) 성장성 대비 아쉬운 수익성",
-          "broker": "메리츠증권",
-          "date": "2026-05-18",
-          "target_price": null,
-          "source": "hankyung"
         }
       ],
       "suspect": false
@@ -4238,7 +4224,7 @@
       "target_max": 78000,
       "target_min": 55000,
       "gap_pct": 56.5,
-      "report_count": 3,
+      "report_count": 2,
       "target_count": 2,
       "reports": [
         {
@@ -4254,13 +4240,6 @@
           "date": "26.07.22",
           "target_price": 78000,
           "source": "naver"
-        },
-        {
-          "title": "미스토홀딩스(081660) 멀리 보자",
-          "broker": "SK증권",
-          "date": "2026-05-18",
-          "target_price": null,
-          "source": "hankyung"
         }
       ],
       "suspect": false
@@ -4994,7 +4973,7 @@
       "target_max": 35000,
       "target_min": 35000,
       "gap_pct": 54.2,
-      "report_count": 2,
+      "report_count": 1,
       "target_count": 1,
       "reports": [
         {
@@ -5003,13 +4982,6 @@
           "date": "26.08.11",
           "target_price": 35000,
           "source": "naver"
-        },
-        {
-          "title": "이녹스첨단소재(272290) [NDR 후기] 응용처 다변화",
-          "broker": "iM증권",
-          "date": "2026-05-19",
-          "target_price": null,
-          "source": "hankyung"
         }
       ],
       "suspect": false
@@ -6142,7 +6114,7 @@
       "target_max": 200000,
       "target_min": 200000,
       "gap_pct": 50.6,
-      "report_count": 3,
+      "report_count": 2,
       "target_count": 1,
       "reports": [
         {
@@ -6156,13 +6128,6 @@
           "title": "세아제강(306200) 예상보다 빠른 수익성 정상화",
           "broker": "한화투자증권",
           "date": "2026-07-22",
-          "target_price": null,
-          "source": "hankyung"
-        },
-        {
-          "title": "세아제강(306200) 해상풍력과 천연가스가 견인한 실적 서프라이즈",
-          "broker": "상상인증권",
-          "date": "2026-05-18",
           "target_price": null,
           "source": "hankyung"
         }
@@ -7689,7 +7654,7 @@
       "target_max": 365000,
       "target_min": 330000,
       "gap_pct": 42.4,
-      "report_count": 3,
+      "report_count": 2,
       "target_count": 2,
       "reports": [
         {
@@ -7705,13 +7670,6 @@
           "date": "26.08.06",
           "target_price": 330000,
           "source": "naver"
-        },
-        {
-          "title": "SK가스(018670) 1Q26 Review: 난세의 영웅",
-          "broker": "메리츠증권",
-          "date": "2026-05-18",
-          "target_price": null,
-          "source": "hankyung"
         }
       ],
       "suspect": false
@@ -9908,7 +9866,7 @@
       "target_max": 220000,
       "target_min": 156000,
       "gap_pct": 36.1,
-      "report_count": 4,
+      "report_count": 3,
       "target_count": 2,
       "reports": [
         {
@@ -9929,13 +9887,6 @@
           "title": "CJ(001040) 자사주 소각, 중복상장 규제, 합병 공정가액 도입 수혜",
           "broker": "iM증권",
           "date": "2026-06-29",
-          "target_price": null,
-          "source": "hankyung"
-        },
-        {
-          "title": "CJ(001040) 중복상장 규제로 주가 탄력성 확대",
-          "broker": "SK증권",
-          "date": "2026-05-19",
           "target_price": null,
           "source": "hankyung"
         }
@@ -12085,7 +12036,7 @@
       "target_max": 110000,
       "target_min": 110000,
       "gap_pct": 28.1,
-      "report_count": 4,
+      "report_count": 2,
       "target_count": 1,
       "reports": [
         {
@@ -12099,20 +12050,6 @@
           "title": "영원무역(111770) 1Q26 Review : 글로벌 탑 애슬레저 브랜드 생산 모음zip",
           "broker": "유진투자증권",
           "date": "2026-05-26",
-          "target_price": null,
-          "source": "hankyung"
-        },
-        {
-          "title": "영원무역(111770) 1Q26 Review : 시장의 눈높이를 계속 뛰어넘는 실적",
-          "broker": "한화투자증권",
-          "date": "2026-05-18",
-          "target_price": null,
-          "source": "hankyung"
-        },
-        {
-          "title": "영원무역(111770) OEM 성장, SCOTT 회복",
-          "broker": "SK증권",
-          "date": "2026-05-18",
           "target_price": null,
           "source": "hankyung"
         }
@@ -12505,7 +12442,7 @@
       "target_max": 570000,
       "target_min": 530000,
       "gap_pct": 25.7,
-      "report_count": 3,
+      "report_count": 2,
       "target_count": 2,
       "reports": [
         {
@@ -12521,13 +12458,6 @@
           "date": "26.07.13",
           "target_price": 570000,
           "source": "naver"
-        },
-        {
-          "title": "농심(004370) 해외 신제품 수요 확대",
-          "broker": "LS증권",
-          "date": "2026-05-18",
-          "target_price": null,
-          "source": "hankyung"
         }
       ],
       "suspect": false
@@ -12757,7 +12687,7 @@
       "target_max": 9500,
       "target_min": 9500,
       "gap_pct": 25.2,
-      "report_count": 2,
+      "report_count": 1,
       "target_count": 1,
       "reports": [
         {
@@ -12766,13 +12696,6 @@
           "date": "26.07.29",
           "target_price": 9500,
           "source": "naver"
-        },
-        {
-          "title": "SK네트웍스(001740) 올해 실적개선 가속화 및 로봇사업 확장의 기반 마련",
-          "broker": "iM증권",
-          "date": "2026-05-18",
-          "target_price": null,
-          "source": "hankyung"
         }
       ],
       "suspect": false
@@ -13632,7 +13555,7 @@
       "target_max": 51000,
       "target_min": 45000,
       "gap_pct": 18.5,
-      "report_count": 3,
+      "report_count": 2,
       "target_count": 2,
       "reports": [
         {
@@ -13648,13 +13571,6 @@
           "date": "26.08.12",
           "target_price": 45000,
           "source": "naver"
-        },
-        {
-          "title": "한샘(009240) NDR 후기 : 쉬이 꺾이지 않을 실적 반등세",
-          "broker": "한화투자증권",
-          "date": "2026-05-18",
-          "target_price": null,
-          "source": "hankyung"
         }
       ],
       "suspect": false
@@ -14395,7 +14311,7 @@
       "target_max": 140000,
       "target_min": 115000,
       "gap_pct": 10.8,
-      "report_count": 6,
+      "report_count": 5,
       "target_count": 5,
       "reports": [
         {
@@ -14432,13 +14348,6 @@
           "date": "26.07.20",
           "target_price": 115000,
           "source": "naver"
-        },
-        {
-          "title": "LG(003550) 추가적인 주주환원 기대",
-          "broker": "SK증권",
-          "date": "2026-05-19",
-          "target_price": null,
-          "source": "hankyung"
         }
       ],
       "suspect": false
@@ -14878,7 +14787,7 @@
       "target_max": 316000,
       "target_min": 316000,
       "gap_pct": -2.3,
-      "report_count": 5,
+      "report_count": 4,
       "target_count": 1,
       "reports": [
         {
@@ -14906,13 +14815,6 @@
           "title": "LS(006260) 실적 성장 본격화 & 주가 급락은 저가 매수 기회",
           "broker": "대신증권",
           "date": "2026-06-01",
-          "target_price": null,
-          "source": "hankyung"
-        },
-        {
-          "title": "LS(006260) 우호적인 업황 지속",
-          "broker": "SK증권",
-          "date": "2026-05-19",
           "target_price": null,
           "source": "hankyung"
         }
@@ -14955,7 +14857,7 @@
       "target_max": 41000,
       "target_min": 41000,
       "gap_pct": -9.6,
-      "report_count": 5,
+      "report_count": 1,
       "target_count": 1,
       "reports": [
         {
@@ -14964,34 +14866,6 @@
           "date": "26.08.14",
           "target_price": 41000,
           "source": "naver"
-        },
-        {
-          "title": "현대해상(001450) 드디어 듀레이션 매칭에 성공",
-          "broker": "한화투자증권",
-          "date": "2026-05-18",
-          "target_price": null,
-          "source": "hankyung"
-        },
-        {
-          "title": "현대해상(001450) 실현되고 있는 내러티브",
-          "broker": "iM증권",
-          "date": "2026-05-18",
-          "target_price": null,
-          "source": "hankyung"
-        },
-        {
-          "title": "현대해상(001450) 경상수익성 개선과 자본안정성 강화 긍정적",
-          "broker": "LS증권",
-          "date": "2026-05-18",
-          "target_price": null,
-          "source": "hankyung"
-        },
-        {
-          "title": "현대해상(001450) 진짜 좋아지고 있다!!",
-          "broker": "대신증권",
-          "date": "2026-05-18",
-          "target_price": null,
-          "source": "hankyung"
         }
       ],
       "suspect": false
@@ -15046,7 +14920,7 @@
       "target_max": 100000,
       "target_min": 100000,
       "gap_pct": -15.7,
-      "report_count": 2,
+      "report_count": 1,
       "target_count": 1,
       "reports": [
         {
@@ -15055,13 +14929,6 @@
           "date": "26.07.20",
           "target_price": 100000,
           "source": "naver"
-        },
-        {
-          "title": "에스피지(058610) 다시금강해지는내러티브",
-          "broker": "iM증권",
-          "date": "2026-05-19",
-          "target_price": null,
-          "source": "hankyung"
         }
       ],
       "suspect": false
