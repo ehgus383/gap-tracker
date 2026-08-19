@@ -46209,5 +46209,391 @@
     "target_price": null,
     "listed_target_price": 30000,
     "source": "hankyung"
+  },
+  "95776": {
+    "code": "095610",
+    "name": "테스",
+    "title": "양호한 실적과 든든한 수주잔고",
+    "broker": "하나증권",
+    "date": "26.08.19",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "95774": {
+    "code": "007660",
+    "name": "이수페타시스",
+    "title": "Capa 확대, 판가 인상과 믹스 개선의 콜라보",
+    "broker": "하나증권",
+    "date": "26.08.19",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "95773": {
+    "code": "009900",
+    "name": "명신산업",
+    "title": "실적은 반등, 밸류에이션은 지배구조에 할인",
+    "broker": "하나증권",
+    "date": "26.08.19",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95772": {
+    "code": "417840",
+    "name": "저스템",
+    "title": "2Q26 Review: 27년 영익 10배 성장, 27F P/E ..",
+    "broker": "한화투자증권",
+    "date": "26.08.19",
+    "target_price": 27000,
+    "source": "naver"
+  },
+  "95771": {
+    "code": "257720",
+    "name": "실리콘투",
+    "title": "3천억원 유상증자 코멘트",
+    "broker": "한화투자증권",
+    "date": "26.08.19",
+    "target_price": 55000,
+    "source": "naver"
+  },
+  "95770": {
+    "code": "257720",
+    "name": "실리콘투",
+    "title": "3천억원 유상증자 코멘트",
+    "broker": "한화투자증권",
+    "date": "26.08.19",
+    "target_price": 55000,
+    "source": "naver"
+  },
+  "95769": {
+    "code": "019210",
+    "name": "와이지-원",
+    "title": "2Q 실적의 내재적 의미",
+    "broker": "유안타증권",
+    "date": "26.08.19",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95768": {
+    "code": "129920",
+    "name": "대성하이텍",
+    "title": "온탕과 냉탕, 다음은 온탕이다!",
+    "broker": "유안타증권",
+    "date": "26.08.19",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95767": {
+    "code": "006260",
+    "name": "LS",
+    "title": "내러티브가 실적으로 증명되기 시작!",
+    "broker": "대신증권",
+    "date": "26.08.19",
+    "target_price": 630000,
+    "source": "naver"
+  },
+  "95766": {
+    "code": "001450",
+    "name": "현대해상",
+    "title": "놀라운 변화!",
+    "broker": "대신증권",
+    "date": "26.08.19",
+    "target_price": 59000,
+    "source": "naver"
+  },
+  "95765": {
+    "code": "105630",
+    "name": "한세실업",
+    "title": "2분기 예상 밖 서프라이즈",
+    "broker": "대신증권",
+    "date": "26.08.19",
+    "target_price": 12000,
+    "source": "naver"
+  },
+  "95764": {
+    "code": "111770",
+    "name": "영원무역",
+    "title": "하반기 호실적, 매력적인 valuation, 높은 배..",
+    "broker": "대신증권",
+    "date": "26.08.19",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "95763": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "추세적으로 하락하는 손해율과 기대되는 새로..",
+    "broker": "대신증권",
+    "date": "26.08.19",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "95762": {
+    "code": "189300",
+    "name": "인텔리안테크",
+    "title": "해상·지상용 안테나 모두 견조한 성장세",
+    "broker": "iM증권",
+    "date": "26.08.19",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "95761": {
+    "code": "189300",
+    "name": "인텔리안테크",
+    "title": "빠질만큼 빠졌다",
+    "broker": "신한투자증권",
+    "date": "26.08.19",
+    "target_price": 101000,
+    "source": "naver"
+  },
+  "95760": {
+    "code": "033530",
+    "name": "SJG세종",
+    "title": "2Q26 Review: 하반기 신차 출시 확대 수혜 기..",
+    "broker": "유진투자증권",
+    "date": "26.08.19",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95759": {
+    "code": "083650",
+    "name": "비에이치아이",
+    "title": "성장 가시성에 수익성까지",
+    "broker": "신한투자증권",
+    "date": "26.08.19",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "95758": {
+    "code": "091580",
+    "name": "상신이디피",
+    "title": "BESS와 데이터센터용 BBU 수요 확대발 성장",
+    "broker": "유진투자증권",
+    "date": "26.08.19",
+    "target_price": 30000,
+    "source": "naver"
+  },
+  "95757": {
+    "code": "243840",
+    "name": "신흥에스이씨",
+    "title": "데이터센터용 BBU가 이익 증가 주원인",
+    "broker": "유진투자증권",
+    "date": "26.08.19",
+    "target_price": 10000,
+    "source": "naver"
+  },
+  "95756": {
+    "code": "084010",
+    "name": "대한제강",
+    "title": "업황은 바닥을 확인했으나",
+    "broker": "iM증권",
+    "date": "26.08.19",
+    "target_price": 9600,
+    "source": "naver"
+  },
+  "95755": {
+    "code": "419530",
+    "name": "SAMG엔터",
+    "title": "상반기에 씨 뿌렸으니 하반기에 수확하자",
+    "broker": "유진투자증권",
+    "date": "26.08.19",
+    "target_price": 35000,
+    "source": "naver"
+  },
+  "95754": {
+    "code": "232140",
+    "name": "와이씨",
+    "title": "내년이 더 기대되는 이유",
+    "broker": "신한투자증권",
+    "date": "26.08.19",
+    "target_price": 15000,
+    "source": "naver"
+  },
+  "95753": {
+    "code": "004490",
+    "name": "세방전지",
+    "title": "ESS 사업 진출로 체급 업그레이드",
+    "broker": "iM증권",
+    "date": "26.08.19",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95752": {
+    "code": "044490",
+    "name": "태웅",
+    "title": "하반기 믹스 개선 확인 필요",
+    "broker": "신한투자증권",
+    "date": "26.08.19",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95751": {
+    "code": "000100",
+    "name": "유한양행",
+    "title": "성장의 뿌리는 단단해지고 있다",
+    "broker": "iM증권",
+    "date": "26.08.19",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "95750": {
+    "code": "006260",
+    "name": "LS",
+    "title": "자회사 이익 체력의 구조적 상승",
+    "broker": "키움증권",
+    "date": "26.08.19",
+    "target_price": 500000,
+    "source": "naver"
+  },
+  "95749": {
+    "code": "007660",
+    "name": "이수페타시스",
+    "title": "디레이팅 요소 해소, 다시 펴는 날개",
+    "broker": "키움증권",
+    "date": "26.08.19",
+    "target_price": 190000,
+    "source": "naver"
+  },
+  "95748": {
+    "code": "340570",
+    "name": "티앤엘",
+    "title": "관세 환급 없는데도 마진 상승",
+    "broker": "키움증권",
+    "date": "26.08.19",
+    "target_price": 48000,
+    "source": "naver"
+  },
+  "95747": {
+    "code": "475960",
+    "name": "토모큐브",
+    "title": "오랜 긴 꿈을 향하여",
+    "broker": "키움증권",
+    "date": "26.08.19",
+    "target_price": 61000,
+    "source": "naver"
+  },
+  "95746": {
+    "code": "226950",
+    "name": "올릭스",
+    "title": "메마른 바이오 시장의 OASIS",
+    "broker": "한국IR협의회",
+    "date": "26.08.19",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95745": {
+    "code": "049070",
+    "name": "인탑스",
+    "title": "케이스를 넘어 로봇을 조립하다",
+    "broker": "한국IR협의회",
+    "date": "26.08.19",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95744": {
+    "code": "086520",
+    "name": "에코프로",
+    "title": "2차전지 글로벌 밸류체인을 구축한 사업지주..",
+    "broker": "한국IR협의회",
+    "date": "26.08.19",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95743": {
+    "code": "001040",
+    "name": "CJ",
+    "title": "가치의 무게중심, 올리브영으로 한 걸음 더",
+    "broker": "미래에셋증권",
+    "date": "26.08.19",
+    "target_price": 166000,
+    "source": "naver"
+  },
+  "95742": {
+    "code": "006260",
+    "name": "LS",
+    "title": "확산되는 이익 모멘텀",
+    "broker": "미래에셋증권",
+    "date": "26.08.19",
+    "target_price": 452000,
+    "source": "naver"
+  },
+  "hk:651788": {
+    "code": "063570",
+    "name": "NICE인프라",
+    "title": "NICE인프라(063570) 안정적인 외형 성장",
+    "broker": "LS증권",
+    "date": "2026-08-19",
+    "target_price": null,
+    "listed_target_price": 5000,
+    "source": "hankyung"
+  },
+  "hk:651787": {
+    "code": "108380",
+    "name": "대양전기공업",
+    "title": "대양전기공업(108380) 2Q26 Review: 영업이익 +30.7% yoy",
+    "broker": "LS증권",
+    "date": "2026-08-19",
+    "target_price": null,
+    "listed_target_price": 30000,
+    "source": "hankyung"
+  },
+  "hk:651786": {
+    "code": "189300",
+    "name": "인텔리안테크",
+    "title": "인텔리안테크(189300) 해상·지상용 안테나 모두 견조한 성장세",
+    "broker": "iM증권",
+    "date": "2026-08-19",
+    "target_price": null,
+    "listed_target_price": 110000,
+    "source": "hankyung"
+  },
+  "hk:651785": {
+    "code": "084010",
+    "name": "대한제강",
+    "title": "대한제강(084010) 업황은 바닥을 확인했으나…",
+    "broker": "iM증권",
+    "date": "2026-08-19",
+    "target_price": null,
+    "listed_target_price": 9600,
+    "source": "hankyung"
+  },
+  "hk:651784": {
+    "code": "108490",
+    "name": "로보티즈",
+    "title": "로보티즈(108490) 후발 주자들과의 기술 격차는 여전히 크다",
+    "broker": "iM증권",
+    "date": "2026-08-19",
+    "target_price": null,
+    "listed_target_price": 400000,
+    "source": "hankyung"
+  },
+  "hk:651783": {
+    "code": "058610",
+    "name": "에스피지",
+    "title": "에스피지(058610) 고객사들의 사업이 구체화될 시점에 주목",
+    "broker": "iM증권",
+    "date": "2026-08-19",
+    "target_price": null,
+    "listed_target_price": 160000,
+    "source": "hankyung"
+  },
+  "hk:651782": {
+    "code": "277810",
+    "name": "레인보우로보틱스",
+    "title": "레인보우로보틱스(277810) 여전히 삼성전자 핵심 협력사",
+    "broker": "iM증권",
+    "date": "2026-08-19",
+    "target_price": null,
+    "listed_target_price": 650000,
+    "source": "hankyung"
+  },
+  "hk:651781": {
+    "code": "000100",
+    "name": "유한양행",
+    "title": "유한양행(000100) 성장의 뿌리는 단단해지고 있다",
+    "broker": "iM증권",
+    "date": "2026-08-19",
+    "target_price": null,
+    "listed_target_price": 140000,
+    "source": "hankyung"
   }
 }
