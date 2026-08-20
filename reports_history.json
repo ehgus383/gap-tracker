@@ -46595,5 +46595,237 @@
     "target_price": null,
     "listed_target_price": 140000,
     "source": "hankyung"
+  },
+  "95794": {
+    "code": "002380",
+    "name": "KCC",
+    "title": "삼성물산 특별배당 연계, 주주환원 정책 강화",
+    "broker": "신한투자증권",
+    "date": "26.08.20",
+    "target_price": 750000,
+    "source": "naver"
+  },
+  "95793": {
+    "code": "139480",
+    "name": "이마트",
+    "title": "본업 개선 불구, 자회사 불확실성이 아쉬운…",
+    "broker": "대신증권",
+    "date": "26.08.20",
+    "target_price": 108000,
+    "source": "naver"
+  },
+  "95792": {
+    "code": "089860",
+    "name": "롯데렌탈",
+    "title": "아직 끝나지 않았다?",
+    "broker": "대신증권",
+    "date": "26.08.20",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "95791": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "title": "40조원은 시작, 대규모 자사주 매입 및 소각 ..",
+    "broker": "한화투자증권",
+    "date": "26.08.20",
+    "target_price": 3150000,
+    "source": "naver"
+  },
+  "95790": {
+    "code": "131970",
+    "name": "두산테스나",
+    "title": "가시적인 성장성에도 불구하고",
+    "broker": "교보증권",
+    "date": "26.08.20",
+    "target_price": 135000,
+    "source": "naver"
+  },
+  "95789": {
+    "code": "033640",
+    "name": "네패스",
+    "title": "달라지고 있는 체급",
+    "broker": "교보증권",
+    "date": "26.08.20",
+    "target_price": 40000,
+    "source": "naver"
+  },
+  "95788": {
+    "code": "011560",
+    "name": "세보엠이씨",
+    "title": "탐방노트: 예상했던 그림보다 시현되는 그림..",
+    "broker": "교보증권",
+    "date": "26.08.20",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95787": {
+    "code": "035420",
+    "name": "NAVER",
+    "title": "NDR, 코어위브, 네비우스, 브룩필드에서 얻은..",
+    "broker": "하나증권",
+    "date": "26.08.20",
+    "target_price": 400000,
+    "source": "naver"
+  },
+  "95786": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "title": "40조원 규모의 자기주식 취득 및 소각 공시",
+    "broker": "하나증권",
+    "date": "26.08.20",
+    "target_price": 3600000,
+    "source": "naver"
+  },
+  "95785": {
+    "code": "138080",
+    "name": "오이솔루션",
+    "title": "실적 턴어라운드가 임박했습니다",
+    "broker": "하나증권",
+    "date": "26.08.20",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "95784": {
+    "code": "264450",
+    "name": "유비쿼스",
+    "title": "사업확장을 하려면 지금이 최적의 시점입니다",
+    "broker": "하나증권",
+    "date": "26.08.20",
+    "target_price": 22000,
+    "source": "naver"
+  },
+  "95783": {
+    "code": "005880",
+    "name": "대한해운",
+    "title": "Next Step을 기대하며",
+    "broker": "하나증권",
+    "date": "26.08.20",
+    "target_price": 2500,
+    "source": "naver"
+  },
+  "95782": {
+    "code": "458870",
+    "name": "씨어스",
+    "title": "NDR 후기: 멀리 가기 위한 재정비의 시간",
+    "broker": "신한투자증권",
+    "date": "26.08.20",
+    "target_price": 37000,
+    "source": "naver"
+  },
+  "95781": {
+    "code": "171090",
+    "name": "선익시스템",
+    "title": "실적 부진 끝, 다가오는 반등의 시간",
+    "broker": "IBK투자증권",
+    "date": "26.08.20",
+    "target_price": 141000,
+    "source": "naver"
+  },
+  "95780": {
+    "code": "086900",
+    "name": "메디톡스",
+    "title": "긍정의 사고, 매출액 방어 성공, 마진은 아쉽..",
+    "broker": "키움증권",
+    "date": "26.08.20",
+    "target_price": 70000,
+    "source": "naver"
+  },
+  "95779": {
+    "code": "013990",
+    "name": "아가방컴퍼니",
+    "title": "영업실적 개선과 확대되는 자사주 매입",
+    "broker": "한국IR협의회",
+    "date": "26.08.20",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95778": {
+    "code": "006730",
+    "name": "서부T&D",
+    "title": "긍정적 실적과 유리한 입지",
+    "broker": "IBK투자증권",
+    "date": "26.08.20",
+    "target_price": 18000,
+    "source": "naver"
+  },
+  "95777": {
+    "code": "098460",
+    "name": "고영",
+    "title": "AI 혁명의 3D Frontier",
+    "broker": "IBK투자증권",
+    "date": "26.08.20",
+    "target_price": 42000,
+    "source": "naver"
+  },
+  "hk:651829": {
+    "code": "013990",
+    "name": "아가방컴퍼니",
+    "title": "아가방컴퍼니(013990) 영업실적 개선과 확대되는 자사주 매입",
+    "broker": "한국IR협의회",
+    "date": "2026-08-20",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651809": {
+    "code": "006280",
+    "name": "녹십자",
+    "title": "녹십자(006280) [NDR 후기] 2보 전진을 위한 1보 후퇴",
+    "broker": "iM증권",
+    "date": "2026-08-20",
+    "target_price": null,
+    "listed_target_price": 180000,
+    "source": "hankyung"
+  },
+  "hk:651808": {
+    "code": "178320",
+    "name": "서진시스템",
+    "title": "서진시스템(178320) 단기 악재 해소, 좋아질 일만 남았다",
+    "broker": "iM증권",
+    "date": "2026-08-20",
+    "target_price": null,
+    "listed_target_price": 68000,
+    "source": "hankyung"
+  },
+  "hk:651807": {
+    "code": "171090",
+    "name": "선익시스템",
+    "title": "선익시스템(171090) 실적 부진 끝, 다가오는 반등의 시간",
+    "broker": "IBK투자증권",
+    "date": "2026-08-20",
+    "target_price": null,
+    "listed_target_price": 141000,
+    "source": "hankyung"
+  },
+  "hk:651806": {
+    "code": "228850",
+    "name": "레이언스",
+    "title": "레이언스(228850) HBM 검사용 CMOS 디텍터 고성장",
+    "broker": "LS증권",
+    "date": "2026-08-20",
+    "target_price": null,
+    "listed_target_price": 9000,
+    "source": "hankyung"
+  },
+  "hk:651804": {
+    "code": "294570",
+    "name": "쿠콘",
+    "title": "쿠콘(294570) 2Q26 Review: 분기 최대 매출액, 당사 추정치 부합",
+    "broker": "유진투자증권",
+    "date": "2026-08-20",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651803": {
+    "code": "122450",
+    "name": "KX",
+    "title": "KX(122450) 2Q26 Review: 제조·레저 부문 실적 성장 지속",
+    "broker": "유진투자증권",
+    "date": "2026-08-20",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
   }
 }
