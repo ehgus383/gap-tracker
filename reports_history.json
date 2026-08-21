@@ -46827,5 +46827,159 @@
     "target_price": null,
     "listed_target_price": null,
     "source": "hankyung"
+  },
+  "95810": {
+    "code": "003550",
+    "name": "LG",
+    "title": "엔비디아가 LG를 고른 이유",
+    "broker": "대신증권",
+    "date": "26.08.21",
+    "target_price": 130000,
+    "source": "naver"
+  },
+  "95809": {
+    "code": "388210",
+    "name": "씨엠티엑스",
+    "title": "2Q26P Review: 11분기 연속 매출 성장세 지속",
+    "broker": "유진투자증권",
+    "date": "26.08.21",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "95808": {
+    "code": "365340",
+    "name": "성일하이텍",
+    "title": "2Q26 Review: 12분기 만에 영업이익 흑자 전..",
+    "broker": "유진투자증권",
+    "date": "26.08.21",
+    "target_price": 51000,
+    "source": "naver"
+  },
+  "95807": {
+    "code": "002380",
+    "name": "KCC",
+    "title": "특별배당금 신설로 시가배당률 2.5~4%p 상향 ..",
+    "broker": "하나증권",
+    "date": "26.08.21",
+    "target_price": 730000,
+    "source": "naver"
+  },
+  "95806": {
+    "code": "025540",
+    "name": "한국단자",
+    "title": "숫자는 나빴고, 이유는 알았다",
+    "broker": "하나증권",
+    "date": "26.08.21",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95805": {
+    "code": "032500",
+    "name": "케이엠더블유",
+    "title": "2027년도 이익 급증에 의심을 가질 필요 없어",
+    "broker": "하나증권",
+    "date": "26.08.21",
+    "target_price": 70000,
+    "source": "naver"
+  },
+  "95804": {
+    "code": "236200",
+    "name": "슈프리마",
+    "title": "떨어지지 않는 성장 요인",
+    "broker": "유안타증권",
+    "date": "26.08.21",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95803": {
+    "code": "064290",
+    "name": "인텍플러스",
+    "title": "실적보다 수주!",
+    "broker": "유안타증권",
+    "date": "26.08.21",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95802": {
+    "code": "034730",
+    "name": "SK",
+    "title": "아직 시작도 안했다",
+    "broker": "유안타증권",
+    "date": "26.08.21",
+    "target_price": 830000,
+    "source": "naver"
+  },
+  "95801": {
+    "code": "011930",
+    "name": "신성이엔지",
+    "title": "[NDR 후기] 하반기 실적개선 기대 요인",
+    "broker": "유안타증권",
+    "date": "26.08.21",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95800": {
+    "code": "060250",
+    "name": "NHN KCP",
+    "title": "NDR 후기: PG를 넘어 AI 결제 인프라로",
+    "broker": "신한투자증권",
+    "date": "26.08.21",
+    "target_price": 22000,
+    "source": "naver"
+  },
+  "95799": {
+    "code": "200710",
+    "name": "에이디테크놀로지",
+    "title": "높아진 기대, 가이던스 유지",
+    "broker": "신한투자증권",
+    "date": "26.08.21",
+    "target_price": 44000,
+    "source": "naver"
+  },
+  "95798": {
+    "code": "058650",
+    "name": "세아홀딩스",
+    "title": "나도 실적 성장주, 나도 주주환원에 진심!",
+    "broker": "신한투자증권",
+    "date": "26.08.21",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "95797": {
+    "code": "104830",
+    "name": "원익머트리얼즈",
+    "title": "하반기 수익성 회복 여력 충분",
+    "broker": "신한투자증권",
+    "date": "26.08.21",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "95796": {
+    "code": "067280",
+    "name": "멀티캠퍼스",
+    "title": "안정적인 캡티브를 기반으로 AX 성장 모멘텀 ..",
+    "broker": "한국IR협의회",
+    "date": "26.08.21",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95795": {
+    "code": "050760",
+    "name": "에스폴리텍",
+    "title": "30년 이상 압출 기술로 보안·항공·친환경을..",
+    "broker": "NICE평가정보",
+    "date": "26.08.21",
+    "target_price": null,
+    "source": "naver"
+  },
+  "hk:651833": {
+    "code": "036800",
+    "name": "나이스정보통신",
+    "title": "나이스정보통신(036800) 3Q26~2Q27 영업이익 고성장",
+    "broker": "LS증권",
+    "date": "2026-08-21",
+    "target_price": null,
+    "listed_target_price": 10000,
+    "source": "hankyung"
   }
 }
