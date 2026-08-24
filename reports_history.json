@@ -46981,5 +46981,529 @@
     "target_price": null,
     "listed_target_price": 10000,
     "source": "hankyung"
+  },
+  "95846": {
+    "code": "108490",
+    "name": "로보티즈",
+    "title": "업종 내 차별적 매출/수익 성장성 보유",
+    "broker": "한화투자증권",
+    "date": "26.08.24",
+    "target_price": 350000,
+    "source": "naver"
+  },
+  "95845": {
+    "code": "036570",
+    "name": "NC",
+    "title": "NDR 후기: 강력한 체질 개선 상황 재확인",
+    "broker": "한화투자증권",
+    "date": "26.08.24",
+    "target_price": 350000,
+    "source": "naver"
+  },
+  "95844": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "삼성생명의 수혜는 계산이 쉽지만 주주의 수..",
+    "broker": "한화투자증권",
+    "date": "26.08.24",
+    "target_price": 363000,
+    "source": "naver"
+  },
+  "95843": {
+    "code": "035720",
+    "name": "카카오",
+    "title": "카카오, 인적분할 공시 관련 코멘트",
+    "broker": "한화투자증권",
+    "date": "26.08.24",
+    "target_price": 62000,
+    "source": "naver"
+  },
+  "95842": {
+    "code": "017810",
+    "name": "풀무원",
+    "title": "건강한 먹거리로 더 건강한 재무구조를 향해",
+    "broker": "DS투자증권",
+    "date": "26.08.24",
+    "target_price": 17000,
+    "source": "naver"
+  },
+  "95841": {
+    "code": "012450",
+    "name": "한화에어로스페이스",
+    "title": "K9MH의 미국 진출, 단일 수주 이상의 의미",
+    "broker": "DS투자증권",
+    "date": "26.08.24",
+    "target_price": 1830000,
+    "source": "naver"
+  },
+  "95840": {
+    "code": "035720",
+    "name": "카카오",
+    "title": "성장주로의 복귀를 위한 포석",
+    "broker": "교보증권",
+    "date": "26.08.24",
+    "target_price": 57000,
+    "source": "naver"
+  },
+  "95839": {
+    "code": "078340",
+    "name": "컴투스",
+    "title": "지속되는 외부 IP 기반 신작 도전",
+    "broker": "교보증권",
+    "date": "26.08.24",
+    "target_price": 47000,
+    "source": "naver"
+  },
+  "95838": {
+    "code": "139480",
+    "name": "이마트",
+    "title": "NDR 후기: 본업 호조 지속, 자회사는 회복 기..",
+    "broker": "교보증권",
+    "date": "26.08.24",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "95837": {
+    "code": "001450",
+    "name": "현대해상",
+    "title": "NDR 후기 - 해준금 제도 완화의 최대 수혜주",
+    "broker": "하나증권",
+    "date": "26.08.24",
+    "target_price": 57000,
+    "source": "naver"
+  },
+  "95836": {
+    "code": "035720",
+    "name": "카카오",
+    "title": "X/AI로 나뉘는 카카오, 우선은 지켜보자",
+    "broker": "하나증권",
+    "date": "26.08.24",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "95835": {
+    "code": "007340",
+    "name": "DN오토모티브",
+    "title": "NDR 후기: 흔들린 건 주가뿐",
+    "broker": "하나증권",
+    "date": "26.08.24",
+    "target_price": 80000,
+    "source": "naver"
+  },
+  "95834": {
+    "code": "230240",
+    "name": "에치에프알",
+    "title": "어차피 내년 실적은 개선될 수 밖에 없습니다",
+    "broker": "하나증권",
+    "date": "26.08.24",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "95833": {
+    "code": "035720",
+    "name": "카카오",
+    "title": "인적분할 결정",
+    "broker": "미래에셋증권",
+    "date": "26.08.24",
+    "target_price": 52000,
+    "source": "naver"
+  },
+  "95832": {
+    "code": "000880",
+    "name": "한화",
+    "title": "8월 25일, 다시 서는 지주회사",
+    "broker": "대신증권",
+    "date": "26.08.24",
+    "target_price": 163000,
+    "source": "naver"
+  },
+  "95831": {
+    "code": "001530",
+    "name": "DI동일",
+    "title": "LFP에 이어 소디움까지 알루미늄박 수요 고성..",
+    "broker": "유진투자증권",
+    "date": "26.08.24",
+    "target_price": 40000,
+    "source": "naver"
+  },
+  "95830": {
+    "code": "185750",
+    "name": "종근당",
+    "title": "이익 개선 제한적이나 파이프라인 개발 순항",
+    "broker": "미래에셋증권",
+    "date": "26.08.24",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "95829": {
+    "code": "001820",
+    "name": "삼화콘덴서",
+    "title": "낙수효과로 향후 가격 인상 기대: 실적 개선 ..",
+    "broker": "iM증권",
+    "date": "26.08.24",
+    "target_price": 127000,
+    "source": "naver"
+  },
+  "95828": {
+    "code": "002320",
+    "name": "한진",
+    "title": "K-뷰티 등 수요 확대로 글로벌 부문 확장세 ..",
+    "broker": "iM증권",
+    "date": "26.08.24",
+    "target_price": 19000,
+    "source": "naver"
+  },
+  "95827": {
+    "code": "028260",
+    "name": "삼성물산",
+    "title": "주주환원, 기대에서 확신으로",
+    "broker": "SK증권",
+    "date": "26.08.24",
+    "target_price": 550000,
+    "source": "naver"
+  },
+  "95826": {
+    "code": "103590",
+    "name": "일진전기",
+    "title": "투자를 먼저 끝낸 회사의 수확기의 모습",
+    "broker": "SK증권",
+    "date": "26.08.24",
+    "target_price": 124000,
+    "source": "naver"
+  },
+  "95825": {
+    "code": "196170",
+    "name": "알테오젠",
+    "title": "암 백신 또한 키트루다SC가 메인",
+    "broker": "신한투자증권",
+    "date": "26.08.24",
+    "target_price": 480000,
+    "source": "naver"
+  },
+  "95824": {
+    "code": "035720",
+    "name": "카카오",
+    "title": "인적분할의 긍정적인 측면과 한계점",
+    "broker": "유진투자증권",
+    "date": "26.08.24",
+    "target_price": 58000,
+    "source": "naver"
+  },
+  "95823": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "전력은 속도가 생명, 단납기 생산이 강점",
+    "broker": "SK증권",
+    "date": "26.08.24",
+    "target_price": 310000,
+    "source": "naver"
+  },
+  "95822": {
+    "code": "079900",
+    "name": "전진건설로봇",
+    "title": "2Q26 Review: 글로벌 인프라 및 재건 수요 기..",
+    "broker": "유진투자증권",
+    "date": "26.08.24",
+    "target_price": 48000,
+    "source": "naver"
+  },
+  "95821": {
+    "code": "299030",
+    "name": "하나기술",
+    "title": "2Q26 Review: 하반기 인도 및 북미향 공급 기..",
+    "broker": "유진투자증권",
+    "date": "26.08.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95820": {
+    "code": "298040",
+    "name": "효성중공업",
+    "title": "잘하는 송전을 더 잘하고 있다",
+    "broker": "SK증권",
+    "date": "26.08.24",
+    "target_price": 4000000,
+    "source": "naver"
+  },
+  "95819": {
+    "code": "452430",
+    "name": "사피엔반도체",
+    "title": "2Q26 Review: AI 탑재 AR Glass 출시 경쟁 수..",
+    "broker": "유진투자증권",
+    "date": "26.08.24",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95818": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "수익성은 유틸리티, 성장은 증설이 만든다",
+    "broker": "SK증권",
+    "date": "26.08.24",
+    "target_price": 900000,
+    "source": "naver"
+  },
+  "95817": {
+    "code": "263720",
+    "name": "디앤씨미디어",
+    "title": "27~28년 돌아올 <나혼렙> 극장판",
+    "broker": "신한투자증권",
+    "date": "26.08.24",
+    "target_price": 12000,
+    "source": "naver"
+  },
+  "95816": {
+    "code": "035720",
+    "name": "카카오",
+    "title": "복합적 변수 고려할 필요",
+    "broker": "키움증권",
+    "date": "26.08.24",
+    "target_price": 70000,
+    "source": "naver"
+  },
+  "95815": {
+    "code": "032350",
+    "name": "롯데관광개발",
+    "title": "극심한 저평가 구간",
+    "broker": "키움증권",
+    "date": "26.08.24",
+    "target_price": 23000,
+    "source": "naver"
+  },
+  "95814": {
+    "code": "377300",
+    "name": "카카오페이",
+    "title": "프런티어 업체 제휴 요구",
+    "broker": "키움증권",
+    "date": "26.08.24",
+    "target_price": 85000,
+    "source": "naver"
+  },
+  "95813": {
+    "code": "389500",
+    "name": "에스비비테크",
+    "title": "하모닉 감속기 국산화 1호 기업",
+    "broker": "미래에셋증권",
+    "date": "26.08.24",
+    "target_price": 47000,
+    "source": "naver"
+  },
+  "95812": {
+    "code": "108490",
+    "name": "로보티즈",
+    "title": "액추에이터 시장 확대 최대 수혜주 기대",
+    "broker": "미래에셋증권",
+    "date": "26.08.24",
+    "target_price": 356000,
+    "source": "naver"
+  },
+  "95811": {
+    "code": "058610",
+    "name": "에스피지",
+    "title": "국내 유일 정밀감속기 3종 full 라인업 보유",
+    "broker": "미래에셋증권",
+    "date": "26.08.24",
+    "target_price": 129000,
+    "source": "naver"
+  },
+  "hk:651878": {
+    "code": "120110",
+    "name": "코오롱인더",
+    "title": "코오롱인더(120110) 저비용 증설과 아라미드 수급 개선 모멘텀",
+    "broker": "IBK투자증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 100000,
+    "source": "hankyung"
+  },
+  "hk:651877": {
+    "code": "120110",
+    "name": "코오롱인더",
+    "title": "코오롱인더(120110) 저비용 증설과 아라미드 수급 개선 모멘텀",
+    "broker": "IBK투자증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 100000,
+    "source": "hankyung"
+  },
+  "hk:651876": {
+    "code": "004000",
+    "name": "롯데정밀화학",
+    "title": "롯데정밀화학(004000) 반도체 소재는 커지고, 계열사 지원 부담은 줄다",
+    "broker": "IBK투자증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 86000,
+    "source": "hankyung"
+  },
+  "hk:651867": {
+    "code": "028260",
+    "name": "삼성물산",
+    "title": "삼성물산(028260) 주주환원, 기대에서 확신으로",
+    "broker": "SK증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 550000,
+    "source": "hankyung"
+  },
+  "hk:651866": {
+    "code": "103590",
+    "name": "일진전기",
+    "title": "일진전기(103590) 투자를 먼저 끝낸 회사의 수확기의 모습",
+    "broker": "SK증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 124000,
+    "source": "hankyung"
+  },
+  "hk:651865": {
+    "code": "298040",
+    "name": "효성중공업",
+    "title": "효성중공업(298040) 잘하는 송전을 더 잘하고 있다",
+    "broker": "SK증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 4000000,
+    "source": "hankyung"
+  },
+  "hk:651864": {
+    "code": "267260",
+    "name": "HD현대일렉트릭",
+    "title": "HD현대일렉트릭(267260) 수익성은 유틸리티, 성장은 증설이 만든다",
+    "broker": "SK증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 900000,
+    "source": "hankyung"
+  },
+  "hk:651862": {
+    "code": "010120",
+    "name": "LS ELECTRIC",
+    "title": "LS ELECTRIC(010120) 전력은 속도가 생명, 단납기 생산이 강점",
+    "broker": "SK증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 310000,
+    "source": "hankyung"
+  },
+  "hk:651861": {
+    "code": "036570",
+    "name": "NC",
+    "title": "NC(036570) NDR 후기: 강력한 체질 개선 상황 재확인",
+    "broker": "한화투자증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 350000,
+    "source": "hankyung"
+  },
+  "hk:651860": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "삼성생명(032830) 삼성생명의 수혜는 계산이 쉽지만 주주의 수혜는 어렵다",
+    "broker": "한화투자증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 363000,
+    "source": "hankyung"
+  },
+  "hk:651854": {
+    "code": "009150",
+    "name": "삼성전기",
+    "title": "삼성전기(009150) ABF 기판, 부족의 기울기가 가팔라진다",
+    "broker": "메리츠증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651852": {
+    "code": "083450",
+    "name": "GST",
+    "title": "GST(083450) NDR 후기: 역대 최대 실적 경신 예상",
+    "broker": "메리츠증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651848": {
+    "code": "035720",
+    "name": "카카오",
+    "title": "카카오(035720) 증명해야 할 것이 많아진 때",
+    "broker": "메리츠증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 37000,
+    "source": "hankyung"
+  },
+  "hk:651846": {
+    "code": "000880",
+    "name": "한화",
+    "title": "한화(000880) 8월 25일, 다시 서는 지주회사",
+    "broker": "대신증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 163000,
+    "source": "hankyung"
+  },
+  "hk:651841": {
+    "code": "006400",
+    "name": "삼성SDI",
+    "title": "삼성SDI(006400) 삼성 SDI 디스플레이 지분 매각",
+    "broker": "유진투자증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651840": {
+    "code": "452430",
+    "name": "사피엔반도체",
+    "title": "사피엔반도체(452430) 2Q26 Review: AI 탑재 AR Glass 출시 경쟁 수혜",
+    "broker": "유진투자증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651839": {
+    "code": "299030",
+    "name": "하나기술",
+    "title": "하나기술(299030) 2Q26 Review: 하반기 인도 및 북미향 공급 기대",
+    "broker": "유진투자증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651838": {
+    "code": "079900",
+    "name": "전진건설로봇",
+    "title": "전진건설로봇(079900) 2Q26 Review: 글로벌 인프라 및 재건 수요 기대",
+    "broker": "유진투자증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 48000,
+    "source": "hankyung"
+  },
+  "hk:651837": {
+    "code": "035720",
+    "name": "카카오",
+    "title": "카카오(035720) 인적분할의 긍정적인 측면과 한계점",
+    "broker": "유진투자증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 58000,
+    "source": "hankyung"
+  },
+  "hk:651836": {
+    "code": "001530",
+    "name": "DI동일",
+    "title": "DI동일(001530) LFP에 이어 소디움까지 알루미늄박 수요 고성장기",
+    "broker": "유진투자증권",
+    "date": "2026-08-24",
+    "target_price": null,
+    "listed_target_price": 40000,
+    "source": "hankyung"
   }
 }
