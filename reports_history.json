@@ -47505,5 +47505,305 @@
     "target_price": null,
     "listed_target_price": 40000,
     "source": "hankyung"
+  },
+  "95866": {
+    "code": "051900",
+    "name": "LG생활건강",
+    "title": "Avon 매각 코멘트: 자신감 붙은 북미 사업",
+    "broker": "한화투자증권",
+    "date": "26.08.25",
+    "target_price": 350000,
+    "source": "naver"
+  },
+  "95865": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "비만 Next generation: 근육 보존제 UCN-2",
+    "broker": "DS투자증권",
+    "date": "26.08.25",
+    "target_price": 720000,
+    "source": "naver"
+  },
+  "95864": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "초기 개발 물질을 선급금 8%, 3조원 규모로 ..",
+    "broker": "하나증권",
+    "date": "26.08.25",
+    "target_price": 660000,
+    "source": "naver"
+  },
+  "95863": {
+    "code": "017940",
+    "name": "E1",
+    "title": "실적 정상화 확인",
+    "broker": "하나증권",
+    "date": "26.08.25",
+    "target_price": 145000,
+    "source": "naver"
+  },
+  "95862": {
+    "code": "123410",
+    "name": "코리아에프티",
+    "title": "P/E 3.7배에 불과. 자기주식 취득까지 진행 ..",
+    "broker": "하나증권",
+    "date": "26.08.25",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95861": {
+    "code": "007660",
+    "name": "이수페타시스",
+    "title": "캐파와 믹스, 이제는 P 사이클까지",
+    "broker": "유안타증권",
+    "date": "26.08.25",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "95860": {
+    "code": "009540",
+    "name": "HD한국조선해양",
+    "title": "무적의 손익비, 주주환원 확대의 적기",
+    "broker": "유안타증권",
+    "date": "26.08.25",
+    "target_price": 532000,
+    "source": "naver"
+  },
+  "95859": {
+    "code": "082740",
+    "name": "한화엔진",
+    "title": "삼위일체 - 신사업, 그룹내 입지, 본업",
+    "broker": "유안타증권",
+    "date": "26.08.25",
+    "target_price": 107000,
+    "source": "naver"
+  },
+  "95858": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "HM17321 가치 증명",
+    "broker": "유안타증권",
+    "date": "26.08.25",
+    "target_price": 700000,
+    "source": "naver"
+  },
+  "95857": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "릴리와 노보를 잡을 무기, 로슈는 한미에서 ..",
+    "broker": "미래에셋증권",
+    "date": "26.08.25",
+    "target_price": 730000,
+    "source": "naver"
+  },
+  "95856": {
+    "code": "000880",
+    "name": "한화",
+    "title": "인적 분할: 할인율 축소를 향한 분명한 경로",
+    "broker": "미래에셋증권",
+    "date": "26.08.25",
+    "target_price": 185000,
+    "source": "naver"
+  },
+  "95855": {
+    "code": "001450",
+    "name": "현대해상",
+    "title": "잠재적인 가능성으로는 가장 높은 매력",
+    "broker": "iM증권",
+    "date": "26.08.25",
+    "target_price": 58000,
+    "source": "naver"
+  },
+  "95854": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "현재 주어진 조건으로는 가장 높은 매력",
+    "broker": "iM증권",
+    "date": "26.08.25",
+    "target_price": 220000,
+    "source": "naver"
+  },
+  "95853": {
+    "code": "348210",
+    "name": "넥스틴",
+    "title": "시간이 필요해",
+    "broker": "신한투자증권",
+    "date": "26.08.25",
+    "target_price": 40000,
+    "source": "naver"
+  },
+  "95852": {
+    "code": "140860",
+    "name": "파크시스템스",
+    "title": "외형 성장, 수익성 개선 동반될 하반기",
+    "broker": "신한투자증권",
+    "date": "26.08.25",
+    "target_price": 370000,
+    "source": "naver"
+  },
+  "95851": {
+    "code": "005940",
+    "name": "NH투자증권",
+    "title": "업종 투심이 부진할 때 최선의 선택지",
+    "broker": "iM증권",
+    "date": "26.08.25",
+    "target_price": 35000,
+    "source": "naver"
+  },
+  "95850": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "3개월 만에 두 번째 조 단위 계약",
+    "broker": "IBK투자증권",
+    "date": "26.08.25",
+    "target_price": 530000,
+    "source": "naver"
+  },
+  "95849": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "Hanmi is BACK !!",
+    "broker": "키움증권",
+    "date": "26.08.25",
+    "target_price": 730000,
+    "source": "naver"
+  },
+  "95848": {
+    "code": "077360",
+    "name": "덕산하이메탈",
+    "title": "MSB 확대와 자회사 개선, 이익 레벨업 본격화",
+    "broker": "한국IR협의회",
+    "date": "26.08.25",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95847": {
+    "code": "462870",
+    "name": "시프트업",
+    "title": "캡콤 지향점을 위한 길",
+    "broker": "키움증권",
+    "date": "26.08.25",
+    "target_price": 65000,
+    "source": "naver"
+  },
+  "hk:651916": {
+    "code": "077360",
+    "name": "덕산하이메탈",
+    "title": "덕산하이메탈(077360) MSB 확대와 자회사 개선, 이익 레벨업 본격화",
+    "broker": "한국IR협의회",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651915": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "한미약품(128940) 기다리던 L/O가 나왔다",
+    "broker": "상상인증권",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": 650000,
+    "source": "hankyung"
+  },
+  "hk:651913": {
+    "code": "051900",
+    "name": "LG생활건강",
+    "title": "LG생활건강(051900) Avon 매각 코멘트: 자신감 붙은 북미 사업",
+    "broker": "한화투자증권",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": 316000,
+    "source": "hankyung"
+  },
+  "hk:651911": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "한미약품(128940) Roche의 선택을 받은 UCN2",
+    "broker": "메리츠증권",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": 710000,
+    "source": "hankyung"
+  },
+  "hk:651908": {
+    "code": "166090",
+    "name": "하나머티리얼즈",
+    "title": "하나머티리얼즈(166090) 너무 싸다",
+    "broker": "대신증권",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": 90000,
+    "source": "hankyung"
+  },
+  "hk:651907": {
+    "code": "011200",
+    "name": "HMM",
+    "title": "HMM(011200) 지정학적 수혜는 지속된다",
+    "broker": "대신증권",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": 29000,
+    "source": "hankyung"
+  },
+  "hk:651891": {
+    "code": "007660",
+    "name": "이수페타시스",
+    "title": "이수페타시스(007660) 캐파와 믹스, 이제는 P 사이클까지",
+    "broker": "유안타증권",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": 180000,
+    "source": "hankyung"
+  },
+  "hk:651890": {
+    "code": "009540",
+    "name": "HD한국조선해양",
+    "title": "HD한국조선해양(009540) 무적의 손익비, 주주환원 확대의 적기",
+    "broker": "유안타증권",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": 532000,
+    "source": "hankyung"
+  },
+  "hk:651889": {
+    "code": "082740",
+    "name": "한화엔진",
+    "title": "한화엔진(082740) 삼위일체 - 신사업, 그룹내 입지, 본업",
+    "broker": "유안타증권",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": 107000,
+    "source": "hankyung"
+  },
+  "hk:651888": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "한미약품(128940) HM17321 가치 증명",
+    "broker": "유안타증권",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": 700000,
+    "source": "hankyung"
+  },
+  "hk:651883": {
+    "code": "001450",
+    "name": "현대해상",
+    "title": "현대해상(001450) 잠재적인 가능성으로는 가장 높은 매력",
+    "broker": "iM증권",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": 58000,
+    "source": "hankyung"
+  },
+  "hk:651882": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "DB손해보험(005830) 현재 주어진 조건으로는 가장 높은 매력",
+    "broker": "iM증권",
+    "date": "2026-08-25",
+    "target_price": null,
+    "listed_target_price": 220000,
+    "source": "hankyung"
   }
 }
