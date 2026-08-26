@@ -47805,5 +47805,229 @@
     "target_price": null,
     "listed_target_price": 220000,
     "source": "hankyung"
+  },
+  "95882": {
+    "code": "011200",
+    "name": "HMM",
+    "title": "지정학적 수혜는 지속된다",
+    "broker": "대신증권",
+    "date": "26.08.26",
+    "target_price": 29000,
+    "source": "naver"
+  },
+  "95881": {
+    "code": "166090",
+    "name": "하나머티리얼즈",
+    "title": "너무 싸다",
+    "broker": "대신증권",
+    "date": "26.08.26",
+    "target_price": 90000,
+    "source": "naver"
+  },
+  "95880": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "시설 투자 공시 코멘트",
+    "broker": "하나증권",
+    "date": "26.08.26",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "95879": {
+    "code": "003230",
+    "name": "삼양식품",
+    "title": "NDR후기: 지역 다변화 + 신공장 가동 기대감",
+    "broker": "하나증권",
+    "date": "26.08.26",
+    "target_price": 1800000,
+    "source": "naver"
+  },
+  "95878": {
+    "code": "290740",
+    "name": "액트로",
+    "title": "2Q26 Review: 하반기 신사업 전장부품 양산 ..",
+    "broker": "유진투자증권",
+    "date": "26.08.26",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95877": {
+    "code": "474650",
+    "name": "링크솔루션",
+    "title": "NDR 후기: 첫 파운드리 수주",
+    "broker": "신한투자증권",
+    "date": "26.08.26",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95876": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "신규시설투자 공시 코멘트: 넘치는 소캠 수요..",
+    "broker": "iM증권",
+    "date": "26.08.26",
+    "target_price": 185000,
+    "source": "naver"
+  },
+  "95875": {
+    "code": "020150",
+    "name": "롯데에너지머티리얼즈",
+    "title": "3분기 회로박 판가 인상, 4분기 전지박 기대",
+    "broker": "SK증권",
+    "date": "26.08.26",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "95874": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "증설 코멘트: SOCAMM 1황은 나다",
+    "broker": "키움증권",
+    "date": "26.08.26",
+    "target_price": 190000,
+    "source": "naver"
+  },
+  "95873": {
+    "code": "356860",
+    "name": "티엘비",
+    "title": "엔비디아 CPU 바로 옆 자리",
+    "broker": "IBK투자증권",
+    "date": "26.08.26",
+    "target_price": 53000,
+    "source": "naver"
+  },
+  "95872": {
+    "code": "011930",
+    "name": "신성이엔지",
+    "title": "하반기 이익률 개선 진행",
+    "broker": "키움증권",
+    "date": "26.08.26",
+    "target_price": 27000,
+    "source": "naver"
+  },
+  "95871": {
+    "code": "023910",
+    "name": "대한약품",
+    "title": "수액제 오디세이",
+    "broker": "한국IR협의회",
+    "date": "26.08.26",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95870": {
+    "code": "293780",
+    "name": "압타바이오",
+    "title": "APX-115, 가치 검증의 시간이 온다",
+    "broker": "한국IR협의회",
+    "date": "26.08.26",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95869": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "title": "짙은 안개속 선명한 성장",
+    "broker": "미래에셋증권",
+    "date": "26.08.26",
+    "target_price": 2800000,
+    "source": "naver"
+  },
+  "95868": {
+    "code": "005930",
+    "name": "삼성전자",
+    "title": "공포가 클수록 중심을 잡자",
+    "broker": "미래에셋증권",
+    "date": "26.08.26",
+    "target_price": 370000,
+    "source": "naver"
+  },
+  "95867": {
+    "code": "030520",
+    "name": "한컴",
+    "title": "소버린AI Top-Pick",
+    "broker": "신한투자증권",
+    "date": "26.08.26",
+    "target_price": 25500,
+    "source": "naver"
+  },
+  "hk:651936": {
+    "code": "020150",
+    "name": "롯데에너지머티리얼즈",
+    "title": "롯데에너지머티리얼즈(020150) 3분기 회로박 판가 인상, 4분기 전지박 기대",
+    "broker": "SK증권",
+    "date": "2026-08-26",
+    "target_price": null,
+    "listed_target_price": 60000,
+    "source": "hankyung"
+  },
+  "hk:651933": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "심텍(222800) 신규시설투자 공시 코멘트: 넘치는 소캠 수요에 대한 자신감",
+    "broker": "iM증권",
+    "date": "2026-08-26",
+    "target_price": null,
+    "listed_target_price": 185000,
+    "source": "hankyung"
+  },
+  "hk:651928": {
+    "code": "025540",
+    "name": "한국단자",
+    "title": "한국단자(025540) 아직은 기다림의 시기",
+    "broker": "LS증권",
+    "date": "2026-08-26",
+    "target_price": null,
+    "listed_target_price": 90000,
+    "source": "hankyung"
+  },
+  "hk:651926": {
+    "code": "023910",
+    "name": "대한약품",
+    "title": "대한약품(023910) 수액제 오디세이",
+    "broker": "한국IR협의회",
+    "date": "2026-08-26",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651925": {
+    "code": "293780",
+    "name": "압타바이오",
+    "title": "압타바이오(293780) APX-115, 가치 검증의 시간이 온다",
+    "broker": "한국IR협의회",
+    "date": "2026-08-26",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651923": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "심텍(222800) 증설 코멘트: SoCAMM의 은총은 계속된다",
+    "broker": "메리츠증권",
+    "date": "2026-08-26",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651922": {
+    "code": "355150",
+    "name": "코스텍시스",
+    "title": "코스텍시스(355150) NDR 후기: 기다리면 (전력반도체) 열린다",
+    "broker": "메리츠증권",
+    "date": "2026-08-26",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651918": {
+    "code": "290740",
+    "name": "액트로",
+    "title": "액트로(290740) 2Q26 Review: 하반기 신사업 전장부품 양산 돌입",
+    "broker": "유진투자증권",
+    "date": "2026-08-26",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
   }
 }
