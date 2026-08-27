@@ -48029,5 +48029,311 @@
     "target_price": null,
     "listed_target_price": null,
     "source": "hankyung"
+  },
+  "95906": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "2026 CID - 권역별 현지화와 사업 효율화에 ..",
+    "broker": "한화투자증권",
+    "date": "26.08.27",
+    "target_price": 760000,
+    "source": "naver"
+  },
+  "95905": {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "title": "드디어 등장한 2nd 파이프라인, 오파칼림",
+    "broker": "DS투자증권",
+    "date": "26.08.27",
+    "target_price": 155000,
+    "source": "naver"
+  },
+  "95904": {
+    "code": "246960",
+    "name": "SCL사이언스",
+    "title": "탐방노트: 안정성 챙기고, 이제 성장하러 갑..",
+    "broker": "교보증권",
+    "date": "26.08.27",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95903": {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "title": "두가지 숙제를 풀었고, 진짜 시험은 연말 RIS..",
+    "broker": "미래에셋증권",
+    "date": "26.08.27",
+    "target_price": 160000,
+    "source": "naver"
+  },
+  "95902": {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "title": "넥스트 엑스코프리 확보와 경쟁자 견제를 한..",
+    "broker": "하나증권",
+    "date": "26.08.27",
+    "target_price": 160000,
+    "source": "naver"
+  },
+  "95901": {
+    "code": "096770",
+    "name": "SK이노베이션",
+    "title": "SKIET 흡수합병에 따른 기존 주주 보호정책 ..",
+    "broker": "하나증권",
+    "date": "26.08.27",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "95900": {
+    "code": "316140",
+    "name": "우리금융지주",
+    "title": "3분기 증익 가능성 높다. CET 1 비율도 14% ..",
+    "broker": "하나증권",
+    "date": "26.08.27",
+    "target_price": 43000,
+    "source": "naver"
+  },
+  "95899": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "2026년 CEO Investor Day 핵심내용",
+    "broker": "하나증권",
+    "date": "26.08.27",
+    "target_price": 650000,
+    "source": "naver"
+  },
+  "95898": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "26년 CID, 25년 대비 주요 변화 내용",
+    "broker": "미래에셋증권",
+    "date": "26.08.27",
+    "target_price": 840000,
+    "source": "naver"
+  },
+  "95897": {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "title": "오파칼림 인수로 미래 성장 동력 확보",
+    "broker": "SK증권",
+    "date": "26.08.27",
+    "target_price": 160000,
+    "source": "naver"
+  },
+  "95896": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "CID 2026 Review: 자동차라는 본질에 집중",
+    "broker": "iM증권",
+    "date": "26.08.27",
+    "target_price": 650000,
+    "source": "naver"
+  },
+  "95895": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "2026년 CID 리뷰 & QnA 요약",
+    "broker": "대신증권",
+    "date": "26.08.27",
+    "target_price": 740000,
+    "source": "naver"
+  },
+  "95894": {
+    "code": "178320",
+    "name": "서진시스템",
+    "title": "악재 충분히 반영한 주가, 다시 내일을 논하..",
+    "broker": "SK증권",
+    "date": "26.08.27",
+    "target_price": 55000,
+    "source": "naver"
+  },
+  "95893": {
+    "code": "490470",
+    "name": "세미파이브",
+    "title": "양산으로 증명되는 경쟁력",
+    "broker": "신한투자증권",
+    "date": "26.08.27",
+    "target_price": 23000,
+    "source": "naver"
+  },
+  "95892": {
+    "code": "022100",
+    "name": "포스코DX",
+    "title": "쇳물보다 먼저 달아오른 수주",
+    "broker": "신한투자증권",
+    "date": "26.08.27",
+    "target_price": 27000,
+    "source": "naver"
+  },
+  "95891": {
+    "code": "042510",
+    "name": "라온시큐어",
+    "title": "2Q26 Review: 양자내성암호 상용화 본격 확대..",
+    "broker": "유진투자증권",
+    "date": "26.08.27",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95890": {
+    "code": "128940",
+    "name": "한미약품",
+    "title": "K-비만, 전설의 시작",
+    "broker": "신한투자증권",
+    "date": "26.08.27",
+    "target_price": 650000,
+    "source": "naver"
+  },
+  "95889": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "2026 CEO Investor Day Takeaways",
+    "broker": "키움증권",
+    "date": "26.08.27",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95888": {
+    "code": "278280",
+    "name": "천보",
+    "title": "NDR 후기: 실적 바닥 통과 구간, 북미 OEM 서..",
+    "broker": "키움증권",
+    "date": "26.08.27",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95887": {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "title": "원툴 우려를 지운 두 번째 카드",
+    "broker": "키움증권",
+    "date": "26.08.27",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95886": {
+    "code": "178320",
+    "name": "서진시스템",
+    "title": "악재 충분히 반영한 주가, 다시 내일을 논하..",
+    "broker": "SK증권",
+    "date": "26.08.27",
+    "target_price": 55000,
+    "source": "naver"
+  },
+  "95885": {
+    "code": "096770",
+    "name": "SK이노베이션",
+    "title": "SKIET 합병: 좋은 업황에 끼얹은 찬물",
+    "broker": "iM증권",
+    "date": "26.08.27",
+    "target_price": 190000,
+    "source": "naver"
+  },
+  "95884": {
+    "code": "041830",
+    "name": "인바디",
+    "title": "한미약품의 동반자",
+    "broker": "IBK투자증권",
+    "date": "26.08.27",
+    "target_price": 81000,
+    "source": "naver"
+  },
+  "95883": {
+    "code": "096770",
+    "name": "SK이노베이션",
+    "title": "SKIET 흡수합병, 단순화를 넘어 정상화로",
+    "broker": "신한투자증권",
+    "date": "26.08.27",
+    "target_price": 190000,
+    "source": "naver"
+  },
+  "hk:651970": {
+    "code": "172670",
+    "name": "에이엘티",
+    "title": "에이엘티(172670) 후공정 전반에 확산되는 온기",
+    "broker": "메리츠증권",
+    "date": "2026-08-27",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651969": {
+    "code": "085910",
+    "name": "네오티스",
+    "title": "네오티스(085910) 여기도 SoCAMM 수혜주",
+    "broker": "메리츠증권",
+    "date": "2026-08-27",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651968": {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "title": "SK바이오팜(326030) Opakalim, 2nd Product 이상의 의미",
+    "broker": "메리츠증권",
+    "date": "2026-08-27",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651947": {
+    "code": "032830",
+    "name": "삼성생명",
+    "title": "삼성생명(032830) 삼성전자 주주환원 영향 점검",
+    "broker": "LS증권",
+    "date": "2026-08-27",
+    "target_price": null,
+    "listed_target_price": 420000,
+    "source": "hankyung"
+  },
+  "hk:651946": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "현대차(005380) CEO Investor Day 후기",
+    "broker": "LS증권",
+    "date": "2026-08-27",
+    "target_price": null,
+    "listed_target_price": 720000,
+    "source": "hankyung"
+  },
+  "hk:651944": {
+    "code": "326030",
+    "name": "SK바이오팜",
+    "title": "SK바이오팜(326030) 오파칼림 인수로 미래 성장 동력 확보",
+    "broker": "SK증권",
+    "date": "2026-08-27",
+    "target_price": null,
+    "listed_target_price": 160000,
+    "source": "hankyung"
+  },
+  "hk:651943": {
+    "code": "178320",
+    "name": "서진시스템",
+    "title": "서진시스템(178320) 악재 충분히 반영한 주가, 다시 내일을 논하다",
+    "broker": "SK증권",
+    "date": "2026-08-27",
+    "target_price": null,
+    "listed_target_price": 55000,
+    "source": "hankyung"
+  },
+  "hk:651942": {
+    "code": "096770",
+    "name": "SK이노베이션",
+    "title": "SK이노베이션(096770) SKIET와 합병, 이노 주주에게 긍정적인가가 핵심",
+    "broker": "LS증권",
+    "date": "2026-08-27",
+    "target_price": null,
+    "listed_target_price": 126000,
+    "source": "hankyung"
+  },
+  "hk:651941": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "현대차(005380) CID 2026 Review: 자동차라는 본질에 집중",
+    "broker": "iM증권",
+    "date": "2026-08-27",
+    "target_price": null,
+    "listed_target_price": 650000,
+    "source": "hankyung"
   }
 }
