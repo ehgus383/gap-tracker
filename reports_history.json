@@ -48335,5 +48335,229 @@
     "target_price": null,
     "listed_target_price": 650000,
     "source": "hankyung"
+  },
+  "95923": {
+    "code": "018880",
+    "name": "한온시스템",
+    "title": "조금씩 달라지고 있는 이익의 퀄리티",
+    "broker": "신한투자증권",
+    "date": "26.08.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95922": {
+    "code": "005380",
+    "name": "현대차",
+    "title": "CID 2026: It’s a great time to be at Hyun..",
+    "broker": "현대차증권",
+    "date": "26.08.28",
+    "target_price": 630000,
+    "source": "naver"
+  },
+  "95921": {
+    "code": "123890",
+    "name": "한국자산신탁",
+    "title": "정비 사업으로 체질 개선 기대",
+    "broker": "한화투자증권",
+    "date": "26.08.28",
+    "target_price": 3700,
+    "source": "naver"
+  },
+  "95920": {
+    "code": "010950",
+    "name": "S-Oil",
+    "title": "미국 Valero 마진을 넘어서다!",
+    "broker": "유안타증권",
+    "date": "26.08.28",
+    "target_price": 205000,
+    "source": "naver"
+  },
+  "95919": {
+    "code": "006360",
+    "name": "GS건설",
+    "title": "삼박자를 갖춘 건설주",
+    "broker": "대신증권",
+    "date": "26.08.28",
+    "target_price": 44000,
+    "source": "naver"
+  },
+  "95918": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "SK호라이즌과 SK하이퍼의 시너지 효과 본격화",
+    "broker": "미래에셋증권",
+    "date": "26.08.28",
+    "target_price": 150000,
+    "source": "naver"
+  },
+  "95917": {
+    "code": "214150",
+    "name": "클래시스",
+    "title": "NDR 후기: 눈높이 하향 반영 완료",
+    "broker": "신한투자증권",
+    "date": "26.08.28",
+    "target_price": 62000,
+    "source": "naver"
+  },
+  "95916": {
+    "code": "246960",
+    "name": "SCL사이언스",
+    "title": "무한한 지혈제와 암 백신 저 너머로",
+    "broker": "키움증권",
+    "date": "26.08.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95915": {
+    "code": "408920",
+    "name": "메쎄이상",
+    "title": "국내 전시산업의 독보적인 상장사",
+    "broker": "한국IR협의회",
+    "date": "26.08.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95913": {
+    "code": "234030",
+    "name": "싸이닉솔루션",
+    "title": "꾸준히 성장하는 시스템 반도체 디자인하우스",
+    "broker": "한국IR협의회",
+    "date": "26.08.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95912": {
+    "code": "318060",
+    "name": "그래피",
+    "title": "형상기억 소재에서 디지털 덴티스트리로 진화",
+    "broker": "한국IR협의회",
+    "date": "26.08.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95911": {
+    "code": "159010",
+    "name": "아스플로",
+    "title": "시공 부품에서 장비 부품으로, 2026년이 진입..",
+    "broker": "한국IR협의회",
+    "date": "26.08.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95910": {
+    "code": "069260",
+    "name": "TKG휴켐스",
+    "title": "2배의 EV/EBITDA가 정상화되기 위해 필요한 ..",
+    "broker": "IBK투자증권",
+    "date": "26.08.28",
+    "target_price": 24000,
+    "source": "naver"
+  },
+  "95909": {
+    "code": "137080",
+    "name": "나래나노텍",
+    "title": "코팅·포토 공정기술과 맞춤형 엔지니어링 역..",
+    "broker": "서울평가정보",
+    "date": "26.08.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95908": {
+    "code": "104040",
+    "name": "디에스엠",
+    "title": "자동차부품 양산 기반 위에 체험형 콘텐츠와 ..",
+    "broker": "서울평가정보",
+    "date": "26.08.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95907": {
+    "code": "469610",
+    "name": "이노테크",
+    "title": "환경제어·복합구동·센서·소프트웨어 통합 ..",
+    "broker": "서울평가정보",
+    "date": "26.08.28",
+    "target_price": null,
+    "source": "naver"
+  },
+  "hk:651993": {
+    "code": "010950",
+    "name": "S-Oil",
+    "title": "S-Oil(010950) 미국 Valero 마진을 넘어서다!",
+    "broker": "유안타증권",
+    "date": "2026-08-28",
+    "target_price": null,
+    "listed_target_price": 205000,
+    "source": "hankyung"
+  },
+  "hk:651990": {
+    "code": "159010",
+    "name": "아스플로",
+    "title": "아스플로(159010) 시공 부품에서 장비 부품으로, 2026년이 진입 원년",
+    "broker": "한국IR협의회",
+    "date": "2026-08-28",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651987": {
+    "code": "318060",
+    "name": "그래피",
+    "title": "그래피(318060) 형상기억 소재에서 디지털 덴티스트리로 진화",
+    "broker": "한국IR협의회",
+    "date": "2026-08-28",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651986": {
+    "code": "234030",
+    "name": "싸이닉솔루션",
+    "title": "싸이닉솔루션(234030) 꾸준히 성장하는 시스템 반도체 디자인하우스",
+    "broker": "한국IR협의회",
+    "date": "2026-08-28",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651984": {
+    "code": "408920",
+    "name": "메쎄이상",
+    "title": "메쎄이상(408920) 국내 전시산업의 독보적인 상장사",
+    "broker": "한국IR협의회",
+    "date": "2026-08-28",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651981": {
+    "code": "123890",
+    "name": "한국자산신탁",
+    "title": "한국자산신탁(123890) 정비 사업으로 체질 개선 기대",
+    "broker": "한화투자증권",
+    "date": "2026-08-28",
+    "target_price": null,
+    "listed_target_price": 3700,
+    "source": "hankyung"
+  },
+  "hk:651978": {
+    "code": "000150",
+    "name": "두산",
+    "title": "두산(000150) PTFE 부상, 오히려 선명해지는 두산의 경쟁력",
+    "broker": "메리츠증권",
+    "date": "2026-08-28",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:651976": {
+    "code": "006260",
+    "name": "LS",
+    "title": "LS(006260) 내러티브가 실적으로 증명되기 시작!",
+    "broker": "대신증권",
+    "date": "2026-08-28",
+    "target_price": null,
+    "listed_target_price": 630000,
+    "source": "hankyung"
   }
 }
