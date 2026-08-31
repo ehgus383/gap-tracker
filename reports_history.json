@@ -48559,5 +48559,262 @@
     "target_price": null,
     "listed_target_price": 630000,
     "source": "hankyung"
+  },
+  "95946": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "Value up 2.0: 배당 추정치 상향과 가시성 확..",
+    "broker": "한화투자증권",
+    "date": "26.08.31",
+    "target_price": 260000,
+    "source": "naver"
+  },
+  "95945": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "유상증자, 기존 주주 가치 희석 제한적",
+    "broker": "DS투자증권",
+    "date": "26.08.31",
+    "target_price": 1850000,
+    "source": "naver"
+  },
+  "95944": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "큰 성장을 위해서는 과감한 투자가 필요하다",
+    "broker": "하나증권",
+    "date": "26.08.31",
+    "target_price": 2050000,
+    "source": "naver"
+  },
+  "95943": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "외형 경쟁에서 주주환원으로",
+    "broker": "하나증권",
+    "date": "26.08.31",
+    "target_price": 243000,
+    "source": "naver"
+  },
+  "95942": {
+    "code": "044450",
+    "name": "KSS해운",
+    "title": "VLGC 장기계약에 집중",
+    "broker": "하나증권",
+    "date": "26.08.31",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95941": {
+    "code": "004690",
+    "name": "삼천리",
+    "title": "하반기 실적도 문제 없을 전망",
+    "broker": "하나증권",
+    "date": "26.08.31",
+    "target_price": 160000,
+    "source": "naver"
+  },
+  "95940": {
+    "code": "006260",
+    "name": "LS",
+    "title": "내러티브가 실적으로 증명되기 시작!",
+    "broker": "대신증권",
+    "date": "26.08.31",
+    "target_price": 630000,
+    "source": "naver"
+  },
+  "95939": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "3조원 유상증자, 중장기 투자계획을 고려한 ..",
+    "broker": "대신증권",
+    "date": "26.08.31",
+    "target_price": 2000000,
+    "source": "naver"
+  },
+  "95938": {
+    "code": "033500",
+    "name": "동성화인텍",
+    "title": "이익 레벨업, 다음은 주가 정상화 차례",
+    "broker": "신한투자증권",
+    "date": "26.08.31",
+    "target_price": 29000,
+    "source": "naver"
+  },
+  "95937": {
+    "code": "017960",
+    "name": "한국카본",
+    "title": "마진은 사상 최고, 밸류 눈높이는 현실화",
+    "broker": "신한투자증권",
+    "date": "26.08.31",
+    "target_price": 42000,
+    "source": "naver"
+  },
+  "95936": {
+    "code": "092190",
+    "name": "서울바이오시스",
+    "title": "MicroLED, 디스플레이를 넘어 데이터통신으로",
+    "broker": "한국IR협의회",
+    "date": "26.08.31",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95935": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "밸류업 공시 분석: 배당은 확대, 성장은 유보",
+    "broker": "신한투자증권",
+    "date": "26.08.31",
+    "target_price": 245000,
+    "source": "naver"
+  },
+  "95934": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "실탄 확보로 인수와 증설 본격화",
+    "broker": "키움증권",
+    "date": "26.08.31",
+    "target_price": 2000000,
+    "source": "naver"
+  },
+  "95933": {
+    "code": "000720",
+    "name": "현대건설",
+    "title": "준비된 자의 경쟁력",
+    "broker": "신한투자증권",
+    "date": "26.08.31",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "95932": {
+    "code": "234340",
+    "name": "헥토파이낸셜",
+    "title": "사상 최대 실적 환경하에서 스테이블코인 수..",
+    "broker": "iM증권",
+    "date": "26.08.31",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95931": {
+    "code": "100840",
+    "name": "SNT에너지",
+    "title": "중동 복구·재건 수혜 및 북미 LNG 프로젝트..",
+    "broker": "iM증권",
+    "date": "26.08.31",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95930": {
+    "code": "356860",
+    "name": "티엘비",
+    "title": "공급자 우위/SOCAMM 등으로 올해/내년 사상 ..",
+    "broker": "iM증권",
+    "date": "26.08.31",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95929": {
+    "code": "034730",
+    "name": "SK",
+    "title": "실적개선과 주주환원에 대한 재평가",
+    "broker": "SK증권",
+    "date": "26.08.31",
+    "target_price": 800000,
+    "source": "naver"
+  },
+  "95928": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "주주환원 안정성을 높이는 새로운 기업가치 ..",
+    "broker": "키움증권",
+    "date": "26.08.31",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95927": {
+    "code": "026890",
+    "name": "스틱인베스트먼트",
+    "title": "자본효율성 극대화 주주환원 정책",
+    "broker": "한국IR협의회",
+    "date": "26.08.31",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95926": {
+    "code": "090430",
+    "name": "아모레퍼시픽",
+    "title": "남은 건 확장뿐",
+    "broker": "IBK투자증권",
+    "date": "26.08.31",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "95925": {
+    "code": "008770",
+    "name": "호텔신라",
+    "title": "거위가 될 상(像)",
+    "broker": "IBK투자증권",
+    "date": "26.08.31",
+    "target_price": 81000,
+    "source": "naver"
+  },
+  "95924": {
+    "code": "194480",
+    "name": "데브시스터즈",
+    "title": "크럼블 월매출 200억, 이제 손익이 답할 차례",
+    "broker": "IBK투자증권",
+    "date": "26.08.31",
+    "target_price": 30000,
+    "source": "naver"
+  },
+  "hk:652019": {
+    "code": "034730",
+    "name": "SK",
+    "title": "SK(034730) 실적개선에 주주환원에 대한 재평가",
+    "broker": "SK증권",
+    "date": "2026-08-31",
+    "target_price": null,
+    "listed_target_price": 800000,
+    "source": "hankyung"
+  },
+  "hk:652014": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "DB손해보험(005830) 배당가능이익, 본격 화두로 부상",
+    "broker": "LS증권",
+    "date": "2026-08-31",
+    "target_price": null,
+    "listed_target_price": 230000,
+    "source": "hankyung"
+  },
+  "hk:652013": {
+    "code": "092190",
+    "name": "서울바이오시스",
+    "title": "서울바이오시스(092190) MicroLED, 디스플레이를 넘어 데이터통신으로",
+    "broker": "한국IR협의회",
+    "date": "2026-08-31",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:652012": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "DB손해보험(005830) Value up 2.0: 배당 추정치 상향과 가시성 확보",
+    "broker": "한화투자증권",
+    "date": "2026-08-31",
+    "target_price": null,
+    "listed_target_price": 260000,
+    "source": "hankyung"
+  },
+  "hk:652000": {
+    "code": "207940",
+    "name": "삼성바이오로직스",
+    "title": "삼성바이오로직스(207940) 3조원 유상증자, 중장기 투자계획을 고려한 자금조달",
+    "broker": "대신증권",
+    "date": "2026-08-31",
+    "target_price": null,
+    "listed_target_price": 2000000,
+    "source": "hankyung"
   }
 }
