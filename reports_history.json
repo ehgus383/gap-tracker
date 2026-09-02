@@ -49025,5 +49025,154 @@
     "target_price": null,
     "listed_target_price": 180000,
     "source": "hankyung"
+  },
+  "95979": {
+    "code": "125020",
+    "name": "티씨머티리얼즈",
+    "title": "증설로 도약할 변압기 수혜주",
+    "broker": "DS투자증권",
+    "date": "26.09.02",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95978": {
+    "code": "218410",
+    "name": "RFHIC",
+    "title": "곧 2차 급등할 가능성이 높습니다",
+    "broker": "하나증권",
+    "date": "26.09.02",
+    "target_price": 150000,
+    "source": "naver"
+  },
+  "95977": {
+    "code": "089860",
+    "name": "롯데렌탈",
+    "title": "배당을 많이 할 것 같아요",
+    "broker": "하나증권",
+    "date": "26.09.02",
+    "target_price": 57000,
+    "source": "naver"
+  },
+  "95976": {
+    "code": "033530",
+    "name": "SJG세종",
+    "title": "P/E 2배 이하, 주가 재평가의 열쇠는 전동화 ..",
+    "broker": "하나증권",
+    "date": "26.09.02",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95975": {
+    "code": "009150",
+    "name": "삼성전기",
+    "title": "MLCC 수주 공시 코멘트: 플랫폼 단위로 확대..",
+    "broker": "iM증권",
+    "date": "26.09.02",
+    "target_price": 2000000,
+    "source": "naver"
+  },
+  "95974": {
+    "code": "009150",
+    "name": "삼성전기",
+    "title": "MLCC 대규모 수주 공시",
+    "broker": "IBK투자증권",
+    "date": "26.09.02",
+    "target_price": 1750000,
+    "source": "naver"
+  },
+  "95973": {
+    "code": "034830",
+    "name": "한국토지신탁",
+    "title": "상반기 보다 나을 하반기를 기대",
+    "broker": "신한투자증권",
+    "date": "26.09.02",
+    "target_price": 1800,
+    "source": "naver"
+  },
+  "95972": {
+    "code": "078340",
+    "name": "컴투스",
+    "title": "신작의 현실적 반영",
+    "broker": "키움증권",
+    "date": "26.09.02",
+    "target_price": 50000,
+    "source": "naver"
+  },
+  "95971": {
+    "code": "086790",
+    "name": "하나금융지주",
+    "title": "낮아진 환율, 높아질 실적",
+    "broker": "신한투자증권",
+    "date": "26.09.02",
+    "target_price": 160000,
+    "source": "naver"
+  },
+  "95970": {
+    "code": "027710",
+    "name": "팜스토리",
+    "title": "안정적인 영업 실적과 주주환원의 확대",
+    "broker": "한국IR협의회",
+    "date": "26.09.02",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95969": {
+    "code": "068760",
+    "name": "셀트리온제약",
+    "title": "모회사가 앞에서 끌고, 한국 정부가 뒤에서 ..",
+    "broker": "IBK투자증권",
+    "date": "26.09.02",
+    "target_price": 61000,
+    "source": "naver"
+  },
+  "hk:652090": {
+    "code": "009150",
+    "name": "삼성전기",
+    "title": "삼성전기(009150) MLCC 수주 공시 코멘트: 플랫폼 단위로 확대된 LTA",
+    "broker": "iM증권",
+    "date": "2026-09-02",
+    "target_price": null,
+    "listed_target_price": 2000000,
+    "source": "hankyung"
+  },
+  "hk:652077": {
+    "code": "192820",
+    "name": "코스맥스",
+    "title": "코스맥스(192820) 코스맥스이스트 중복상장 우려 해소",
+    "broker": "유안타증권",
+    "date": "2026-09-02",
+    "target_price": null,
+    "listed_target_price": 363000,
+    "source": "hankyung"
+  },
+  "hk:652073": {
+    "code": "027710",
+    "name": "팜스토리",
+    "title": "팜스토리(027710) 안정적인 영업 실적과 주주환원의 확대",
+    "broker": "한국IR협의회",
+    "date": "2026-09-02",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:652065": {
+    "code": "009150",
+    "name": "삼성전기",
+    "title": "삼성전기(009150) MLCC 수주 공시 코멘트: 문전성시",
+    "broker": "메리츠증권",
+    "date": "2026-09-02",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:652064": {
+    "code": "126340",
+    "name": "비나텍",
+    "title": "비나텍(126340) 지나간 악재, 더해지는 TAM",
+    "broker": "메리츠증권",
+    "date": "2026-09-02",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
   }
 }
