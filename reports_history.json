@@ -49340,5 +49340,244 @@
     "target_price": null,
     "listed_target_price": 450000,
     "source": "hankyung"
+  },
+  "96014": {
+    "code": "286940",
+    "name": "롯데이노베이트",
+    "title": "DBO 레퍼런스 확보, 수익성 개선, 남은 건 멀..",
+    "broker": "한화투자증권",
+    "date": "26.09.04",
+    "target_price": 30000,
+    "source": "naver"
+  },
+  "96013": {
+    "code": "028670",
+    "name": "팬오션",
+    "title": "High & Dry",
+    "broker": "대신증권",
+    "date": "26.09.04",
+    "target_price": 8000,
+    "source": "naver"
+  },
+  "96012": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "새로운 밸류업 정책으로 확대되는 배당총액",
+    "broker": "대신증권",
+    "date": "26.09.04",
+    "target_price": 250000,
+    "source": "naver"
+  },
+  "96011": {
+    "code": "082920",
+    "name": "비츠로셀",
+    "title": "Never Stop Rising",
+    "broker": "신한투자증권",
+    "date": "26.09.04",
+    "target_price": 45000,
+    "source": "naver"
+  },
+  "96010": {
+    "code": "473980",
+    "name": "노머스",
+    "title": "숫자로 증명하는 하반기",
+    "broker": "신한투자증권",
+    "date": "26.09.04",
+    "target_price": 16500,
+    "source": "naver"
+  },
+  "96009": {
+    "code": "265740",
+    "name": "엔에프씨",
+    "title": "화장품 ODM 고성장, 소재 턴어라운드 본격화",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96008": {
+    "code": "101160",
+    "name": "월덱스",
+    "title": "이익 성장과 주주환원이 그리는 밸류업",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96007": {
+    "code": "123330",
+    "name": "제닉",
+    "title": "탐방노트: 확인된 수요, 관건은 공급",
+    "broker": "IBK투자증권",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96006": {
+    "code": "067010",
+    "name": "이씨에스",
+    "title": "AI·클라우드 전환을 주도하는 엔터프라이즈 ..",
+    "broker": "NICE평가정보",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96005": {
+    "code": "016590",
+    "name": "신대양제지",
+    "title": "원지 전 지종 생산과 수직계열 공급망을 기반..",
+    "broker": "NICE평가정보",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96004": {
+    "code": "114190",
+    "name": "강원에너지",
+    "title": "2차전지 소재·공정기술과 플랜트 엔지니어링..",
+    "broker": "서울평가정보",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96003": {
+    "code": "373160",
+    "name": "데이원컴퍼니",
+    "title": "성인 온라인 교육 콘텐츠를 제작·유통하는 ..",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96002": {
+    "code": "049830",
+    "name": "승일",
+    "title": "[AI] 에어졸관·일반관을 OEM 생산하는 제관..",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96001": {
+    "code": "314140",
+    "name": "알피바이오",
+    "title": "[AI] 연질캡슐 기반 의약품·건기식 위탁생산..",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96000": {
+    "code": "476060",
+    "name": "온코닉테라퓨틱스",
+    "title": "[AI] P-CAB 신약과 표적항암제를 개발하는 기..",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95999": {
+    "code": "209640",
+    "name": "와이제이링크",
+    "title": "[AI] SMT 공정 스마트화 장비를 제조하는 기..",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95998": {
+    "code": "289930",
+    "name": "웨이비스",
+    "title": "[AI] GaN RF 반도체를 국산화한 방산 부품기..",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95997": {
+    "code": "950140",
+    "name": "잉글우드랩",
+    "title": "[AI] 미국 뉴저지 기반 기초화장품 ODM 기업",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95996": {
+    "code": "282880",
+    "name": "코윈테크",
+    "title": "[AI] AMR과 자동화시스템을 공급하는 기업",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95995": {
+    "code": "220100",
+    "name": "퓨쳐켐",
+    "title": "[AI] 전립선암 표적 방사성의약품 개발기업",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "95994": {
+    "code": "452450",
+    "name": "피아이이",
+    "title": "[AI] AI 비전 검사와 제조 지능화 솔루션 기..",
+    "broker": "한국IR협의회",
+    "date": "26.09.04",
+    "target_price": null,
+    "source": "naver"
+  },
+  "hk:652142": {
+    "code": "265740",
+    "name": "엔에프씨",
+    "title": "엔에프씨(265740) 화장품 ODM 고성장, 소재 턴어라운드 본격화",
+    "broker": "한국IR협의회",
+    "date": "2026-09-04",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:652137": {
+    "code": "286940",
+    "name": "롯데이노베이트",
+    "title": "롯데이노베이트(286940) DBO 레퍼런스 확보, 수익성 개선, 남은 건 멀티플 정상화",
+    "broker": "한화투자증권",
+    "date": "2026-09-04",
+    "target_price": null,
+    "listed_target_price": 30000,
+    "source": "hankyung"
+  },
+  "hk:652124": {
+    "code": "148150",
+    "name": "세경하이테크",
+    "title": "세경하이테크(148150) 실적 반등 시작, 모멘텀도 대기 중",
+    "broker": "메리츠증권",
+    "date": "2026-09-04",
+    "target_price": null,
+    "listed_target_price": 6500,
+    "source": "hankyung"
+  },
+  "hk:652123": {
+    "code": "028670",
+    "name": "팬오션",
+    "title": "팬오션(028670) High & Dry",
+    "broker": "대신증권",
+    "date": "2026-09-04",
+    "target_price": null,
+    "listed_target_price": 8000,
+    "source": "hankyung"
+  },
+  "hk:652122": {
+    "code": "005830",
+    "name": "DB손해보험",
+    "title": "DB손해보험(005830) 새로운 밸류업 정책으로 확대되는 배당총액",
+    "broker": "대신증권",
+    "date": "2026-09-04",
+    "target_price": null,
+    "listed_target_price": 250000,
+    "source": "hankyung"
   }
 }
