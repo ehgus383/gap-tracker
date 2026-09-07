@@ -49579,5 +49579,237 @@
     "target_price": null,
     "listed_target_price": 250000,
     "source": "hankyung"
+  },
+  "96032": {
+    "code": "031980",
+    "name": "피에스케이홀딩스",
+    "title": "홀딩스의 시간이 온다",
+    "broker": "DS투자증권",
+    "date": "26.09.07",
+    "target_price": 200000,
+    "source": "naver"
+  },
+  "96031": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "하이퍼와 호라이즌 투트랙",
+    "broker": "대신증권",
+    "date": "26.09.07",
+    "target_price": 110000,
+    "source": "naver"
+  },
+  "96030": {
+    "code": "006260",
+    "name": "LS",
+    "title": "내러티브가 실적으로 증명되기 시작!",
+    "broker": "대신증권",
+    "date": "26.09.07",
+    "target_price": 630000,
+    "source": "naver"
+  },
+  "96029": {
+    "code": "222040",
+    "name": "코스맥스엔비티",
+    "title": "[다시봐] 강점이 부각 & 확대되는 시기",
+    "broker": "유안타증권",
+    "date": "26.09.07",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96028": {
+    "code": "475830",
+    "name": "오름테라퓨틱",
+    "title": "예상보다 빠른 임상 진입, 재평가 시점도 앞..",
+    "broker": "미래에셋증권",
+    "date": "26.09.07",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96027": {
+    "code": "005930",
+    "name": "삼성전자",
+    "title": "HBM으로 매크로 우려 극복",
+    "broker": "미래에셋증권",
+    "date": "26.09.07",
+    "target_price": 400000,
+    "source": "naver"
+  },
+  "96026": {
+    "code": "090430",
+    "name": "아모레퍼시픽",
+    "title": "안정적인 실적 성장 궤도 진입",
+    "broker": "SK증권",
+    "date": "26.09.07",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "96025": {
+    "code": "000660",
+    "name": "SK하이닉스",
+    "title": "HBM 고객 다변화 본격화",
+    "broker": "미래에셋증권",
+    "date": "26.09.07",
+    "target_price": 3100000,
+    "source": "naver"
+  },
+  "96024": {
+    "code": "257720",
+    "name": "실리콘투",
+    "title": "벤더사 역할이 중요해지는 구간",
+    "broker": "SK증권",
+    "date": "26.09.07",
+    "target_price": 62000,
+    "source": "naver"
+  },
+  "96023": {
+    "code": "192820",
+    "name": "코스맥스",
+    "title": "On Track",
+    "broker": "SK증권",
+    "date": "26.09.07",
+    "target_price": 350000,
+    "source": "naver"
+  },
+  "96022": {
+    "code": "278470",
+    "name": "에이피알",
+    "title": "상대적인 밸류에이션 매력도 상승",
+    "broker": "SK증권",
+    "date": "26.09.07",
+    "target_price": 560000,
+    "source": "naver"
+  },
+  "96021": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "업황 강세에 글로벌 MNC 모멘텀까지",
+    "broker": "SK증권",
+    "date": "26.09.07",
+    "target_price": 180000,
+    "source": "naver"
+  },
+  "96020": {
+    "code": "290550",
+    "name": "디케이티",
+    "title": "휴머노이드 탈중국 공급망 구축의 수혜주",
+    "broker": "IBK투자증권",
+    "date": "26.09.07",
+    "target_price": 25000,
+    "source": "naver"
+  },
+  "96019": {
+    "code": "083450",
+    "name": "GST",
+    "title": "반도체 투자 확대로 사상 최대 실적 및 칠러 ..",
+    "broker": "iM증권",
+    "date": "26.09.07",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96018": {
+    "code": "003160",
+    "name": "디아이",
+    "title": "전방산업 투자 확대 ⇒ 올해 사상 최대 실적",
+    "broker": "iM증권",
+    "date": "26.09.07",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96017": {
+    "code": "125490",
+    "name": "한라캐스트",
+    "title": "휴머노이드 로봇부품 등으로 성장성 가속화",
+    "broker": "iM증권",
+    "date": "26.09.07",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96016": {
+    "code": "086820",
+    "name": "바이오솔루션",
+    "title": "연골재생치료, 이제 시작일지도 모른다",
+    "broker": "한국IR협의회",
+    "date": "26.09.07",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96015": {
+    "code": "237880",
+    "name": "클리오",
+    "title": "탐방노트: 북미 성장과 비효율 채널 정리 효..",
+    "broker": "IBK투자증권",
+    "date": "26.09.07",
+    "target_price": null,
+    "source": "naver"
+  },
+  "hk:652180": {
+    "code": "086820",
+    "name": "바이오솔루션",
+    "title": "바이오솔루션(086820) 연골재생치료, 이제 시작일지도 모른다",
+    "broker": "한국IR협의회",
+    "date": "2026-09-07",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:652169": {
+    "code": "090430",
+    "name": "아모레퍼시픽",
+    "title": "아모레퍼시픽(090430) 안정적인 실적 성장 궤도 진입",
+    "broker": "SK증권",
+    "date": "2026-09-07",
+    "target_price": null,
+    "listed_target_price": 180000,
+    "source": "hankyung"
+  },
+  "hk:652168": {
+    "code": "441270",
+    "name": "파인엠텍",
+    "title": "파인엠텍(441270) 에피타이저부터 만족, 메인디시 이제 시작",
+    "broker": "메리츠증권",
+    "date": "2026-09-07",
+    "target_price": null,
+    "listed_target_price": 13000,
+    "source": "hankyung"
+  },
+  "hk:652165": {
+    "code": "257720",
+    "name": "실리콘투",
+    "title": "실리콘투(257720) 벤더사 역할이 중요해지는 구간",
+    "broker": "SK증권",
+    "date": "2026-09-07",
+    "target_price": null,
+    "listed_target_price": 62000,
+    "source": "hankyung"
+  },
+  "hk:652162": {
+    "code": "192820",
+    "name": "코스맥스",
+    "title": "코스맥스(192820) On Track",
+    "broker": "SK증권",
+    "date": "2026-09-07",
+    "target_price": null,
+    "listed_target_price": 350000,
+    "source": "hankyung"
+  },
+  "hk:652161": {
+    "code": "278470",
+    "name": "에이피알",
+    "title": "에이피알(278470) 상대적 밸류에이션 매력도 상승",
+    "broker": "SK증권",
+    "date": "2026-09-07",
+    "target_price": null,
+    "listed_target_price": 560000,
+    "source": "hankyung"
+  },
+  "hk:652159": {
+    "code": "161890",
+    "name": "한국콜마",
+    "title": "한국콜마(161890) 업황 강세에 글로벌 MNC 모멘텀까지",
+    "broker": "SK증권",
+    "date": "2026-09-07",
+    "target_price": null,
+    "listed_target_price": 180000,
+    "source": "hankyung"
   }
 }
