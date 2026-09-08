@@ -49811,5 +49811,125 @@
     "target_price": null,
     "listed_target_price": 180000,
     "source": "hankyung"
+  },
+  "96043": {
+    "code": "081660",
+    "name": "미스토홀딩스",
+    "title": "연말 배당 시즌 앞두고 투자하기에 매우 좋은",
+    "broker": "대신증권",
+    "date": "26.09.08",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "96042": {
+    "code": "196170",
+    "name": "알테오젠",
+    "title": "이제 계약 보다 실적으로 봐야할 때",
+    "broker": "하나증권",
+    "date": "26.09.08",
+    "target_price": 450000,
+    "source": "naver"
+  },
+  "96041": {
+    "code": "004370",
+    "name": "농심",
+    "title": "연말까지 편안해 보인다",
+    "broker": "하나증권",
+    "date": "26.09.08",
+    "target_price": 540000,
+    "source": "naver"
+  },
+  "96039": {
+    "code": "094480",
+    "name": "갤럭시아머니트리",
+    "title": "준비된 자에게 찾아올 기회",
+    "broker": "유안타증권",
+    "date": "26.09.08",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96038": {
+    "code": "036890",
+    "name": "진성티이씨",
+    "title": "콥데이 후기: 계속될 성장세",
+    "broker": "신한투자증권",
+    "date": "26.09.08",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96037": {
+    "code": "004170",
+    "name": "신세계",
+    "title": "명동 본점이 쓸어 담는 외국인 인바운드 소비",
+    "broker": "iM증권",
+    "date": "26.09.08",
+    "target_price": 680000,
+    "source": "naver"
+  },
+  "96036": {
+    "code": "204620",
+    "name": "글로벌텍스프리",
+    "title": "국내 성장 지속, 이제는 해외 사업에 주목할 ..",
+    "broker": "SK증권",
+    "date": "26.09.08",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96035": {
+    "code": "023530",
+    "name": "롯데쇼핑",
+    "title": "연말로 갈수록 기대 요인이 늘어날 것",
+    "broker": "키움증권",
+    "date": "26.09.08",
+    "target_price": 190000,
+    "source": "naver"
+  },
+  "96034": {
+    "code": "170790",
+    "name": "파이오링크",
+    "title": "데이터센터용 네트워크 장비 및 보안 관제 관..",
+    "broker": "한국IR협의회",
+    "date": "26.09.08",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96033": {
+    "code": "035420",
+    "name": "NAVER",
+    "title": "아시아 유일 통합 AI 팩토리 사업자로의 부상",
+    "broker": "IBK투자증권",
+    "date": "26.09.08",
+    "target_price": 320000,
+    "source": "naver"
+  },
+  "hk:652194": {
+    "code": "004170",
+    "name": "신세계",
+    "title": "신세계(004170) 명동 본점이 쓸어 담는 외국인 인바운드 소비",
+    "broker": "iM증권",
+    "date": "2026-09-08",
+    "target_price": null,
+    "listed_target_price": 680000,
+    "source": "hankyung"
+  },
+  "hk:652192": {
+    "code": "015760",
+    "name": "한국전력",
+    "title": "한국전력(015760) 단기, 전쟁 상황 족쇄 vs 장기, 국내외 원전 + 국내 AI, 반도체",
+    "broker": "LS증권",
+    "date": "2026-09-08",
+    "target_price": null,
+    "listed_target_price": 48000,
+    "source": "hankyung"
+  },
+  "hk:652190": {
+    "code": "170790",
+    "name": "파이오링크",
+    "title": "파이오링크(170790) 데이터센터용 네트워크 장비 및 보안 관제 관련 강소기업",
+    "broker": "한국IR협의회",
+    "date": "2026-09-08",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
   }
 }
