@@ -49931,5 +49931,192 @@
     "target_price": null,
     "listed_target_price": null,
     "source": "hankyung"
+  },
+  "96056": {
+    "code": "012630",
+    "name": "HDC",
+    "title": "나의 계절이 왔다",
+    "broker": "한화투자증권",
+    "date": "26.09.09",
+    "target_price": 34000,
+    "source": "naver"
+  },
+  "96055": {
+    "code": "000990",
+    "name": "DB하이텍",
+    "title": "심상치 않은 분위기 (positive)",
+    "broker": "DS투자증권",
+    "date": "26.09.09",
+    "target_price": 210000,
+    "source": "naver"
+  },
+  "96054": {
+    "code": "017670",
+    "name": "SK텔레콤",
+    "title": "데이터센터 확장이 주주에게 호재인 이유",
+    "broker": "하나증권",
+    "date": "26.09.09",
+    "target_price": 140000,
+    "source": "naver"
+  },
+  "96053": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "3Q 실적 상향, 소캠2 매출은 예상 상회",
+    "broker": "대신증권",
+    "date": "26.09.09",
+    "target_price": 170000,
+    "source": "naver"
+  },
+  "96052": {
+    "code": "356860",
+    "name": "티엘비",
+    "title": "3Q실적 호조/소캠2 수혜, 숨은 강자~",
+    "broker": "대신증권",
+    "date": "26.09.09",
+    "target_price": 60000,
+    "source": "naver"
+  },
+  "96051": {
+    "code": "336260",
+    "name": "두산퓨얼셀",
+    "title": "PAFC, 미국진출 성공",
+    "broker": "SK증권",
+    "date": "26.09.09",
+    "target_price": 74000,
+    "source": "naver"
+  },
+  "96050": {
+    "code": "475830",
+    "name": "오름테라퓨틱",
+    "title": "오름차순: DAC로 빅파마 줄세우기",
+    "broker": "신한투자증권",
+    "date": "26.09.09",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96049": {
+    "code": "196170",
+    "name": "알테오젠",
+    "title": "노바티스 Del-desiran 가치 제외",
+    "broker": "신한투자증권",
+    "date": "26.09.09",
+    "target_price": 520000,
+    "source": "naver"
+  },
+  "96048": {
+    "code": "119850",
+    "name": "지엔씨에너지",
+    "title": "AI데이터센터 수주 1번 타자",
+    "broker": "IBK투자증권",
+    "date": "26.09.09",
+    "target_price": 70000,
+    "source": "naver"
+  },
+  "96047": {
+    "code": "000490",
+    "name": "대동",
+    "title": "농기계 제조에서 농업 AI 플랫폼기업으로 도..",
+    "broker": "한국IR협의회",
+    "date": "26.09.09",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96046": {
+    "code": "241770",
+    "name": "메카로",
+    "title": "Control the Heat, Lead the Chip",
+    "broker": "한국IR협의회",
+    "date": "26.09.09",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96045": {
+    "code": "126560",
+    "name": "현대퓨처넷",
+    "title": "주주환원 조기 이행, ROE 개선이 다음 단계",
+    "broker": "한국IR협의회",
+    "date": "26.09.09",
+    "target_price": null,
+    "source": "naver"
+  },
+  "96044": {
+    "code": "003490",
+    "name": "대한항공",
+    "title": "통합을 앞두고 나타난 원화 강세",
+    "broker": "미래에셋증권",
+    "date": "26.09.09",
+    "target_price": 37000,
+    "source": "naver"
+  },
+  "hk:652226": {
+    "code": "018260",
+    "name": "삼성에스디에스",
+    "title": "삼성에스디에스(018260) 내러티브에서 실행으로",
+    "broker": "LS증권",
+    "date": "2026-09-09",
+    "target_price": null,
+    "listed_target_price": 307000,
+    "source": "hankyung"
+  },
+  "hk:652225": {
+    "code": "241770",
+    "name": "메카로",
+    "title": "메카로(241770) Control the Heat, Lead the Chip",
+    "broker": "한국IR협의회",
+    "date": "2026-09-09",
+    "target_price": null,
+    "listed_target_price": null,
+    "source": "hankyung"
+  },
+  "hk:652224": {
+    "code": "012630",
+    "name": "HDC",
+    "title": "HDC(012630) 나의 계절이 왔다",
+    "broker": "한화투자증권",
+    "date": "2026-09-09",
+    "target_price": null,
+    "listed_target_price": 34000,
+    "source": "hankyung"
+  },
+  "hk:652219": {
+    "code": "095610",
+    "name": "테스",
+    "title": "테스(095610) 27년 성장성을 반영하는 우상향",
+    "broker": "메리츠증권",
+    "date": "2026-09-09",
+    "target_price": null,
+    "listed_target_price": 200000,
+    "source": "hankyung"
+  },
+  "hk:652210": {
+    "code": "336260",
+    "name": "두산퓨얼셀",
+    "title": "두산퓨얼셀(336260) PAFC, 미국진출 성공",
+    "broker": "SK증권",
+    "date": "2026-09-09",
+    "target_price": null,
+    "listed_target_price": 74000,
+    "source": "hankyung"
+  },
+  "hk:652209": {
+    "code": "222800",
+    "name": "심텍",
+    "title": "심텍(222800) 3Q 실적 상향, 소캠2 매출은 예상 상회",
+    "broker": "대신증권",
+    "date": "2026-09-09",
+    "target_price": null,
+    "listed_target_price": 170000,
+    "source": "hankyung"
+  },
+  "hk:652208": {
+    "code": "356860",
+    "name": "티엘비",
+    "title": "티엘비(356860) 3Q실적 호조/소캠2 수혜, 숨은 강자~",
+    "broker": "대신증권",
+    "date": "2026-09-09",
+    "target_price": null,
+    "listed_target_price": 60000,
+    "source": "hankyung"
   }
 }
